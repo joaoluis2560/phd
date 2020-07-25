@@ -1,0 +1,1871 @@
+Artigo Original
+
+Efeito das ações de promoção do aleitamento na duração da amamentação em duas filiações maternas
+The effect of breastfeeding promotion interventions on the duration of breastfeeding in two consecutive children
+Efecto de las acciones promocionales de la lactancia en la duración del amamantamiento en dos filiaciones maternas
+Danubia Kelen Ceron1, Fernanda de Oliveira Lazzaretti2, Ana Maria Bellani Migott3, Lorena Teresinha Consalter Geib4
+RESUMO
+Neste estudo, objetivou-se avaliar o efeito das ações de promoção do aleitamento na sua duração em duas filiações
+maternas. Trata-se de estudo transversal aninhado em corte de crianças nascidas em hospital que cumpre os “dez passos ao
+sucesso do aleitamento materno” em município do Rio Grande do Sul, cujos irmãos nascidos entre 1995-2007 constituíram
+grupo controle. Obtiveram-se dados de 334 crianças da amostra nas Declarações de Nascidos Vivos e entrevistas com as
+mães em duas etapas (2003 e 2007). Empregaram-se curvas de sobrevida de Kaplan-Meier e teste Qui-Quadrado para análise
+da duração do aleitamento, sua associação com variáveis maternas, assistenciais e da criança. Constatou-se duração mediana
+de sete meses nos dois grupos, com acentuado declínio nos primeiros doze meses. Doenças na gestação associaram-se ao
+desmame precoce. As ações de promoção do aleitamento não influenciaram a duração da amamentação em duas filiações,
+sugerindo a necessidade de revisão das estratégias empregadas.
+Descritores: Aleitamento Materno; Desmame; Políticas Públicas de Saúde; Análise de Sobrevida; Enfermagem MaternoInfantil.
+ABSTRACT
+The objective was to assess the effect of breastfeeding promotion on breastfeeding duration in two consecutive children.
+This cross-sectional study was performed with a cohort of children born in a hospital, in Rio Grande do Sul, that complies with
+the “ten steps for successful breastfeeding”, whose siblings were born between 1995-2007, comprising the control group.
+Data collection from the sample (334 children) was performed using the Live Birth Reports and interviewing mothers in two
+stages (2003 and 2007). Kaplan-Meier survival curves and chi-square test were used to analyze duration of breastfeeding and
+its association with maternal, healthcare and children’s variables. A median duration of seven months was identified for both
+groups, with a sharp decline in the first 12 months. An association was found between diseases during pregnancy and early
+weaning. Breastfeeding promotion did not affect its duration in two consecutive children, suggesting a need to review
+current strategies.
+Descriptors: Breast Feeding; Weaning; Health Public Policy; Survival Analysis; Maternal-Child Nursing.
+RESUMEN
+Se objetivó evaluar el efecto de acciones promocionales de lactancia en su duración en dos filiaciones maternas. Estudio
+transversal anidado en cohorte, con niños nacidos en hospital cumpliendo los “diez pasos para el amamantamiento materno
+exitoso” en municipio de Rio Grande do Sul, cuyos hermanos nacidos entre 1995-2007 constituyeron grupo control. Datos de
+los 334 niños de la muestra extraídos de Declaraciones de Nacidos Vivos y entrevistas con las madres en dos etapas (2003 y
+2007). Se utilizaron curvas de supervivencia de Kaplan-Meier y test Chi-cuadrado para análisis de período de lactancia y
+asociación con variables maternas, asistenciales y del niño. Se constató duración mediana de 7 meses en ambos grupos, con
+acentuada declinación en los primeros 12 meses. Las enfermedades en la gestación se asociaron al destete precoz. Las
+acciones promocionales de lactancia no influyeron en la duración del amamantamiento en dos filiaciones, sugiriéndose
+revisión de las estrategias empleadas.
+Descriptores: Lactancia Materna; Destete; Políticas Públicas de Salud; Análisis de Supervivencia; Enfermería Maternoinfantil.
+
+1
+
+Enfermeira. Passo Fundo, RS, Brasil. E-mail: danubiaceron@yahoo.com.br.
+Enfermeira. Passo Fundo, RS, Brasil. E-mail: fernanda.Lazzaretti@hotmail.com.
+3
+Enfermeira, Doutora em Clínica Médica. Professora, Universidade de Passo Fundo (UPF). Passo Fundo, RS, Brasil. E-mail: migott@upf.br.
+4
+Enfermeira, Doutora em Ciências da Saúde. Professora, Instituto de Ciências Biológicas, UPF. Passo Fundo, RS, Brasil. E-mail: lorena@upf.br.
+2
+
+Rev. Eletr. Enf. [Internet]. 2012 abr/jun;14(2):345-54. Available from: http://www.fen.ufg.br/revista/v14/n2/v14n2a15.htm.
+
+Ceron DK, Lazzaretti FO, Migott AMB, Geib LTC.
+
+346
+
+INTRODUÇÃO
+As
+
+práticas
+
+como fator de proteção ao aleitamento nos primeiros
+alimentares,
+
+especialmente
+
+nos
+
+meses de vida da criança(4).
+
+primeiros meses de vida, são consideradas cruciais para a
+
+Poucos estudos prospectivos desenvolvidos no Rio
+
+sobrevivência infantil. Ao aleitamento materno exclusivo
+
+Grande do Sul avaliaram os padrões de aleitamento
+
+até o sexto mês atribui-se o potencial de evitar 13% das
+
+materno em épocas diferentes. Dois desses avaliaram as
+
+mortes de menores de cinco anos em países em
+
+práticas alimentares nos primeiros seis meses de vida e
+
+desenvolvimento, da mesma forma que alimentos
+
+com grupos de mães diferentes. São desconhecidos
+
+complementares adequados podem evitar 6% dessas
+
+estudos
+
+mortes(1).
+
+Em vista disso, a partir de 1991 a Organização
+
+amamentaçao de mães que tiveram seus filhos antes e
+
+Mundial de Saúde (OMS) e o Fundo das Nações Unidas
+
+depois da implantação dos dez passos para o sucesso do
+
+para a Infância (UNICEF) têm se empenhado em
+
+aleitamento materno. Além disso, na maior parte dos
+
+intensificar as ações para aumentar a prevalência e a
+
+estudos a duração do aleitamento materno permanece
+
+duração do aleitamento materno exclusivo (AME) até o
+
+abaixo da recomendada pela OMS(6) e apresenta
+
+sexto mês de vida e assegurar um padrão alimentar
+
+diferenças
+
+saudável com manutenção da amamentação pelo menos
+
+metodologias empregadas para a sua avaliação.
+
+por 24 meses, com vistas à redução de morbidade
+infantil(2).
+
+que
+
+tenham
+
+importantes
+
+comparado
+
+entre
+
+as
+
+o
+
+padrão
+
+regiões
+
+e
+
+de
+
+as
+
+Em vista dessa diversidade, e da necessidade de
+
+Apesar dessa recomendação, em países
+
+preencher a lacuna do conhecimento com evidências
+
+desenvolvidos estima-se uma prevalência de 24 a 32% de
+
+consistentes, torna-se imprescindível avaliar se as ações
+
+crianças em AME até o sexto mês de vida, com valores
+
+locais desenvolvidas no contexto da IHAC contribuem
+
+inferiores nos países em
+
+desenvolvimento(3).
+
+No Brasil, a
+
+para o prolongamento do tempo de amamentação da
+
+II Pesquisa de Prevalência de Aleitamento Materno
+
+filiação exposta ou se o padrão de amamentação se
+
+realizada nas capitais brasileiras e Distrito Federal
+
+mantém entre as filiações, independentemente das
+
+aponta apenas 41% de AME em crianças menores de seis
+
+orientações recebidas na maternidade, o que exigiria dos
+
+meses. O estudo observou uma queda progressiva desse
+
+profissionais de saúde a reformulação nas práticas de
+
+indicador nos primeiros anos de vida da criança, com
+
+promoção e incentivo ao aleitamento materno. Sendo
+
+maior declínio a partir do quarto mês em todas as
+
+assim, espera-se oferecer subsídios para a certificação e
+
+regiões do
+
+país(4).
+
+regulação da IHAC em hospitais brasileiros. Para isso,
+
+O Brasil aderiu a esse esforço internacional lançando
+
+este estudo teve o objetivo de avaliar o impacto das
+
+a Iniciativa Hospital Amigo da Criança (IHAC) com os “Dez
+
+ações de promoção do aleitamento de um hospital de
+
+passos para o sucesso do aleitamento materno”. Esses
+
+ensino na duração da amamentação de duas filiações
+
+passos são predominantemente orientados para serviços
+
+maternas, em município do interior do Rio Grande do Sul
+
+hospitalares e envolvem políticas e compromissos
+
+(RS).
+
+institucionais, práticas profissionais e capacitação da
+nutriz para a procura de serviços pós-alta(5).
+
+METODOLOGIA
+
+Os estudos de impacto das ações desenvolvidas pela
+
+Este é um estudo transversal aninhado em coorte
+
+IHAC são escassos, com resultados nem sempre
+
+prospectiva de crianças nascidas vivas na zona urbana de
+
+consensuais(5). Investigações internacionais mostram
+
+um município do RS, entre fevereiro de 2003 e janeiro de
+
+resultados animadores após a titulação de Hospital
+
+2004. Na primeira etapa do estudo, a coorte foi
+
+Amigo da Criança com taxas de iniciação do aleitamento
+
+acompanhada aos dois e doze meses de vida da criança.
+
+materno superiores a 90% para a maioria dos países,
+
+Na segunda etapa, o acompanhamento foi realizado no
+
+diminuindo significativamente até os seis meses para
+
+período de fevereiro de 2007 a janeiro de 2008, quando
+
+(5)
+
+Na Inglaterra não foi
+
+as crianças completaram 48 meses. Foram incluídas no
+
+encontrada associação entre a exposição das ações
+
+estudo apenas as crianças nascidas na instituição
+
+realizadas em Hospital Amigo da Criança e o aleitamento
+
+hospitalar, que desde 2000 busca a titulação como
+
+materno no primeiro mês de vida(6).
+
+Hospital Amigo da Criança, cumprindo os “Dez passos
+
+taxas em torno de 25% .
+
+No Brasil, 6% das maternidades são tituladas. Apesar
+
+para o sucesso do aleitamento materno”(7). Trata-se de
+
+dessa baixa cobertura os resultados apontam a iniciativa
+
+um hospital de ensino de alta complexidade e referência
+
+Rev. Eletr. Enf. [Internet]. 2012 abr/jun;14(2):345-54. Available from: http://www.fen.ufg.br/revista/v14/n2/v14n2a15.htm.
+
+Ceron DK, Lazzaretti FO, Migott AMB, Geib LTC.
+
+347
+
+para uma região de dois milhões de habitantes, situado
+
+totalmente aleatória utilizando-se os números gerados
+
+num município com uma população estimada de 183.300
+
+pela planilha Excel. Desta forma, controlou-se a
+
+mil habitantes em
+
+2007(8).
+
+suscetibilidade ao viés de seleção.
+
+Foram excluídos os óbitos, os irmãos não biológicos
+
+O aleitamento materno (AM) foi definido como o
+
+(adotados), as crianças que mudaram para outros
+
+fato de a criança receber leite humano direto da mama
+
+municípios, aquelas com ausência de dados sobre a data
+
+ou ordenhado, independentemente de ser exclusivo,
+
+e/ou local de nascimento e quando a entrevista não era
+
+predominante ou complementado(9). A duração da
+
+respondida pela mãe biológica. As mães que hesitavam
+
+amamentação classificada como: 0,5-6, 7-11, 12-23, >24
+
+nas respostas e aquelas que admitiam não ter certeza ou
+
+meses foi a variável dependente e as variáveis
+
+que não lembravam do tempo de aleitamento foram
+
+independentes foram agrupadas em:
+
+excluídas para minimizar o viés recordatório. Em vista
+
+a)
+
+maternas ( escolaridade: < 8 anos, ≥ 8 anos; estado
+
+deste potencial viés, foram consideradas para a
+
+civil:
+
+prevalência da amamentação as crianças que se
+
+frequência a cultos religiosos: sim, não; idade ao
+
+alimentavam com leite materno, independentemente de
+
+parto: < 20 anos, ≥ 20 anos; intercorrências na
+
+receber outros líquidos ou alimentos sólidos ou semi-
+
+gestação: sim, não; consumo de tabaco na gestação:
+
+sólidos(9),
+
+sim, não);
+
+supondo-se ser mais fácil a mãe lembrar até
+
+quando amamentou, do que se lembrar da época de
+
+b)
+
+introdução de líquidos ou outros alimentos.
+
+com
+
+companheiro,
+
+sem
+
+companheiro;
+
+assistenciais (número de consultas pré-natais: ≤6
+consultas, >6 consultas; tipo de parto: cesáreo,
+
+O cálculo da amostra procurou detectar uma razão
+
+vaginal;
+
+de prevalência igual a dois, proporção de expostos de
+60%, erro alfa de 5%, poder de 90% e prevalência de
+
+serviço
+
+médico:
+
+público,
+
+particular/conveniado);
+c)
+
+relacionadas à criança (sexo: masculino, feminino;
+
+aleitamento materno até o sexto mês entre os não
+
+idade gestacional: < 37 semanas, ≥37 semanas;
+
+expostos de 20%. Isso resultou em um tamanho de
+
+escore de Apgar: < 7, ≥ 7; peso ao nascer: < 2500g , ≥
+
+amostra calculado de 291 crianças, sendo 97 no grupo
+
+2500g).
+
+não exposto e 194 no grupo exposto. Acrescentaram-se
+
+Os dados coletados foram codificados e digitados na
+
+10% para fatores de confusão e 1,2% para o "efeito do
+
+base de dados do software Statistical Package for the
+
+delineamento". A amostra mínima resultou em um total
+
+Social Sciences (SPSS) versão 15 e analisados com
+
+de 324 crianças com acréscimo de mais 10 para
+
+medidas descritivas e testes qui-quadrado e exato de
+
+compensar exclusões, totalizando 334 crianças.
+
+Fisher para as análises bivariadas. Para a duração do
+
+A coleta de dados foi realizada em duas etapas: a
+
+aleitamento materno utilizou-se a variável contínua
+
+primeira do nascimento aos 12 meses de idade da criança
+
+expressa em dias e as variáveis dicotômicas (prevalência
+
+e a segunda, quando as crianças da coorte completaram
+
+aos seis meses, 12 meses e 24 meses), utilizando-se o
+
+48 meses. As variáveis maternas, assistenciais e as
+
+teste de Kruskal-Wallis para verificar a diferença de
+
+relacionadas
+
+a)
+
+medianas. Para comparar os índices do aleitamento
+
+diretamente das Declarações de Nascidos Vivos do
+
+materno entre as duas filiações, foram feitas curvas de
+
+Sistema de Informações de Nascidos Vivos (SINASC)
+
+sobrevida de Kaplan-Meier, empregando-se teste de “log
+
+tanto
+
+rank” (Mantel-Cox) para calcular o nível de significância.
+
+para
+
+com
+
+as
+
+a
+
+criança
+
+crianças
+
+da
+
+foram
+
+coorte
+
+coletadas:
+
+(nascidas
+
+em
+
+2003/2004), quanto de seus irmãos (nascidos entre 1995
+
+Os entrevistadores foram capacitados por meio de
+
+e 2007); b) por meio de entrevistas estruturadas com
+
+treinamento
+
+utilização de questionário padronizado, realizadas nos
+
+abordagem, acolhimento e aleitamento materno. Todos
+
+domicílios com as mães das crianças e agregadas ao
+
+receberam o Manual do Entrevistador contendo as
+
+banco de dados da coorte original. Para todas as crianças
+
+instruções fornecidas no treinamento. O controle de
+
+as variáveis relacionadas ao aleitamento materno foram
+
+qualidade foi realizado por meio de checagem aleatória
+
+obtidas na segunda etapa, quando as crianças da coorte
+
+de 5% das entrevistas.
+
+completaram 48 meses.
+
+que
+
+incluiu
+
+técnicas
+
+de
+
+entrevista,
+
+O projeto de pesquisa foi submetido e aprovado
+
+A seleção da amostra que compôs o grupo exposto
+
+pelo Comitê de Ética da UPF (processo nº 042/2009 –
+
+às ações de promoção do aleitamento materno foi
+
+CAAE nº 0023.0.398.000-09), com desenvolvimento
+
+Rev. Eletr. Enf. [Internet]. 2012 abr/jun;14(2):345-54. Available from: http://www.fen.ufg.br/revista/v14/n2/v14n2a15.htm.
+
+Ceron DK, Lazzaretti FO, Migott AMB, Geib LTC.
+
+348
+
+autorizado pela Secretaria de Saúde do município onde
+
+A duração média de amamentação das crianças
+
+foi desenvolvido. Todas as participantes assinaram o
+
+nascidas antes da implantação das ações de promoção
+
+Termo de Consentimento Livre e Esclarecido. No caso
+
+do aleitamento materno foi de 12,4 meses (IC95%: 9,9-
+
+das menores de idade, os pais ou responsáveis também
+
+14,9; DP: 12,2), muito próxima da duração após a
+
+formalizaram o consentimento.
+
+implantação dessas ações, que foi de 12,1 meses (IC:
+95%: 10,5-13,7; DP: 11,40). A variação foi de 0,5 a 48
+
+RESULTADOS
+
+meses no primeiro caso e de 0,20 a 54 meses no
+
+Das 334 crianças que compuseram a amostra deste
+estudo,
+
+50,6%
+
+eram
+
+do
+
+sexo
+
+masculino,
+
+predominantemente nascidas a termo (87,7%), com
+
+segundo,
+
+com
+
+uma
+
+distribuição
+
+assimétrica
+
+(Kolmogorov-Smirnov – p< 0, 001). A diferença entre as
+médias não foi significativa (p=0,849).
+
+escore de Apgar ≥ 7 (93,7%). O peso médio ao nascer foi
+
+A mediana foi de sete meses nos dois grupos
+
+de 3036,31 gramas (DP: 480,87) com valor mínimo de
+
+(Kruskal-Wallis = 0,981). Para o cálculo da mediana foram
+
+1585 gramas e máximo de 4605 gramas. O serviço
+
+incluídas
+
+público de saúde era utilizado por 75% dessas crianças.
+
+amamentadas alguma vez, independentemente de
+
+Quanto às suas mães, a maior parte tinha escolaridade
+
+estarem ou não sendo amamentadas por ocasião da
+
+superior a oito anos, frequentava encontros religiosos,
+
+coleta de dados. Excluíram-se do cálculo as crianças que
+
+declarou viver com companheiro, realizou mais de seis
+
+nunca foram amamentadas.
+
+apenas
+
+as
+
+crianças
+
+que
+
+haviam
+
+sido
+
+consultas pré-natais, não apresentou intercorrências
+
+Em relação à duração da amamentação, como se
+
+durante a gestação e não usou tabaco. Para 55% o parto
+
+pode observar no Gráfico 1, a maior parte das mães,
+
+foi vaginal. As idades ao parto variaram de 14 a 44 anos
+
+independentemente
+
+(média: 24,54; DP: 7,11), sendo que 28,4% eram
+
+amamentou até os seis meses com um declínio
+
+adolescentes e 11,4% tinham 35 anos ou mais.
+
+progressivo
+
+até
+
+das
+
+ações
+
+aproximadamente
+
+de
+os
+
+promoção,
+15
+
+meses,
+
+A prevalência do aleitamento foi similar antes
+
+estabilizando-se a partir daí. A diferença entre as curvas
+
+(87,2%) e depois (91%) da implantação das ações de
+
+de sobrevida, avaliada pelo teste de Log Rank (Mantel-
+
+promoção (p=0, 481).
+
+Cox) não teve significância (p=0.978).
+
+Gráfico 1: Curva de sobrevida do aleitamento materno em filiação anterior e
+posterior às ações de promoção. Passo Fundo, RS, 2008.
+
+Survival Functions
+impacto do am
+
+crianças em aleitamento
+
+1,0
+
+antes
+depois
+antes-censored
+depois-censored
+
+0,8
+
+0,6
+
+0,4
+
+0,2
+
+0,0
+0
+
+10
+
+20
+
+30
+
+40
+
+50
+
+60
+
+tempo de aleitamento materno (meses)
+
+Rev. Eletr. Enf. [Internet]. 2012 abr/jun;14(2):345-54. Available from: http://www.fen.ufg.br/revista/v14/n2/v14n2a15.htm.
+
+Ceron DK, Lazzaretti FO, Migott AMB, Geib LTC.
+
+349
+
+Nas Tabelas 1 a 3 apresentam-se as análises
+
+gestação mostraram-se relacionadas à interrupção
+
+bivariadas dos fatores associados à interrupção do
+
+precoce da amamentação (RP: 1,63 (IC95%: 1,05-2,52).
+
+aleitamento materno nos primeiros seis meses de vida
+
+Nenhum fator materno, assistencial ou relacionado à
+
+da criança, aos 12 meses e após os 24 meses. Como se
+
+criança mostrou-se associado aos desmames ocorridos
+
+pode observar, apenas as intercorrências de saúde na
+
+aos 12 meses ou após 24 meses.
+
+Tabela 1: Análise bivariada dos fatores maternos, assistenciais e da criança associados à interrupção do aleitamento
+materno antes dos seis meses de vida. Passo Fundo, RS, 2008.
+Duração do aleitamento materno
+Variáveis
+≥ 6meses
+< 6 meses
+RP** (IC95%)***
+P
+n (%)
+n (%)
+Maternas
+Escolaridade
+< 8 anos
+86 (54,8)
+71 (45,2)
+0,79 (0,51-1,22)
+0,349
+≥ 8 anos
+107 (60,5)
+70 (39,5)
+Estado civil
+Sem companheiro
+30 (58,8)
+21 (41,2)
+1,04 (0,57-1,90)
+0,973
+Com companheiro
+161 (59,9)
+117 (42,1)
+Frequência a cultos religiosos
+Não
+2 (100,0)
+0 (0,0)
+0,621
+Sim
+191 (57,5)
+141(42,5)
+1,09 (0,69-1,72)
+Idade ao parto
+< 20 anos
+68 (59,1)
+47 (40,9)
+0,61 (0,40-0,95)
+0,807
+≥ 20 anos
+125 (57,1)
+94 (42,9)
+Intercorrências na gestação
+Não
+111 (63,4)
+64 (36,6)
+1,63 (1,05-2,52)
+0,04*
+Sim
+82 (51,6)
+77 (48,4)
+Assistenciais
+Número de consultas pré-natais
+≤6 consultas
+106 (57,9)
+77 (42,1)
+1,00 (0,64-1,54)
+0,922
+>6 consultas
+87 (58,0)
+63 (42,0)
+Tipo de parto
+Cesariana
+100 (54,3)
+84 (45,7)
+0,72 (0,47-1,13)
+0,186
+Vaginal
+92 (62,8)
+56 (37,8)
+Serviço médico
+Público
+144(57,6)
+106 (42,4)
+0,97 (0,59-1,60)
+0,992
+Privado / conveniado
+49 (58,3)
+35 (41,7)
+Relacionadas à criança
+Sexo
+Masculino
+96 (56,8)
+73 (43,2)
+0,92 (0,60-1,420
+0,798
+Feminino
+97 (58,8)
+68 (45,2)
+Idade gestacional
+< 37 semanas
+17 (48,6)
+18 (51,1)
+0,66 90,33-1,33)
+0,318
+≥37 semanas
+174 (59,0)
+121 (41,0)
+Peso ao nascer
+< 2500 g
+20 (47,6)
+22 (52,4)
+0,62 (0,32-1,190
+0,203
+≥ 2500 g
+171 (59,4)
+117 (40,6)
+Escore de Apgar
+<7
+7 (77,7)
+2 (22,2)
+2,59 (0,53-12,65)
+0,383
+≥7
+180 (57,5)
+133 (42,5)
+* significância estatística ** Razão de prevalência
+
+*** Intervalo de Confiança.
+
+Rev. Eletr. Enf. [Internet]. 2012 abr/jun;14(2):345-54. Available from: http://www.fen.ufg.br/revista/v14/n2/v14n2a15.htm.
+
+Ceron DK, Lazzaretti FO, Migott AMB, Geib LTC.
+
+350
+
+Tabela 2: Análise bivariada dos fatores maternos, assistenciais e da criança associados à interrupção do aleitamento
+materno antes dos 12 meses de vida. Passo Fundo, RS, 2008.
+Duração do aleitamento materno
+Variáveis
+≥ 12 meses
+< 12 meses
+RP (IC95%)
+P
+n (%)
+n (%)
+Maternas
+Escolaridade
+< 8 anos
+66 (42,0)
+91 (58,0)
+1,14 (0,73-1,76)
+0,648
+≥ 8 anos
+69 (39,0)
+108 (61,0)
+Estado civil
+Sem companheiro
+20 (39,2)
+31 (60,8)
+0,94 (0,51-1,73)
+0,971
+Com companheiro
+113 (40,6)
+165 (59,4)
+Frequência a cultos religiosos
+Não
+0 (0,0)
+2 (100,0)
+0,656
+Sim
+135 (40,7)
+197 (59,3)
+Idade ao parto
+< 20 anos
+48(41,7)
+67 (58,3)
+1,09 (0,69-1,72)
+0,811
+≥ 20 anos
+87 (39,7)
+132 (60,3)
+Intercorrências na gestação
+Sim
+75 (42,9)
+100 (57,1)
+1,12 (0,72-1,75)
+0.683
+Não
+60 (37,7)
+99 (62,3)
+Consumo de tabaco na gestação
+Sim
+24 (36,9)
+41 (63,1)
+0,83 (0,48-1,46)
+0,618
+Não
+111 (41,3)
+158 (58,7)
+Assistenciais
+Número de consultas pré-natais
+≤6 consultas
+75 (41,0)
+108 (59,0)
+1,04 (0,67-1,62)
+0.944
+>6 consultas
+60 (40,0)
+90 (60,0)
+Tipo de parto
+Cesariana
+62 (41,9)
+86 (58,1)
+0,89 (0,57-1,39)
+0,691
+Vaginal
+72(39,1)
+112 (60,9)
+Serviço médico
+Público
+104 (41,6)
+146 (58,4)
+1,22 (0,73-2,03)
+0,529
+Privado / conveniado
+31 (36,9)
+53 (63,1)
+Relacionadas à criança
+Sexo
+Masculino
+67 (39,6)
+102 (60,4)
+0,94 90,60-1,45)
+0,857
+Feminino
+68 (41,2)
+97 (58,8)
+Idade gestacional
+< 37 semanas
+13 (37,1)
+22 (62,9)
+0,85 (0,41-1,75)
+0,795
+≥37 semanas
+121 (41,0)
+174 (59,0)
+Peso ao nascer
+< 2500 g
+14 (33,3)
+28 (66,7)
+0,70 (0,35-1,39)
+0,390
+≥ 2500 g
+120 (41,7)
+168 (58,3)
+Escore de Apgar
+<7
+5 (55,6)
+4 (44,4)
+1,86 (0,49-7,04)
+0,564
+≥7
+126 (40,3)
+187 (59,7)
+
+Rev. Eletr. Enf. [Internet]. 2012 abr/jun;14(2):345-54. Available from: http://www.fen.ufg.br/revista/v14/n2/v14n2a15.htm.
+
+Ceron DK, Lazzaretti FO, Migott AMB, Geib LTC.
+
+351
+
+Tabela 3: Análise bivariada dos fatores maternos, assistenciais e da criança associados à interrupção do aleitamento
+materno antes dos 24 meses de vida. Passo Fundo, RS, 2008.
+Duração do aleitamento materno
+Variáveis
+≥ 24 meses
+< 24 meses
+RP (IC95%)
+P
+n (%)
+n (%)
+Maternas
+Escolaridade
+< 8 anos
+41 (26,1)
+116 (73,9)
+0,71 (0,47-1,28)
+0,385
+≥ 8 anos
+38 (21,5)
+139 (78,5)
+Estado civil
+Sem companheiro
+10 (19,6)
+41 (80,4)
+1,33 (0,63-2,79)
+0,569
+Com companheiro
+68 (24,5)
+210 (75,5)
+Frequência a cultos religiosos
+Não
+0 (0,0)
+2 (100,0)
+1,000
+Sim
+79 (23,8)
+253 (76,2)
+Idade ao parto
+< 20 anos
+31(27,0)
+84 (73,0)
+0,76 (0,45-1,28)
+0,371
+≥ 20 anos
+48 (21,9)
+171 (78,1)
+Intercorrências na gestação
+Sim
+36 (22,6)
+123 (77,4)
+1,11 90,67-1,85)
+0,775
+Não
+43 (24,6)
+132 (75,4)
+Consumo de tabaco na gestação
+Sim
+14 (21,5)
+51 (78,5)
+1,16 (0,60-2,23)
+0,776
+Não
+65 (24,2)
+204 (75,8)
+Assistenciais
+Número de consultas pré-natais
+≤6 consultas
+48 (26,2)
+135 (73,8)
+0,73 (0,44-1,23)
+0,290
+>6 consultas
+31 (20,7)
+119 (79,3)
+Tipo de parto
+Cesariana
+33 (22,3)
+115 (77,7)
+0,89 (0,53-1,48)
+0,741
+Vaginal
+45(24,5)
+139 (75,5)
+Serviço médico
+Público
+63 (25,2)
+187 (74,8)
+0,70 (0,38-1,29)
+0,317
+Privado / conveniado
+16 (19,0)
+68 (81,0)
+Relacionadas à criança
+Sexo
+Masculino
+40 (23,7)
+129 (76,3)
+1,00 90,60-1,65)
+1,000
+Feminino
+39 (23,6)
+126 (76,4)
+Idade gestacional
+< 37 semanas
+12 (34,3)
+23 (65,7)
+0,55 (0,26-1,17)
+0,174
+≥37 semanas
+66 (22,4)
+229 (77,6)
+Peso ao nascer
+< 2500 g
+8 (19,0)
+34 (81,0)
+1,39 (0,62-3,14)
+0,547
+≥ 2500 g
+71 (24,7)
+217 (75,3)
+Escore de Apgar
+<7
+4 (44,4)
+5 (55,6)
+0,39 (0,10-1,48)
+0,228
+≥7
+74 (23,6)
+239 (76,4)
+DISCUSSÃO
+
+retrospectivas, apesar das medidas tomadas para a
+
+Este estudo de corte transversal avaliou o efeito das
+
+minimização do mesmo.
+
+ações de promoção do aleitamento materno na duração
+
+Diferentemente do que se poderia esperar, não
+
+da amamentação em duas filiações da mesma mãe.
+
+houve diferença na prevalência e na duração da
+
+Considerando que as informações foram coletadas a
+
+amamentação entre as crianças nascidas antes e depois
+
+partir do recordatório materno e para intervalos de
+
+da implantação das ações de promoção do aleitamento
+
+tempo diferentes não se descarta o viés de memória,
+
+materno na maternidade onde as crianças avaliadas
+
+comum
+
+nasceram. A pressuposição de que a participação da
+
+nos
+
+estudos
+
+que
+
+obtêm
+
+informações
+
+Rev. Eletr. Enf. [Internet]. 2012 abr/jun;14(2):345-54. Available from: http://www.fen.ufg.br/revista/v14/n2/v14n2a15.htm.
+
+Ceron DK, Lazzaretti FO, Migott AMB, Geib LTC.
+
+352
+
+nutriz em programa de incentivo a tornaria mais
+
+que se expressa nas curvas de sobrevida. Nelas podemos
+
+predisposta a amamentar, não encontrou sustentação
+
+observar que o tempo de aleitamento independe das
+
+nos
+
+posição
+
+orientações recebidas na maternidade, uma vez que as
+
+discretamente inferior à constatada na maior parte dos
+
+índices
+
+obtidos
+
+e
+
+situa-se
+
+numa
+
+duas curvas seguem o mesmo traçado. Portanto, neste
+
+países desenvolvidos(5). Mesmo assim, se analisarmos
+
+estudo, não houve evidência de que as ações de
+
+apenas a taxa de iniciação de 91%, é possível considerar
+
+promoção do aleitamento materno desenvolvidas na
+
+adequadas as intervenções dos profissionais de saúde no
+
+maternidade tenham contribuído para aumentar a
+
+período do estabelecimento da lactação, que ocorre
+
+prevalência e a duração da amamentação na filiação
+
+durante a internação na maternidade, quando o apoio da
+
+exposta.
+
+enfermeira é crucial para ajudar as nutrizes nas
+
+Diante
+
+dessa
+
+realidade,
+
+aprofundamento
+
+determinantes distais, intermediários e proximais que
+
+início
+
+precoce
+
+da
+
+amamentação(5).
+
+com
+
+um
+
+no
+
+do
+
+estudo
+
+conveniente
+
+dificuldades identificadas, no manejo do recém-nascido e
+estabelecimento
+
+do
+
+é
+
+análise
+
+dos
+
+impactam na duração do aleitamento materno. Entre os
+
+O desafio para os gestores, profissionais e usuários
+
+primeiros inserem-se as características pessoais, sociais,
+
+do sistema de saúde continua sendo a manutenção do
+
+econômicas,
+
+políticas
+
+aleitamento materno, especialmente nos seis meses
+
+características
+
+iniciais de vida da criança, uma vez que no Brasil, a
+
+mostraram
+
+e
+
+culturais.
+
+investigadas
+
+associadas
+
+com
+
+neste
+o
+
+Algumas
+estudo
+
+das
+
+não
+
+se
+
+prolongamento
+
+da
+
+autores(13-14)
+
+prevalência do AME encontrada para essa faixa etária
+
+amamentação, como constatado por outros
+
+assemelha-se
+
+em
+
+em que a idade mais avançada influenciou o início e a
+
+desenvolvimento com prevalência de 36% antes dos seis
+
+manutenção do aleitamento materno. No tocante à
+
+meses, menor do que 60% entre seis a nove meses e
+
+escolaridade e ao estado civil também não se constatou
+
+inferior a 50% para as crianças com dois anos de
+
+influência sobre o desfecho. Em países desenvolvidos, foi
+
+idade(10).
+
+observado que as mães com maior escolaridade tendem
+
+ao
+
+encontrado
+
+no
+
+mundo
+
+a
+
+a amamentar por mais tempo(15). Da mesma forma, viver
+
+implantação das ações previstas na IHAC mamaram por
+
+com companheiro, tido como protetor na prevalência de
+
+um período um pouco maior em relação às nascidas
+
+AM(15) aqui não mostrou associação significativa. Outro
+
+antes desse evento. No entanto, a duração mediana de
+
+fator de proteção observado em mães com aleitamento
+
+manutenção do aleitamento materno nos dois grupos foi
+
+materno prolongado (dois
+
+de sete meses, bastante aquém dos 24 meses
+
+permanência da mãe em casa com a criança nos
+
+preconizados pela Organização Mundial da Saúde e
+
+primeiros seis meses de vida(10). No entanto, por serem
+
+inferior também à estimativa de duração mediana do
+
+fatores modificáveis são suscetíveis de variabilidade
+
+aleitamento materno em crianças menores de 12 meses
+
+entre países e regiões, devendo ser interpretados com a
+
+Neste
+
+estudo,
+
+as
+
+crianças
+
+nas capitais brasileiras (11,2
+
+nascidas
+
+meses)(4).
+
+após
+
+Ao se considerar
+
+anos
+
+ou
+
+mais)
+
+foi a
+
+devida cautela.
+
+apenas o grupo de crianças amamentadas até os 12
+
+As atitudes e comportamentos maternos são
+
+meses de idade, a mediana cai para cinco meses, ficando,
+
+passíveis de influência por parte de familiares, redes
+
+assim, abaixo da estimada para a Região Sul (9,9
+
+sociais e profissionais e seus efeitos podem prolongar-se
+
+meses)(4). A idade mediana variou pouco em relação à
+
+por gerações. Esses fatores também são considerados
+
+verificada em Itupeva(11), de 7,2 meses e de seis meses
+
+determinantes distais do aleitamento materno(5).
+
+constatada na cidade do
+
+Porto/PT(12).
+
+Esse padrão
+
+A atitude materna ocupa uma das principais posições
+
+alimentar parece refletir o esforço materno em manter o
+
+entre os fatores que afetam um aleitamento bem
+
+aleitamento pelo menos até os seis meses de idade,
+
+sucedido. A mulher que está convicta da superioridade
+
+ainda que complementado, não efetivando a orientação
+
+do aleitamento materno como alimento para o seu filho
+
+preconizada pela OMS e Ministério da Saúde de estender
+
+tende a amamentá-lo quando recebe apoio e orientação.
+
+essa prática até os dois anos de vida da criança. Para
+
+Algumas,
+
+atingir as recomendações desses organismos, novas
+
+encorajamento para manter essa prática e as pessoas
+
+estratégias devem ser pensadas, especialmente se
+
+com quem convive e interage geralmente são aquelas
+
+considerarmos o padrão alimentar adotado pela mãe, e
+
+que mais a influenciam. Isto ajuda a entender o padrão
+
+entretanto,
+
+necessitam
+
+Rev. Eletr. Enf. [Internet]. 2012 abr/jun;14(2):345-54. Available from: http://www.fen.ufg.br/revista/v14/n2/v14n2a15.htm.
+
+de
+
+maior
+
+Ceron DK, Lazzaretti FO, Migott AMB, Geib LTC.
+
+353
+
+de comportamento das mães estudadas. É possível
+
+social que a mãe recebe. Nessa linha de determinação
+
+também que a ênfase na manutenção do aleitamento
+
+intermediária se concentram as ações de proteção,
+
+materno exclusivo até o sexto mês de vida da criança
+
+promoção e apoio que integram os “Dez passos para o
+
+tenha sido tomada pelas mães como o período suficiente
+
+sucesso do aleitamento materno”. É esperado que essas
+
+de amamentação.
+
+ações repercutam sobre as escolhas maternas e as
+
+A
+
+queda
+
+abrupta
+
+das
+
+taxas
+
+de
+
+aleitamento
+
+observadas nos primeiros 15 meses de vida da criança
+
+oportunidades para agir sobre elas, determinando os
+comportamentos alimentares da criança.
+
+sinaliza esse período como um momento potencialmente
+
+Ainda que outros fatores possam interferir na
+
+crítico para a continuidade da amamentação. Para fazer
+
+decisão de continuar amamentando, os resultados
+
+frente
+
+sido
+
+obtidos apóiam a hipótese de que as mães que
+
+desenvolvidas nos últimos 25 anos por organismos
+
+amamentaram por mais tempo em filiação anterior,
+
+nacionais e internacionais(7,16), entre as quais se incluem
+
+amamentarão por um período maior seus próximos
+
+a Iniciativa Hospital Amigo da Criança e a Rede
+
+filhos. Por outro lado, aquelas que desmamaram
+
+Amamenta Brasil. Esta última direcionada à promoção,
+
+precocemente, tendem a repetir essa conduta.
+
+a
+
+isso,
+
+inúmeras
+
+estratégias
+
+têm
+
+proteção e apoio à prática do aleitamento materno na
+
+Na
+
+amostra
+
+estudada,
+
+parece
+
+um
+
+comportamento
+
+ao desmame precoce, favorecendo o prolongamento da
+
+fornecidas
+
+amamentação. Maior cuidado é requerido a partir do 6º
+
+especialmente aos “Dez passos para o sucesso do
+
+mês quando começa o período de menor concentração
+
+aleitamento materno” estabelecidos na declaração
+
+de consultas de rotina. Nessa fase, com o distanciamento
+
+conjunta OMS e UNICEF, em estabelecimentos que
+
+das ações profissionais, - incluindo orientação sobre
+
+ofereçam serviços de maternidade. As mães com
+
+práticas alimentares infantis que asseguram o consumo
+
+experiências em aleitamento deverão ser escutadas para
+
+de
+
+nutricionalmente
+
+reforço às boas práticas ou, quando for o caso, para
+
+adequados e seguros, a criança poderá ficar mais
+
+intervenção precoce nos problemas ou crenças que
+
+vulnerável à interrupção do aleitamento, como ficou
+
+interferem com o prolongamento da amamentação.
+
+complementares
+
+constatado neste estudo.
+
+durante
+
+suscetível
+
+ser
+
+Atenção Básica representa uma alternativa de reversão
+
+alimentos
+
+pouco
+
+este
+
+a
+
+às
+
+orientações
+
+permanência
+
+hospitalar,
+
+Este estudo aponta a necessidade de controle e
+
+Com relação às variáveis associadas à interrupção
+
+avaliação periódica das ações para assegurar a qualidade
+
+precoce do aleitamento materno, o fato de somente o
+
+e continuidade da promoção, apoio e proteção do
+
+relato de intercorrências na gestação ter apresentado
+
+aleitamento materno. Novas estratégias de abordagem e
+
+associação significativa com o desfecho, reforça a ideia
+
+esclarecimento das mães são necessárias para o alcance
+
+da determinação cultural da época de desmame, com
+
+da meta de aleitamento materno exclusivo até o 6º mês,
+
+exceção das mães que no decorrer da gestação tenham
+
+estabelecida pela Estratégia Global de Desenvolvimento
+
+relatado problemas de saúde. Para essas, os resultados
+
+para o Milênio da Organização das Nações Unidas.
+
+evidenciaram a determinação biológica do desmame
+
+Entre essas estratégias poderia ser expandida a
+
+precoce, independentemente do tipo de intercorrência
+
+participação das unidades básicas de saúde para
+
+relatada. A crença de que as doenças maternas podem
+
+antecipação e fortalecimento das orientações durante o
+
+prejudicar a qualidade do leite e causar doença na
+
+período pré-natal, como propõem o Ministério da Saúde
+
+criança tem sido apontada como um dos aspectos
+
+com a Rede Amamenta Brasil, evitando a avalanche de
+
+culturais que influenciam as práticas
+
+alimentares(17).
+
+A
+
+informações durante a estada da mãe na maternidade. É
+
+expressão desse tipo de preocupação durante a
+
+fundamental o monitoramento do aleitamento durante
+
+gestação poderia contribuir para o esclarecimento
+
+os seis primeiros meses de vida da criança, mas a duração
+
+necessário, aumentando a prevalência e duração da
+
+mediana verificada neste e em inúmeros outros estudos
+
+amamentação.
+
+no país aponta a necessidade de estender o tempo de
+monitoramento para além dos 12 meses de vida, com
+
+CONCLUSÃO
+O aleitamento materno é determinado pelas
+orientações sobre a alimentação da criança e pelo apoio
+
+intervenções
+
+efetivas
+
+para
+
+a
+
+continuidade
+
+da
+
+amamentação até os 24 meses e para o suprimento das
+necessidades
+
+nutricionais
+
+Rev. Eletr. Enf. [Internet]. 2012 abr/jun;14(2):345-54. Available from: http://www.fen.ufg.br/revista/v14/n2/v14n2a15.htm.
+
+pela
+
+alimentação
+
+Ceron DK, Lazzaretti FO, Migott AMB, Geib LTC.
+
+354
+
+complementar, como requisitos para um crescimento e
+
+hospitalares, poderá representar um redirecionamento
+
+desenvolvimento saudável.
+
+da atenção à saúde infantil, além de ser coadjuvante
+
+Essa assistência ambulatorial com a incorporação
+dos Dez Passos para o Sucesso do Aleitamento Materno,
+hoje
+
+bem
+
+estabelecida
+
+em
+
+algumas
+
+para a redução da mortalidade infantil, dentro das Metas
+de Desenvolvimento do Milênio.
+
+instituições
+
+REFERÊNCIAS
+1. The United Nations Children's Fund (UNICEF). Progress for
+Children: a world fit for children statistical review. New York, NY:
+UNICEF; 2007. [cited 2008 dec 12]. Available from:
+http://www.unicef.org/publications/files/Progress_for_Children_No
+_6_revised.pdf.
+2. Bernardi JR, Gama CM, Vitolo MR. Impacto de um programa de
+atualização em alimentação infantil em unidades de saúde na prática
+do aleitamento materno e na ocorrência de morbidade. Cad Saude
+Publica [Internet]. 2011 [cited 2012 jun 30];27(6):1213-22. Available
+from: http://dx.doi.org/10.1590/S0102-311X2011000600018.
+3. World Health Organization. Global health risks: mortality and
+burden of disease attributable to selected major risks. Geneva:
+World Health Organization; 2009.
+4. Ministério da Saúde. II pesquisa de prevalência de aleitamento
+materno nas capitais brasileiras e Distrito Federal. Brasília:
+Ministério da Saúde; 2008.
+5. Graça LCC, Figueiredo MCB, Conceição MTCC. Contributos da
+intervenção de enfermagem de cuidados de saúde primários para a
+promoção do aleitamento materno. Rev Lat Am Enfermagem
+[Internet]. 2011 [cited 2012 jun 30];19(2):429-36. Available from:
+http://dx.doi.org/10.1590/S0104-11692011000200027.
+6. Sampaio PF, Moraes CL, Reichenheim ME, Oliveira ASD, Lobato G.
+Nascer em Hospital Amigo da Criança no Rio de Janeiro, Brasil: um
+fator de proteção ao aleitamento materno? Cad Saude Publica
+[Internet]. 2011 [cited 2012 jun 30];27(7):1349-61. Available from:
+http://dx.doi.org/10.1590/S0102-311X2011000700010.
+7. Fundo das Nações Unidas para a Infância. Iniciativa Hospital
+Amigo da Criança: revista, atualizada e ampliada para o cuidado
+integrado. Módulo 2 - fortalecendo e sustentando a iniciativa
+hospital amigo da criança: um curso para gestores. Brasília:
+Ministério da Saúde; 2009
+8. Instituto Brasileiro de Geografia e Estatística [Internet]. Brasília:
+Ministério do Planejamento, Orçamento e Gestão (BR) [cited 2012
+jun 30]. Censos Demográficos. Available from:
+http://www.ibge.gov.br/home/estatistica/populacao/default_censo
+_2000.shtm.
+9. World Health Organization. Indicadores para evaluar las prácticas
+de alimentación del lactante y del niño pequeño: parte I –
+definiciones. Geneva: World Health Organization; 2009.
+10. Martins EJ. Fatores que facilitam ou dificultam o cumprimento
+da recomendação de aleitamento materno por dois anos ou mais:
+estudo de coorte [thesis]. Porto Alegre: Faculdade de
+Medicina/UFRGS; 2011.
+11. Fujimori E, Laurenti D, Montero RMJM, Borges ALV, Oliveira IMV.
+Duração do aleitamento materno em menores de dois anos de idade
+em Itupeva, São Paulo, Brasil: há diferenças entre os grupos sociais?
+Rev. Bras. Saude Mater. Infant. [Internet]. 2010 [cited 2012 jun
+30];10(1):39-49. Available from: http://dx.doi.org/10.1590/S151938292010000100004.
+12. Pereira MMS. Determinantes sociais na escolha do local do parto
+e na duração do aleitamento materno na Geração XXI. Porto:
+Instituto de Ciências Biomédicas Abel Salazar; 2010.
+13. Bolton TA, Chow T, Benton PA, Olson BH. Characteristics
+associated with longer breastfeeding duration: an analysis of a Peer
+Counseling Support Program. Hum Lact 2009;25(1):18-27.
+14. Tatone-Tokuda F, Dubois L, Girard M. Psychosocial determinants
+of the early introduction of complementary foods. Health Educ
+Behav. 2009;36(2):302-20.
+15. Pérez-Ríos N, Ramos-Valencia G, Ortiz AP. Cesarean delivery as a
+barrier for breastfeeding initiation: the Puerto Rican experience. J
+Hum Lact. 2008;24(3):293-302.
+
+16. Portal da Saúde [Internet]. Brasília: Ministério da Saúde (BR)
+[cited 2012 jun 30]. Promoção, Proteção e Apoio ao Aleitamento
+Materno. Available from:
+http://portal.saude.gov.br/portal/saude/cidadao/visualizar_texto.cf
+m?idtxt=26350.
+17. PNUD Brasil [Internet]. Brasília: Programa das Nações Unidas
+para o Desenvolvimento/Organização das Nações Unidas (BR) [cited
+2012 jun 30]. Available from: http://www.pnud.org.br/.
+
+Artigo recebido em 31/03/2010.
+Aprovado para publicação em 17/04/2012.
+Artigo publicado em 30/06/2012.
+
+Rev. Eletr. Enf. [Internet]. 2012 abr/jun;14(2):345-54. Available from: http://www.fen.ufg.br/revista/v14/n2/v14n2a15.htm.
+
+

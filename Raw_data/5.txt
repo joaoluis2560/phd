@@ -1,0 +1,612 @@
+Fisioterapia Brasil - Ano 2015 - Volume 16 - Número 3
+
+Revisão
+Gestação e câncer de mama: proposta
+de guia de orientações
+
+Pregnancy and breast cancer: proposal of recomendações
+Pâmella Cipriano*, Claudia de Oliveira, M.Sc.**
+*Discente do 9º semestre do curso de Fisioterapia da Universidade Santa Cecília (UNISANTA), Santos/SP,
+**Doutoranda, Departamento de Obstetrícia e Ginecologia da Universidade de São Paulo, Docente da UNISANTA, Santos/SP
+
+Resumo
+
+Abstract
+
+O câncer (CA) de mama é a neoplasia maligna que mais acomete
+as mulheres no Brasil. Todo CA de mama diagnosticado durante o
+período gestacional, ou até um ano após o parto, é associado à gravidez. É o segundo tipo de câncer mais frequente durante a gravidez.
+O presente estudo teve como objetivo realizar uma revisão crítica da
+literatura sobre o CA de mama durante a gestação e elaborar um guia
+baseado nas informações mais relevantes encontradas nessa pesquisa.
+Trata-se de uma revisão de literatura descritiva. Foram procurados
+artigos nos sites Bireme e PubMed de janeiro de 2009 até janeiro
+de 2015. Após serem analisados pela relevância, foram selecionados
+21 artigos para a revisão da literatura, sendo 11 da Bireme e 10 do
+PubMed. Com este levantamento pôde-se concluir que o tema
+“câncer de mama na gestação” ainda levanta muitas dúvidas e gera
+opiniões divergentes entre os profissionais da área da saúde.
+
+Breast cancer (CA) is the malignant neoplasm that affects the
+most women in Brazil. Every breast CA diagnosed during pregnancy, or even a year later, is associated with it. It is the second most
+common cancer during pregnancy. This study intends to realize a
+literature review about the breast cancer and also prepare a guide
+based on the most important information found in this search. We
+searched articles published at sites as Bireme and PubMed from
+January 2009 to January 2015. Twenty one studies were selected
+after an analysis of relevance, 11 studies from Bireme and 10 from
+PubMed. With this survey we could conclude that this issue “breast
+cancer in pregnancy” still raises doubts and generates different views
+between health professionals.
+Key-words: breast cancer, pregnancy, chemotherapy,
+breastfeeding.
+
+Palavras-chave: câncer de mama, gravidez, quimioterapia,
+amamentação.
+
+Recebido em 17 de março de 2015; aceito em 7 de agosto de 2015.
+Endereço para correspondência: Claudia de Oliveira, Clínica de Fisioterapia, Rua Doutor Oswaldo Cruz, 266 Boqueirão 11045-907 Santos SP,
+E-mail: claufisio2005@yahoo.com.br, pamella.sf@hotmail.com
+
+CADERNO URO GINECOLOGIA
+
+S13
+
+CADERNO URO GINECOLOGIA
+
+S14
+
+Introdução
+Em nível mundial, o câncer (CA) de mama é o segundo
+mais frequente, perdendo somente para o de pulmão. No
+Brasil, é a neoplasia maligna que mais acomete as mulheres.
+Segundo o Ministério da Saúde, a neoplasia mamária perde
+apenas para as doenças cardiovasculares como a doença que
+mais mata, como consequência do diagnóstico tardio. Por
+conta dessa alta incidência, o câncer de mama é uma das doenças mais temidas pelas mulheres, seja por medo da morte,
+do tratamento ou da cirurgia de retirada da mama, que acaba
+sendo uma mutilação para a imagem corporal da mulher [1].
+Cada vez mais, o CA de mama tem sido diagnosticado em
+mulheres cada vez mais jovens. Não se sabe exatamente por
+que isso acontece, mas duas parecem ser as principais razões:
+os programas de prevenção e conscientização relativos a essa
+doença levaram ao aumento do número de mulheres cada vez
+mais jovens que procuram fazer exames preventivos, assim
+obtendo diagnósticos logo no início do câncer; e o avanço da
+história natural dessa doença, que está se modificando pelas
+condições ambientais e pela exposição da mulher a agentes
+cancerígenos [2].
+Após os movimentos feministas na década de 1970 e
+1980, as mulheres tornaram-se independentes tanto na área
+profissional, como no ambiente familiar. Por conta disso, vêm
+a cada dia engravidando na terceira e quarta década de vida,
+sofrendo mais ação hormonal, o que é um fator de risco para
+o câncer de mama [2].
+Todo CA de mama diagnosticado durante o período
+gestacional ou até em um ano após o parto é considerado
+câncer associado à gravidez. A sua ocorrência é de 0,2% a
+3,8% de todos os cânceres na gestação. É o segundo câncer
+mais frequente durante a gravidez, perdendo apenas para o
+decolo de útero [2].
+Com a associação de câncer e gravidez, coexistem sensações de vida e morte na cabeça dessas mulheres, gerando
+conflitos emocionais e éticos tanto para a paciente como para
+seus familiares e médicos. O problema é que os profissionais
+da saúde não possuem experiência e treinamento para lidar
+com esse tipo de situação, pois a literatura que aborda a
+combinação desses dois assuntos é muita escassa. A evolução
+da quimioterapia e da radioterapia, no entanto, tem um
+papel muito importante na cura do câncer. Sabe-se, porém,
+que ambas podem gerar efeitos sobre o feto [3]. A indicação
+do tratamento radioterápico depende muito da idade gestacional. No período de implantação do ovo (1 a 14 dias), a
+radioterapia pode causar a morte do blastocisto. No período
+de organogênese (2 a 12 semanas), essa medicação exerce
+seu efeito teratogênico máximo, principalmente no período
+embrionário (4ª a 8ª semana), podendo provocar abortamento
+ou malformações graves. No período de crescimento (12 a 40
+semanas), a radioterapia pode causar retardo de crescimento,
+microcefalia e lesões oculares, além de alterações comportamentais e cognitivas [4].
+
+Fisioterapia Brasil - Ano 2015 - Volume 16 - Número 3
+
+O tratamento do câncer em uma gestante é, pois, muito
+complicado, considerando que existem riscos fatais para a
+mãe e para o feto. Exige consenso entre oncologista, obstetra
+e neonatologista [4].
+A quimioterapia, por atingir as células que se dividem mais
+rapidamente, pode atingir o desenvolvimento fetal, principalmente no período da organogênese, podendo causar ao feto
+efeitos teratogênicos [3]. Atravessa a barreira placentária e
+seu uso deve ser, portanto, interrompido, 3 a 4 semanas antes
+do trabalho de parto, para evitar que a mãe e o feto sofram
+trombocitopenia [4-6].
+A fisioterapia pode atuar no caso de gestantes com CA,
+oferecendo-lhes orientações sobre a gestação e o câncer de
+mama, e fazendo a junção de seus respectivos tratamentos.
+Pode atuar, por exemplo, na orientação postural e na cinesioterapia geral, para os músculos do assoalho pélvico; pode
+também contribuir com a cinesioterapia respiratória e com a
+terapia manual. Além disso, exercícios fisioterapêuticos para os
+membros superiores são fundamentais para ajudar a gestante
+a preparar a musculatura dessa região do corpo para manter a
+força muscular, minimizar as tensões geradas na cintura escapular e prevenir linfedema no caso de linfadenectomia [7,8].
+Por essas razões, o presente estudo teve como objetivos
+realizar uma revisão crítica da literatura sobre o CA de mama,
+durante a gestação, e elaborar um guia de orientação fisioterapêutica para grávidas, baseado nas informações mais relevantes
+encontradas nos artigos selecionados nessa pesquisa.
+
+Métodologia
+Na perspectiva de obter uma ampla revisão bibliográfica
+da literatura sobre o tema desta pesquisa, este estudo foi
+realizado a partir da busca de artigos com descritores “câncer
+de mama”, “gravidez”, “quimioterapia” e “amamentação” na
+língua portuguesa e “breastcancer”, “pregnant”, “chemotherapy” e “breastfeeding” na língua inglesa nas bases de dados
+científicos Bireme e Pubmed, compreendendo o período de
+2009 a 2015.
+Foram utilizadas três linhas de corte como fatores de
+exclusão dos artigos: a primeira excluiu estudos que não se
+enquadravam no período proposto; a segunda desconsiderou artigos cujos títulos não tinham relação com o tema em
+análise; e a terceira descartou artigos que não possibilitavam
+acesso ao texto completo.
+Para saber como selecionar os textos com o tema avaliado,
+foram lidos os resumos de todos os artigos encontrados.
+A análise dos dados foi realizada de acordo com os critérios
+de seleção dos artigos pela análise da qualidade dos artigos que
+foram delimitados segundo os critérios de inclusão: dados de
+identificação dos autores e dos artigos, o ano de publicação,
+título e periódico, declaração dos objetivos e análise do conteúdo quanto ao CA de mama durante a gravidez, tratamento
+e assistência fisioterapêutica.
+
+Fisioterapia Brasil - Ano 2015 - Volume 16 - Número 3
+
+Na Bireme, foram encontrados 803 artigos em português
+e 271 em inglês. No Pubmed, foram encontrados 4.174 na
+língua inglesa. Após a análise desses artigos sob o prisma das
+linhas de corte, foram selecionados para o presente estudo
+21 deles, sendo 11 da Bireme e 10 do PubMed. Esses artigos
+estão relacionados a seguir, na Figura 1:
+Tabela 1 - Organograma dos 21 artigos encontrados.
+Linha de
+corte 1
+
+Linha de
+corte 2
+
+803
+(Português)
+
+41
+(Português)
+
+8
+(Português)
+
+271
+(Inglês)
+
+47
+(Inglês)
+
+3
+(Inglês)
+
+Zero
+(Português)
+
+Zero
+(Português)
+
+Zero
+(Português)
+
+4.174
+(Inglês)
+
+1.107
+(Inglês)
+
+10
+(Inglês)
+
+Bireme
+
+PubMed
+
+Discussão
+Segundo Araújo e Centeno, antigamente as mulheres
+diagnosticadas com CA na gestação eram orientadas a interromper a gravidez. Com o passar dos anos, porém, essa visão
+mudou, devido à indiferença entre os prognósticos das que
+optavam por interromper a gestação e os das que escolheram
+continuá-la [9].
+Segundo Doger et al. [10] e Mottola Jr [2], o prognóstico do CA de mama durante a gravidez é o mesmo de
+um CA de mama não associado à gestação, dependendo
+da idade e do estágio da doença. Mottola acrescenta que
+o aborto não é um fator para melhora do prognóstico de
+CA. Entretanto, tanto os obstetras como os oncologistas
+devem estar cientes dessa condição da mulher e devem
+trabalhar em conjunto [11].
+Mendonça et al. [8] descrevem que a maioria dos cânceres
+de mama durante a gestação é do tipo adenocarcinoma ductal
+infiltrante, pobremente diferenciado e em estádios avançados.
+Segundo Martins e Lucarelli [12], é mais complicado
+diagnosticar o CA de mama durante a gestação, devido ao aumento do volume mamário, à retenção hídrica e ao aumento
+da densidade mamária e do número de mitoses, o que compromete a eficácia da mamografia e do autoexame da mama.
+Por isso, o ideal é que os exames sejam feitos rotineiramente no
+período pré-gestacional. Caso eles não tenham sido efetuados
+
+anteriormente à gestação, no período pré-natal, a anamnese,
+o exame clínico e o ecográfico devem ser realizados [12,13].
+Martins e Lucarelli [12] relatam que a maioria das gestantes apresenta tumor palpável ou aumento da consistência
+mamária. Como acontece nas neoplasias de mama fora da
+gestação, há um predomínio do tipo histológico invasivo,
+além da taxa elevada de tumores indiferenciados com invasão
+vascular, linfática e perineural [12].
+
+Tratamento indicado de acordo com o tempo de gravidez e o estadiamento do CA de
+mama
+Para o estadiamento da doença durante a gestação, podem
+ser utilizadas a ressonância magnética sem uso de gadolínio,
+a radiografia de tórax com proteção abdominopélvica e a
+ultrassonografia abdominal, pois são exames eficazes e isentos
+de risco [12,14]. Carvalho et al. relatam que pode-se realizar
+a mamografia, desde que com a devida proteção abdominopélvica [15].
+O objetivo do tratamento do CA de mama na gestante
+é o mesmo que o das mulheres não grávidas: prevenção de
+metástases sistêmicas e controle local da doença. A forma de
+tratamento, porém, deve ser cuidadosamente escolhida, em razão das complicações que podem ocorrer com o feto [15-17].
+As formas mais comumente empregadas e que foram
+encontradas nos artigos selecionados são: tratamento radioterápico, tratamento quimioterápico e tratamento cirúrgico.
+Procurou-se discutir os artigos que abordam esses tipos de
+tratamento, relacionando-os ao tempo de gravidez da paciente
+com CA. A essa discussão, acrescentou-se o estudo de Hoover
+[3] e Doger et al. [10] sobre o tratamento no pós-parto, que se
+constitui num período muito importante na vida da mulher
+e da criança: o período do aleitamento materno.
+
+Tratamento radioterápico
+Dois artigos citam que a radioterapia pode causar malformação fetal, mas que pode ser utilizada no tratamento do
+CA de mama durante a gestação, se for usada com cautela,
+ajustando-se a dose corretamente, não a direcionando para
+a pelve ou o abdome, e sendo usada no primeiro e segundo
+trimestre, quando o feto está mais longe da área irradiada
+[18,19].
+Dimitrakakis et al. [20], no entanto, relatam que a radioterapia não é indicada, principalmente no primeiro trimestre,
+devido a seus efeitos teratogênicos no feto. Os autores citam
+que, nesse caso, poderá haver um acordo entre médicos, familiares e gestante para atrasar o uso da radioterapia, deixando-a
+para depois da gestação.
+
+Tratamento quimioterápico
+A quimioterapia em gestantes com CA deve ser usada em
+
+CADERNO URO GINECOLOGIA
+
+Resultados
+
+S15
+
+CADERNO URO GINECOLOGIA
+
+S16
+
+doses iguais às das pacientes não grávidas; deve-se ressaltar,
+porém, que os quimioterápicos levam risco para a formação
+do feto, o que deve ser avisado para a mulher grávida e sua
+família, de modo que a decisão sobre o uso ou não desse
+tratamento deve ser tomada em conjunto [16].
+Monteiro et al. [16], em revisão sistemática, mostraram
+que, de 4 casos nos quais as mulheres foram submetidas à
+quimioterapia no primeiro trimestre, houve um caso de abortamento e dois de recém-natos malformados. Por outro lado,
+em um dos casos, o uso de quimioterapia nos três trimestres
+não apresentou nenhuma alteração no recém-nato.
+Quanto ao quesito morte materna, no estudo de Monteiro et al., das 57 mulheres que usaram quimioterápicos,
+no segundo e no terceiro trimestre de gestação, 40 tiveram
+sobrevida, 3 recidivaram, 12 foram a óbito pelo câncer de
+mama, uma faleceu por outra causa e outra paciente perdeu
+o seguimento clínico [17].
+Litton et al. [19] descrevem o CA de mama na gestação
+como situação rara. Os dados disponíveis são poucos, mas a
+partir dos relatos de casos, o índice de malformação fetal é
+de 14-19%. Contudo, quando a quimioterapia é realizada
+no primeiro ou no segundo trimestre da gestação esse dado
+diminui para 1,3%.
+Hahn et al. [21] observaram 57 crianças que receberam
+quimioterapia ainda no útero. Dessas, 10% sofreram parto
+complicado por dificuldades respiratórias, uma desenvolveu
+hemorragia subaracnoide e se recuperou, uma nasceu com
+Síndrome de Down e duas com malformação congênita.
+Cardonick et al. [22] mostraram que as 113 mulheres que
+receberam quimioterapia durante a gestação, por ocasião do
+parto estavam com idade gestacional média de 36 semanas.
+Doger et al. [10] relatam que os quimioterápicos antraciclinas e os taxanos não apresentam risco ao feto após
+o primeiro trimestre de gestação. Além disso, dizem que os
+quimioterápicos, se usados no primeiro trimestre, podem levar
+à malformação fetal e risco de aborto de 17%. Já no segundo
+e terceiro trimestre, essa taxa cai para 1,3%.
+Murthy et al. [18] concluem que a quimioterapia à base de
+antraciclinas usada no segundo e terceiro trimestre de gestação
+não traz danos ao feto. Alertam, porém, que, em relação às
+crianças nascidas nessas condições, há necessidade de exploração quanto à fase de puberdade e quanto à idade adulta,
+para se investigar se elas possuem maior probabilidade para o
+desenvolvimento de câncer. Alertam também para a necessária
+exploração do componente cognitivo dessas crianças.
+De acordo com o Instituto Oncoguia e o Hospital AC
+Camargo, a quimioterapia não deve ser usada no primeiro
+trimestre da gestação, pois esse é o período que mais apresenta
+risco de aborto. Além disso, nessa fase os órgãos internos do
+feto estão em desenvolvimento. O Instituto Oncoguia acrescenta que pesquisas recentes mostram que os quimioterápicos
+usados após o primeiro trimestre não causam malformação
+congênita ou dificuldades no parto, mas que não se sabe se,
+a longo prazo, a criança terá algum problema causado por
+
+Fisioterapia Brasil - Ano 2015 - Volume 16 - Número 3
+
+esse motivo. Por isso, afirma que, caso a mulher esteja no
+terceiro trimestre de gestação, o uso da quimioterapia poderá
+ser adiado para o período posterior ao parto [23,24].
+A quimioterapia deve ser interrompida três a quatro semanas antes do parto, pois ela causa diminuição das células
+sanguíneas da mãe, podendo aumentar as chances de hemorragia e infecção durante o parto [23,20].
+
+Tratamento cirúrgico
+A cirurgia, quando possível, é o tratamento mais indicado
+para as gestantes com CA de mama. A quadrantectomia, a
+mastectomia e a linfodenectomia levam ao feto um risco mínimo, mas não nulo, pois a anestesia pode causar complicações
+a ele, dependendo do momento da gestação. Por esse motivo,
+ter o suporte de uma equipe multidisciplinar é importante
+tanto para a mãe como para o feto [23].
+Tanto o Instituto Oncoguia como Dimitrakakis et al.
+concordam que a mastectomia, com ou sem linfodenectomia,
+é a melhor escolha para o primeiro trimestre de gestação, pois
+após a quadrantectomia a paciente terá que ser submetida
+à quimioterapia, para o CA não se espalhar. Eles também
+coincidem ao se referirem à biopsia do linfonodo sentinela,
+mostrando que o líquido injetado pode causar danos ao feto.
+Entretanto, ambos afirmam que é preciso haver mais pesquisas
+sobre o assunto [23,20].
+
+Tratamento durante o aleitamento materno
+Segundo Hoover [3] e Doger et al. [10], o aleitamento
+materno deve ser contra indicado em gestantes que realizaram quimioterapia, radioterapia ou terapia endócrina, pois
+os medicamentos são excretados no leite. Além disso, esses
+tratamentos diminuem a produção do leite.
+Tratamento fisioterapêutico
+Não foram encontrados artigos sobre tratamento fisioterapêutico em gestantes com câncer de mama. Por isso, neste
+artigo, sugere-se um guia que, além de apresentar informações
+básicas, fundamentadas nos textos citados nessa revisão bibliográfica, tem como objetivo oferecer orientações fisioterapêuticas para a gestante com CA de mama, visando prepará-la
+melhor, para que tenha uma gestação com o menor número
+possível de intercorrências. Propositadamente o guia foi elaborado com uma estrutura simples e sem o engessamento da
+linguagem científica, em especial na parte referente às sugestões
+das atividades de fisioterapia. Visa, com isso, aproximar-se da
+leitora que pretende atingir - a gestante com câncer de mama
+– e dar a essa interlocutora os esclarecimentos e a segurança
+de que ela necessita nesse importante momento de sua vida.
+Se ampliado, aprofundado e redigido em linguagem
+simples, mas com o rigor do conhecimento científico que a
+situação exige, esse guia poderia transformar-se num manual de orientações, no qual a gestante com câncer de mama
+poderia encontrar não apenas informações relevantes para a
+
+Fisioterapia Brasil - Ano 2015 - Volume 16 - Número 3
+
+Guia de informações e de exercícios fisioterapêuticos para gestantes com câncer de
+mama
+
+Informações básicas
+• O câncer de mama é o câncer que mais acomete as mulheres
+no mundo. É o segundo câncer mais frequente durante a
+gestação.
+• O câncer de mama aliado à gestação pode deixar as mamas
+mais volumosas, devido aos hormônios da gravidez.
+• A mamografia pode ser realizada em gestante desde que
+suas regiões abdominal e pélvica estejam protegidas.
+• O objetivo do tratamento nas gestantes com câncer de
+mama é o mesmo que o das mulheres que não estão grávidas: prevenir metástases.
+• São vários os tipos de tratamento do câncer na gravidez;
+a indicação do tipo de tratamento depende de cada caso.
+• A gestante poderá ter que ser submetida à quimioterapia
+e à radioterapia.
+• A radioterapia pode ser usada a partir do segundo trimestre
+de gestação, com algumas cautelas; o mesmo ocorre com
+a quimioterapia. O importante é conversar claramente
+com o médico para que ele indique qual o tratamento
+mais adequado e quais as doses específicas de medicação
+que o caso requer.
+• Se durante a gravidez tiver que ser operada para a retirada
+do tumor da mama, logo após a cirurgia a gestante deve
+fazer movimentos para prevenir limitações na movimentação dos braços, pois a falta de mobilidade poderá levar
+ao linfedema.
+• O linfedema é o aumento da circunferência do braço
+localizado no mesmo lado da cirurgia.
+• Durante a gestação, é comum que a mulher sinta dor nas
+costas, principalmente na região lombar; e, se ela operar a
+mama, também poderá ter dores nessa região; para amenizá-las, é importante procurar ajuda de um fisioterapeuta
+especialista em saúde da mulher.
+• A fisioterapia é um tratamento que não usa remédios e, por
+isso, é um grande aliado no acompanhamento de gestantes
+com câncer de mama.
+• A fisioterapia promove por meio da drenagem linfática
+manual melhora da circulação e diminuição de dores
+musculares.
+• A fisioterapia respiratória alivia a tensão emocional e melhora a oxigenação.
+• A fisioterapia pode ainda utilizar algumas técnicas de movimentos, como o Pilates, a yoga e a reeducação postural
+global (RPG) para prevenir e tratar tanto as queixas mus-
+
+culares próprias da gravidez como as queixas musculares
+motivadas pelo câncer de mama.
+
+Sugestões de exercícios de fisioterapia
+Seguem alguns movimentos simples que você, gestante
+com CA de mama, poderá realizar em casa, para prevenir
+queixas musculares e linfedema (Figuras 1 a 5).
+• Faça esses movimentos pelo menos uma vez ao dia e
+procure manter-se por uns 30 segundos em cada posição.
+Repita cada um deles 10 vezes.
+• Sempre inspire (encha os pulmões de ar) pelo nariz e expire
+(solte o ar) pela boca.
+O movimento da Foto 1 irá ajudá-la a respirar melhor,
+mas faça-o sempre respeitando seus limites, sentada no chão
+e apoiada na parede. Se não conseguir levantar os braços, apenas encoste-se na parede e fique alguns minutos respirando,
+procurando mais soltar o ar do que encher o peito.
+Foto 1 - Gestante sentada, realizando inclinação do corpo.
+
+Arquivo pessoal da autora
+
+Como na Foto 2, tente alongar as costas, para prevenir
+dores nessa região. Tente encaixar a barriga e as mamas de
+forma confortável, sempre respeitando o seu limite e deixando
+a respiração livre, ou seja, respirando sem esforço.
+Foto 2 - Gestante sentada sobre os calcanhares, realizando o alongamento da coluna.
+
+Arquivo pessoal da autora.
+
+De acordo com a Foto 3, estenda as pernas e alongue
+a parte posterior delas. Se não tiver uma bola, apoie-se em
+uma almofada, de modo a sentir-se confortável. A barriga
+e as mamas devem estar livres. Isso irá prevenir câimbras e
+dores nas costas.
+
+CADERNO URO GINECOLOGIA
+
+sua condição, mas também uma série de exercícios fisioterapêuticos que levem em conta simultaneamente os fatores
+gravidez e CA de mama, como se fossem elementos de um
+mesmo conjunto.
+
+S17
+
+CADERNO URO GINECOLOGIA
+
+S18
+Foto 3 - Gestante sentada com as pernas estendidas e com apoio
+anterior na bola.
+
+Fisioterapia Brasil - Ano 2015 - Volume 16 - Número 3
+
+Para você dormir com mais conforto e prevenir as dores
+nas costas
+• Procure dormir de lado.
+• Use um travesseiro entre as pernas e o outro entre o espaço
+do ombro e da cabeça.
+• Se você precisar fazer alguma cirurgia durante a gravidez e
+não puder ficar de lado nos primeiros dias, coloque sempre
+um apoio com travesseiros embaixo dos joelhos, além de
+um apoio nas costas. Assim, você poderá respirar melhor.
+
+Arquivo pessoal da autora.
+
+Conforme a Foto 4, dobre as pernas como se fosse fazer
+“pés de borboleta” e, se tiver uma bola ou uma almofada pequena, estenda os braços para a frente, na altura dos ombros
+e, depois, retorne, relaxando.
+Foto 4 - Gestante sentada, alongando a região interna das pernas,
+com elevação dos braços à frente e segurando uma bola.
+
+Arquivo pessoal da autora
+
+Como na Foto 5, segure a bola (ou uma almofada pequena) na altura dos ombros e, depois, tente elevá-la acima da
+cabeça, dobrando os cotovelos.
+Foto 5 - Gestante sentada, com apoio das costas na parede, com
+elevação dos braços acima da cabeça, segurando uma bola.
+
+Arquivo pessoal da autora
+
+Para prevenir o linfedema, caso você tenha sido submetida
+à cirurgia de CA de mama
+• Use creme hidratante todos os dias, no corpo todo, principalmente no braço do lado da cirurgia.
+• Use sempre o mesmo desodorante, para evitar processos
+alérgicos.
+• Evite tomar injeção, fazer exame de sangue e aferir pressão
+no braço do mesmo lado da cirurgia.
+• Procure evitar locais muito quentes e exposição ao sol.
+• Evite o sol das 10h às 16h.
+• Use regularmente protetor solar.
+• Em caso de ferimento, lave bem o local com água e sabão.
+• Evite carregar peso excessivo; o que você já fazia antes, sem
+esforço, como carregar uma sacola ou uma bolsa, pode
+continuar fazendo normalmente.
+• Faça exercícios com os braços, pois isso ajuda a prevenir o
+linfedema e a prepara para você carregar seu bebê.
+• Use luvas de borracha ao manusear materiais e objetos
+cortantes.
+• Utilize sempre repelentes, em caso de alergia.
+• Evite dormir em cima do braço que fica do mesmo lado
+da cirurgia.
+• Procure manter o peso ideal, com uma dieta balanceada,
+rica em frutas e verduras. Isso será muito bom para você
+e seu bebê.
+
+Conclusão
+Pode-se concluir que gestação e câncer de mama são assuntos que ainda trazem muitas dúvidas, além de serem motivo
+de opiniões divergentes entre os profissionais da área da saúde.
+Apesar de a Fisioterapia na Saúde da Mulher ser reconhecida
+pela literatura científica como importante aliada na prevenção
+das disfunções musculoesqueléticas oriundas da gravidez e do
+câncer de mama, ainda não existem referências a respeito de
+como os dois temas podem ser abordados de forma conjunta,
+o que mostra a necessidade de mais investigações e análises
+considerando esses temas como um conjunto. A elaboração
+do guia com informações básicas, como a proposta que foi
+apresentada neste estudo, pode se constituir no início das
+pesquisas nesse sentido.
+
+Referências
+1. Lahoz MA, Nyssen SM, Correia GN, Garcia APU, Driusso P.
+Capacidade funcional e qualidade de vida em mulheres pós-mastectomizadas. Rev Bras Cancerol 2010;56(4):423-30.
+2. Mottola J, Berretini AJ, Lagina F, Fernandes CE, Marques JA,
+Mazzocato C. Câncer de mama associado à gravidez: um estudo
+caso/controle. RBGO 2002;24(9):585-91.
+3. Hoover HC. Breast cancer during pregnancy and lactation. Surg
+Clin N Am 1990;70(5):1151-63.
+4. Caughan SYM. Sexual functioning in women with breast cancer after treatment with adjuvant chemotherapy. Cancer Nurs
+1996;19:308-19.
+5. Petrek JA. Breast cancer during pregnancy. Cancer
+1994;74(1):518-21.
+6. Bavaresco GZ, Souza RSO, Almeica B, Sabatino JH, Dias M.
+O fisioterapeuta como profissional de suporte à parturiente.
+Ciênc Saúde Coletiva 2001;16(7):3259-66.
+7. Bergmann A, Ribeiro MJ, Pedrosa E, Nogueira EA, Oliveira
+AC. Fisioterapia em mastologia oncológica: rotinas do Hospital
+do Câncer III / INCA. Rev Bras Cancerol 2006;52(1):97-109.
+8. Mendonça GS. Câncer de mama e gestação: Relato de caso e revisão de literatura. Revista Científica da FMC 2013;8(2):13-15.
+9. Araújo AM, Centeno M. Câncer de Mama associado à gravidez.
+Acta Obstet Ginecol Port 2010;4(1):44-52.
+10. Doğer E, Çalışkan E, Mallmann P. Pregnancy associated breast
+cancer and pregnancy after breast cancer treatment. J Turkish-German Gynecol Assoc 2011;12:247-55.
+11. Pavlidis N, Peccatori F, Lofts F, Greco AF. Cancer of unknown
+primary during pregnancy: an exceptionally rare coexistence.
+Anticancer Res 2015;35(1):575-9.
+12. Martins MM, Lucarelli AP. Câncer de mama e gestação. Femina
+2012;40(4):203-7.
+13. Yang YL, Chan KA, Hsieh FJ, Chang LY, Wang MY. Pregnancy
+associated breast cancer in Taiwan. Plos One 2014;1:13.
+
+S19
+14. Sanchez C, Acevedo F, Medina L, Ibanez C, Razmilic D, Navarro H, Camus M. Breast cancer and pregnancy: a comparative
+analysis of a Chilean cohort. Ecancermedicalscience 2014;8:1-7.
+15. Carvalho SMT, Makdissi FBA, Perina A, Maciel MS. Câncer de mama na gestação: relato de casos. Rev Bras Mastol
+2010;20(2):86-8.
+16. Monteiro DLM, Trajano AJB, Menezes DCS, Silveira NLM,
+Magalhães AC, Miranda FRD. Câncer de mama na gravidez e quimioterapia: revisão sistemática. Assoc Med Bras
+2013;59(2):174-80.
+17. Monteiro DLM, Menezes DCS, Nunes CL, Antunes CA, Almeida EM, Trajano AJB. Câncer de mama na gravidez: diagnóstico
+e tratamento. Revista HUPE 2014;13(3):67-71.
+18. Murthy RK, Theriault RL, Barnett CM, Hodge S, Ramirez MM,
+Milbourne A, et al. Outcomes of children exposed in utero to
+chemotherapy for breast cancer. Breast Cancer Res 2014;16:500.
+19. Litton JK, Theriault RL. Breast cancer and pregnancy: current concepts in diagnosis and treatment. The Oncologist
+2010;15:1238-47.
+20. Dimitrakakis C, Zagouri F, Tsigginou A, Marinopoulos S, Sergentanis TN, Keramopoulos A, Zografos GC. Does pregnancy-associated breast cancer imply a worse prognosis? A matched
+case-case study. Breast Care (Basel) 2013;8(3):203-7.
+21. Hahn ME, Johnson P, Gordon N, Kuerer H, Midlenton L,
+Ramirez M, et al. Breast cancer during pregnancy. Cancer
+2010;107(6):1219-26.
+22. Cardonick E, Bhat A, Gilmandyar D, Somer R. Maternal and
+fetal outcomes of taxane chemotherapy in breast and ovarian
+cancer during pregnancy: case series and review of the literature.
+Ann Oncol 2012;23:3016-23.
+23. Instituto Oncoguia. Câncer de mama e gravidez. [citado 2014
+Out 11]. Disponível em: URL: http://www.oncoguia.org.br/
+conteudo/cancer-de-mama-e-gravidez/2234/265
+24. Hospital AC Camargo. Diagnóstico e tratamento do câncer
+durante a gravidez. [citado 2014 Out 11]. Disponível em:
+URL: http://www.accamargo.org.br/saude-prevencao/mulheres/
+diagnostico-e-tratamento-do-cancer-durante-a-gravidez/56/.
+
+CADERNO URO GINECOLOGIA
+
+Fisioterapia Brasil - Ano 2015 - Volume 16 - Número 3
+
+

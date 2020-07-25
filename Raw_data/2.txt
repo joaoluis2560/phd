@@ -1,0 +1,478 @@
+pesquisa
+
+Conhecimento de puérperas sobre amamentação exclusiva
+Mothers’ knowledge about exclusive breastfeeding
+Conocimiento de las puérperas acerca de la lactancia materna exclusiva
+Nichelle Monique da SilvaI, Roberta WaterkemperII, Eveline Franco da SilvaIII,
+Fernanda Peixoto CordovaIV, Ana Lucia de Lourenzi BonilhaV
+I
+
+Hospital do Circulo Operário. Caxias do Sul-RS, Brasil.
+
+Universidade Federal de Ciências da Saúde de Porto Alegre, Departamento de Enfermagem. Porto Alegre-RS, Brasil.
+III
+Faculdade Nossa Senhora de Fátima, Curso de Enfermagem. Caxias do Sul-RS, Brasil.
+IV
+Ministério da Saúde, Área Técnica de Saúde da Criança e Aleitamento Materno (Consultora). Brasília-DF, Brasil.
+V
+Universidade Federal do Rio Grande do Sul, Departamento de Enfermagem Materno Infantil. Porto Alegre-RS, Brasil.
+II
+
+Submissão: 22-12-2012
+
+Aprovação: 29-01-2014
+
+RESUMO
+Estudo descritivo de abordagem qualitativa cujo objetivo foi identificar o conhecimento das puérperas sobre aleitamento materno
+exclusivo. Participaram do estudo treze puérperas internadas no Alojamento Conjunto de uma instituição pública na região
+de Caxias do Sul-RS. Para a coleta dos dados utilizou-se a entrevista semiestruturada. A análise de dados foi realizada através
+de análise temática, emergindo três categorias: o conhecimento sobre amamentação exclusiva; o processo de amamentação; e
+as influências das informações recebidas sobre o processo de amamentação. Mesmo recebendo informações de profissionais
+de saúde no período pré-natal sobre a amamentação, é possível compreender a necessidade de melhorar a comunicação
+e o acompanhamento das puérperas por estes profissionais, como uma continuidade no cuidado, no período do puerpério
+imediato, tardio e também no remoto.
+Descritores: Período Pós-Parto; Aleitamento Materno; Conhecimento; Enfermagem.
+ABSTRACT
+This is a descriptive study, with a qualitative approach, aimed to identify the knowledge of puerperal women on exclusive
+breastfeeding. Data were collected between September-October 2011, through semi-structured interview. Thirteen puerperal
+women, interned in a rooming unit of a public institution in the city of Caxias do Sul-RS, participated in the study. Data analysis
+was performed using thematic analysis. From the interpretation of information three categories emerged: the knowledge about
+exclusive breastfeeding, the breastfeeding process and the influences of received information. Even getting information from
+health professionals in the prenatal period, it is possible to understand that there is a need to improve communication and
+monitoring of mothers, as a continuity of professional care in the postpartum period, and also later, in the remote.
+Key words: Puerperal Period; Breastfeeding; Knowledge; Nursing.
+RESUMEN
+Este es un estudio descriptivo de abordaje cualitativo. Tuvo como objetivo identificar el conocimiento de las madres sobre la
+lactancia materna exclusiva hasta el sexto mes de vida. Participaron en este estudio 13 mujeres internadas en una unidad de
+pensión de una institución pública en la ciudad de Caxias do Sul-RS. Los datos fueron recogidos entre Septiembre y Octubre de
+2011, a través de entrevista semi-estructurada. El análisis de los datos se realizó mediante análisis temática. Con la interpretación
+de la información surgieron tres categorías: el conocimiento sobre la lactancia materna exclusiva, la lactancia materna y la
+influencia de las informaciones sobre el proceso de lactancia. Mismo recibiendo informaciones de los profesionales de la salud
+en el período prenatal es posible entender que hay una necesidad de mejorar la comunicación y el seguimiento de las madres,
+como una continuidad de los cuidados de estos profesionales, en el periodo del puerperio mediato, tardío y lejano.
+Palabras clave: Período Pos-Parto; Lactancia Materna; Conocimiento; Enfermería.
+AUTOR CORRESPONDENTE
+
+290
+
+Rev Bras Enferm. 2014 mar-abr; 67(2): 290-5.
+
+Eveline Franco da Silva
+
+E-mail: evelinefranco@yahoo.com.br
+
+DOI 10.5935/0034-7167.20140039
+
+Conhecimento de puérperas sobre amamentação exclusiva
+
+INTRODUÇÃO
+O aleitamento materno (AM) tem forte impacto sobre a
+mortalidade infantil. Um estudo realizado em 42 países mostrou que o aleitamento materno poderia evitar 13% das mortes em menores de cinco anos de idade se 90% das crianças
+fossem amamentadas exclusivamente até os seis meses e se a
+amamentação fosse continuada após a introdução da alimentação complementar saudável. Além de proporcionar diversos
+benefícios à saúde da criança, o aleitamento materno traz benefícios para a mulher e para sociedade(1).
+Desde o ano de 2002 a Organização Mundial da Saúde
+(OMS), por meio da Estratégia Global para Alimentação de
+Lactentes e Crianças de Primeira Infância, recomenda que
+todas as crianças sejam amamentadas exclusivamente até os
+seis meses de idade e continuem sendo amamentadas até os
+dois anos ou mais(2). Mesmo diante de tal recomendação, é
+possível observar que as taxas de aleitamento materno, em
+especial as de aleitamento materno exclusivo (AME), ou seja,
+até o sexto mês de vida, ainda não atingiram índices satisfatórios no Brasil e no mundo. Segundo dados da II Pesquisa de
+Prevalência em Aleitamento Materno nas capitais brasileiras
+e Distrito Federal, realizada em 2008, identificou-se que a
+prevalência da amamentação exclusiva com leite materno em
+menores de seis meses foi de 41% e a duração mediana de
+AME foi de 54,1 dias (1,8 meses)(3).
+A interrupção precoce da amamentação tem sido relacionada ao desconhecimento materno sobre as vantagens
+do aleitamento materno, ao despreparo dos profissionais de
+saúde em orientar as mulheres, bem como ao suporte inadequado diante das complicações, além da maior atuação da
+mulher no mercado de trabalho e às fragilidades das políticas
+públicas na promoção do aleitamento materno(4).
+No entanto, a falta de conhecimento e as distorções de informações sobre o aleitamento materno, as crenças e os significados que a mulher atribui ao aleitamento materno representam maior influência na duração da amamentação, sendo
+considerados determinantes para o sucesso desta prática(5).
+Nesse sentido, acredita-se que investigar o conhecimento
+das mães sobre o aleitamento materno pode contribuir no direcionamento das ações educativas e na reorientação das práticas adotas pelos profissionais de saúde. Para tal, é necessário
+que abordagens qualitativas sejam utilizadas para auxiliar na
+compreensão de como mulheres percebem o aleitamento materno, principalmente o aleitamento materno exclusivo, conforme recomendação da OMS.
+Frente ao exposto, delineou-se como objetivo deste estudo
+identificar o conhecimento de puérperas sobre o aleitamento
+materno exclusivo.
+METODOLOGIA
+Trata-se de um estudo descritivo com abordagem qualitativa. A investigação foi realizada na unidade de Alojamento Conjunto (AC) de um hospital público de um município
+localizado na região serrana do Rio Grande do Sul, Brasil.
+Participaram desta pesquisa treze puérperas. Para seleção das
+
+participantes, utilizaram-se como critérios de inclusão: estar
+internada no AC com seu recém-nascido; encontrar-se no período puerperal imediato com pelo menos seis horas de pós-parto; e estar em condições de responder a entrevista. Os
+critérios de exclusão foram: estar com seu recém-nascido internado da unidade de neonatologia; apresentar em seu prontuário contraindicação para amamentar; e ter idade inferior a
+18 anos.
+Para determinação do número de participantes, utilizou-se o critério de saturação dos dados, ou seja, quando as informações se tornaram repetitivas, foi encerrada a coleta dos
+dados(6). O período de coleta ocorreu entre setembro e outubro de 2011, utilizando-se a técnica de entrevista semiestruturada, um dos principais meios de investigação para realizar
+coleta de dados que tem enfoque qualitativo(7). As entrevistas
+foram realizadas nas instalações da unidade de AC, em horários previamente agendados, sendo preservada a privacidade das participantes e evitando-se interrupções. Para melhor
+aproveitamento das informações as mesmas foram gravadas e
+transcritas para posterior análise.
+Para análise das informações, optou-se pela análise temática proposta por Bardin(7), seguindo as fases de pré-análise; exploração do material e tratamento, inferência e interpretação
+dos resultados obtidos(7). Da análise emergiram as categorias:
+o conhecimento sobre amamentação exclusiva; o processo de
+amamentação; e as influências das informações recebidas sobre o processo de amamentação.
+A presente pesquisa contemplou a Resolução nº 196/1996,
+foi autorizada pelo Conselho Científico e Editorial do hospital
+onde ocorreu, e foi aprovada pelo Comitê de Ética em Pesquisa da instituição de origem sob Parecer nº 034/11. Todas as
+participantes foram esclarecidas sobre os objetivos do estudo
+e as implicações de sua participação, recebendo garantia de
+anonimato e da possibilidade de desistir do estudo a qualquer momento. Após aceitarem participar do estudo, assinaram o Termo de Consentimento Livre e Esclarecido em duas
+vias, uma delas ficando com a participante e a outra com a
+pesquisadora.
+RESULTADOS E DISCUSSÃO
+As participantes do estudo caracterizaram-se por serem
+adultos jovens, a maioria na faixa etária entre os 20 e 30 anos,
+apenas uma acima dos 40 e uma com 19 anos. Quanto ao
+grau de instrução, oito tinham o ensino médio completo, houve três com curso de técnico de enfermagem e duas com ensino fundamental incompleto. Das 13 puérperas, 11 conviviam
+com seus companheiros em união estável, uma era casada
+e uma era solteira. No que se refere aos aspectos reprodutivos, duas eram primíparas, uma puérpera teve parto gemelar
+e quatro relataram abortos. Referente ao número de filhos,
+cinco mulheres tinham de dois a três filhos, e quatro delas,
+entre quatro e seis filhos.
+O conhecimento sobre amamentação exclusiva
+O aleitamento materno exclusivo é definido como a oferta à criança somente de leite materno, sem quaisquer outros
+Rev Bras Enferm. 2014 mar-abr; 67(2): 290-5.
+
+291
+
+Silva NM, et al.
+
+líquidos ou alimentos exceto medicamentos, tanto de forma
+direta, sugando ao seio materno, quanto de forma indireta,
+através de copinho ou sonda, até o sexto mês de vida(2). Quando as participantes foram questionadas a respeito do que
+compreendiam sobre o AME, identificaram-se nas suas falas
+diversas informações. Mais da metade demonstrou conhecer
+o significado de aleitamento materno exclusivo, conforme é
+apresentado nos seguintes depoimentos:
+[...] exclusivamente até os seis meses deve ser mamado
+sem necessidade de dar água e nada [...]. (P03)
+Amamentação exclusiva é cada mãe ter que amamentar o
+seu filho, de preferência não intercalar com outra alimentação porque a criança necessita exclusivamente do leite
+materno até o sexto mês. Não precisa de água porque tem
+no leite, não precisa de chá porque tem no leite. Isso é
+exclusivamente materno. (P13)
+Outras puérperas, entretanto, apresentaram percepção sobre o conceito e o tempo de AME contraditórios ao que a
+OMS preconiza:
+Eu acho que até um aninho [...] exclusivo o leite materno,
+o que eu entendo! É até o quarto mês, a partir daí você já
+pode introduzir suco ou alimentos, mas até aí exclusivamente o leite materno. (P01)
+Nos primeiros meses é importante para a criança [...] Até o
+sétimo mês, assim creio eu, a partir dos seis meses tu pode
+complementar. (P02)
+O desencontro de informações apresentado nas falas citadas revela a divergência de opiniões sobre o tema e faz supor
+que essas mães possivelmente não receberam as informações
+sobre o AME de forma adequada(8) ou não foram compreendidas no processo de comunicação entre os profissionais de
+saúde, puérperas e seus familiares. Tal fato revela que a comunicação pode tornar-se uma barreira entre usuárias, profissionais de saúde e familiares(9), levando a mulher e sua família
+a perceber o aleitamento materno exclusivo de forma totalmente divergente dos pressupostos recomendados, como é
+expresso na fala a seguir:
+[...] seja só entre mim e meu, filho sem repartir [...] sem eu
+deixar ele mamar em outra pessoa ou eu amamentar outra
+criança. (P07)
+A forma como os profissionais de saúde, assim como os
+meios de comunicação, abordam a amamentação com as
+puérperas e familiares, quando realizada de maneira efetiva
+contribui para o estímulo ao aleitamento materno exclusivo,
+principalmente quando se agregam tecnologias. Entretanto,
+as tecnologias representam um conjunto de conhecimentos
+e práticas que se relacionam a produtos e materiais utilizados
+para produzir saúde. As tecnologias podem ser classificadas
+em leves, leve-duras e duras. Na área da saúde, compreende-se
+
+292
+
+Rev Bras Enferm. 2014 mar-abr; 67(2): 290-5.
+
+que, dentre estas tecnologias, a tecnologia leve deve ser o
+eixo central da assistência em saúde. A tecnologia leve representa o conjunto das relações humanas as quais envolvem
+o vínculo, a autonomização e a gestão como estratégias de
+orientação do processo de trabalho(10).
+Na enfermagem, a tecnologia também está presente nos
+momentos do cuidado. Entretanto, observa-se na prática assistencial que, dentre as tecnologias utilizadas para o incentivo
+ao aleitamento materno, a tecnologia dura é predominante(9),
+o que vai de encontro ao que se postula como eixo central
+para o cuidado em saúde, que é o uso de tecnologias leves,
+revelando a necessidade de mudanças(10). Por tecnologia dura
+entendem-se equipamentos, normas e estruturas organizacionais utilizados na assistência à saúde(10). Dentre as tecnologias
+duras utilizadas para a promoção do aleitamento materno estão: folhetos, cartões-postais, livretos, filmagem, software educativo, escalas que avaliam as mamadas e indicam os aspectos
+que necessitam de maior acompanhamento e testes laboratoriais do leite materno(9). E as tecnologias leve-duras? Por tecnologia leve-dura entende-se a tecnologia que utiliza saberes
+estruturados como teorias, modelos de cuidado, assim como
+o processo de enfermagem(10). Ainda são poucos os profissionais de saúde que utilizam tecnologias leves para a promoção
+do aleitamento, principalmente, o aconselhamento(9). Dessa
+forma, pode-se questionar como a comunicação entre os profissionais e as puérperas é realizada por meio destas tecnologias propostas e qual é a atuação do profissional, no que se
+refere à comunicação no processo de educação para a saúde.
+Como um educador, o enfermeiro parece ser indispensável neste processo. Não pode ser substituído pela tecnologia
+dura ou leve-dura, mas integrar-se a ela, pois a interação entre profissional e a usuária do serviço de saúde demonstra
+exercer influência maior na prática do aleitamento materno
+exclusivo, principalmente, quando é realizada desde o pré-natal até o puerpério(9). Ainda é evidente em estudos o déficit
+de conhecimento de puérperas sobre o AME, fato que pode
+contribuir para a amamentação complementada e para o desmame precoce, principalmente, se as informações prestadas
+pelos profissionais não forem empreendidas a mensagem não
+é compreendida(9,11).
+Neste estudo, as puérperas acreditavam que a prática de
+aleitamento materno exclusivo favorece o estreitamento dos
+laços afetivos entre mãe e filho, a proteção conferida à criança
+através do leite materno traz benefícios para ela e sua família,
+conforme relataram nas falas a seguir:
+[...] sempre fui muito a favor do aleitamento materno porque faz um vínculo com a criança. Tem mais tempo com
+a criança [...]. (P09)
+[...] protege o bebê de várias doenças, é uma vacina que já
+vem junto com o leite [...]. (P01)
+[...] é a fonte segura que ele [bebê] talvez não tenha várias doenças porque eu tô protegendo ele com o meu leite [...]. (P04)
+[...] ajuda nos sangramentos, ajuda a diminuir [...]. (P05)
+
+Conhecimento de puérperas sobre amamentação exclusiva
+
+[...] volta ao peso normal [...]. (P06)
+[...] pra mim além da comodidade é mais barato, mais prático e tá sempre pronto. (P013)
+Constatou-se que a maioria das participantes reconhecia
+o efeito do AM, sobretudo, para evitar doenças. Além disso,
+compreendiam que o AM exerce um papel muito importante
+nos aspectos fisiológicos da mulher, contribui para a relação
+afetiva entre mãe e filho, é prático, além de ser uma fonte
+econômica.
+O processo de amamentação
+De acordo com a literatura, a história pregressa de amamentação tem influências tanto negativas quanto positivas
+sobre a amamentação atual(12). As puérperas participantes do
+estudo identificaram as dificuldades vividas em amamentações passadas e preocupavam-se em não repeti-las:
+Na minha primeira gestação [...] me deu figo no peito [fissuras] [...] eu amamentava com sangue [...] agora na segunda tá tranquila, ele pegou bem, mama tranquilo. Tem
+um pouco de fissura, mas no momento não tô achando
+dificuldades... se aumentar, pode ser que eu encontre um
+pouco de dificuldade. (P06)
+Agora não tenho dificuldades [...] vem do primeiro, vem do
+segundo, no terceiro tu pode meio que errar, mas tu não
+vai totalmente repetir o mesmo erro. (P12)
+Há puérperas que referiram ter experiências positivas anteriores à amamentação atual, influenciando na sua decisão de amamentar novamente. Essas experiências podem ser relacionadas
+à vida social, como gestações anteriores, à convivência com familiares, vizinhos, bem como à assistência recebida no período
+gestacional, parto e pós-parto pelos profissionais de saúde. Estudos evidenciam a importância de as puérperas exporem suas vivências e experiências anteriores acerca da amamentação(11-12).
+Referente às dificuldades para amamentar, algumas puérperas referiram não apresentar dificuldades. Porém, em outros casos, problemas comuns do aleitamento materno, como
+fissuras mamárias, ingurgitamento, mastite, abscesso, entre
+outros, podem interferir no processo de amamentação, favorecendo o desmame precoce. As dificuldades que as puérperas vivenciaram remetem às técnicas e posições inadequadas
+para amamentação.
+Sim é difícil. [...] Agora tá iniciando. Eu tô amamentando e
+tá iniciando [...] aquela fissurinha, tá machucando, mas eu
+não tô preocupada com isso. [...] Tá machucando, mas eu
+vou dar mamá para ele. (P04)
+[...] ele não quer pegar. Eu não tenho o mamilo formadinho,
+mas estamos tentando, devagar nós chegamos lá. (P11)
+As intercorrências mamárias, como ingurgitamento mamário, fissura mamilar, mastite puerperal, entre outras, em
+
+geral são relacionadas como fator negativo na prática da amamentação, mas podem seguramente serem minimizadas, por
+meio de orientações, do incentivo e encorajamento, dos ensinamentos de técnicas e das medidas profiláticas durante o
+pré-natal e, posteriormente, com suporte adequado principalmente no início da amamentação(13).
+A amamentação deve ser vivida como algo prazeroso pela
+mulher e, em vista disso, é de extrema importância ressaltar a
+participação da enfermagem em ações e programas voltados à
+promoção do aleitamento materno. A equipe de enfermagem
+é essencial neste processo e tem a responsabilidade de apoiar
+as mulheres e suas famílias por meio de ações que possam
+influenciar positivamente no sucesso da amamentação, evitando possíveis problemas(14).
+Outra questão que tem apresentado influências sobre o
+processo de amamentação diz respeito à atividade profissional materna.
+[...] seria só o leite do peito [...]. Mas isso aí eu nunca fiz... Pelo
+quarto mês eu já vou dando uma sopinha, já vou complementando. Também porque eu sempre trabalhei. Então manter o
+aleitamento materno exclusivo fica complicado. (P09)
+Estudos sugerem que o desmame que ocorre por volta dos
+quatro meses de vida da criança pode estar relacionado ao
+retorno da mulher ao mercado de trabalho(15). Pautadas nessa ocorrência, políticas e ações complementares à Iniciativa
+Hospital Amigo da Criança são propostas como incentivo às
+nutrizes trabalhadoras, tais como Rede Amamenta e Alimenta
+Brasil, Sala de Apoio à Amamentação e legislações trabalhistas. Dentre as legislações, destaca-se a lei que permite a ampliação da duração da licença-maternidade para seis meses,
+sancionada em 2008, que assegura este direito às servidoras
+federais e promove que as empresas privadas adotem essa
+iniciativa por meio de isenções fiscais(16). Apesar de esta lei
+ter sido sancionada para que haja ampliação do período de
+convívio direto entre mãe e bebê e o incentivo à prática do
+AME, ela por si só não garante que as mães pratiquem a AME,
+necessitando que estas tenham suporte e apoio adequados
+conforme destacado anteriormente.
+As influências de informações recebidas sobre o processo
+de amamentação
+Nesta categoria pôde-se perceber que todas as mulheres
+receberam informações referentes à prática de aleitamento
+materno. Dentre as fontes de informação, estavam as famílias,
+especialmente mãe, madrasta, avó, tio, vizinhas.
+Ah, isso da minha mãe, da minha madrasta [...] na hora
+de lavar não passar produto nem sabonete, creme, essas
+coisas não precisa, só água corrente. Também recebi da
+minha vizinha [...] não ficar esfregando pano nem nada ali
+[nos mamilos]. (P06)
+[...] parente, vizinho, tio falava: dá um chazinho, um suco,
+quando tá muito quente ou tá com dor. Quando o bebê tá
+com quatro, cinco meses, dá coisa pra criança comer já.
+Rev Bras Enferm. 2014 mar-abr; 67(2): 290-5.
+
+293
+
+Silva NM, et al.
+
+[...] Claro que nunca vou dar. Essas informações vou no
+Posto de Saúde. (P07)
+Sabe-se que a família exerce grande influência no que
+diz respeito à alimentação, nutrição e hidratação da criança.
+Desse modo, as vivências familiares, culturais e condições
+de vida podem interferir nesta prática(17). Constatou-se a tendência das famílias a oferecerem outros alimentos à criança,
+deixando subtendido que só o leite materno não é o suficiente
+para alimentar e nutrir a criança. Porém, na maioria dos casos
+a insegurança materna leva a acreditar que as frequentes mamadas dos recém-nascidos representem um sinal de fome, ou
+seja, de que o leite é fraco ou não é suficiente, dessa forma,
+contribuindo para a amamentação complementada(17).
+Durante o pré-natal, as orientações sobre aleitamento
+materno realizadas pelos profissionais de saúde ampliam os
+conhecimentos das mulheres e suas famílias relacionados à
+temática(18). Recomenda-se que a atenção pré-natal seja efetuada por equipe multidisciplinar e que a enfermeira possa
+realizar a assistência integral ao pré-natal de baixo risco(19-20).
+A maioria das participantes declarou que recebeu orientações
+sobre o aleitamento materno de profissionais da saúde tanto
+no pré-natal quanto no hospital.
+No postinho sempre, durante o pré-natal praticamente
+todas as consultas, tinha reunião, era argumentado sobre
+amamentação [...] com o técnico de enfermagem e todas
+as gestantes [...] era bem importante [...] no hospital informação não digo, assim... as enfermeiras dizem que tem
+que amamentar [...]. (P05)
+Ontem mesmo que eu fui na consulta e a enfermeira [...]
+tava falando se alguém tinha alguma dúvida de dar mamá
+[...] ela começou a falar que até os seis meses é só o leite,
+que não precisa dar água, chá. Não precisa dar outra comidinha, que é coisa da cabeça do ser humano que a gente
+pensa que eles não vão sobreviver sem comer [...]. (P012)
+Entretanto, mesmo recebendo orientações, houve puérperas que se mostraram confusas quanto às informações recebidas pelos profissionais, conforme se constata na fala de P04:
+É pelos médicos... Assim, né? Seis meses. Mas eu me sinto
+segura amamentando mais tempo [...]. Pode, deve... Acho
+que pelos três meses, quatro meses, já pode começar a dar
+papinha [...] associado ao leite. (P04)
+
+Parece que, para algumas mulheres, receber orientações
+somente no pré-natal não é suficiente. Há necessidade de
+realizar acompanhamento das lactantes, principalmente, nos
+primeiros três meses após o parto, para identificar as dificuldades encontradas e realizar as intervenções necessárias. Este
+acompanhamento favorece o desenvolvimento da segurança
+materna e familiar e uma prática de aleitamento materno exclusivo e seguro.
+A enfermagem tem um importante papel no incentivo à
+amamentação, em todas as fases de seu processo, tais como
+acompanhamento do pré-natal através das visitas domiciliares, palestras, grupos de gestantes e a manutenção no período
+puerperal. Passar confiança nas informações para as mulheres
+é uma das pontes para o sucesso de uma prática correta, e isto
+deve ser incentivado desde o início do processo de formação
+profissional. Porém, estudos apontam falhas no processo de
+graduação, com relação ao pré-natal, tanto nos aspectos teóricos como para atividades exclusivamente práticas(14).
+Além disso, é importante questionar: Que estratégias estão
+sendo aplicadas para o acompanhamento das puérperas no
+pós-parto e o incentivo e a manutenção da AME? No pós-parto, como estas dúvidas vêm sendo trabalhadas para que a
+AME seja efetivada?
+CONSIDERAÇÕES FINAIS
+O estudo permitiu identificar que a maioria das puérperas possuía algum conhecimento sobre amamentação exclusiva. As informações recebidas tanto de profissionais quanto
+de familiares exercem influência sobre o aleitamento, porém
+as entrevistadas pareceram não mostrar desejo em seguir tal
+orientação.
+Mesmo recebendo informações de profissionais de saúde
+no período pré-natal é possível compreender que há necessidade de melhorar as formas da comunicação e de acompanhamento das puérperas, como uma continuidade do cuidado pré-natal.
+Face ao exposto, é importante que os profissionais da saúde,
+e em especial o enfermeiro, pratiquem o cuidado integral, valorizando todos os períodos no acompanhamento da mulher,
+desde o pré-natal até o pós-parto tardio, nos quais podem ocorrer dificuldades relacionadas ao aleitamento materno. Fora do
+contexto hospitalar nas unidades básicas de saúde, com o apoio
+da Equipe de Estratégia Saúde da Família e por meio das estratégias da Rede Amamenta e Alimenta Brasil, pode-se promover e
+talvez assegurar o aleitamento por um período maior.
+
+REFERÊNCIAS
+
+294
+
+1.
+
+Ministério da Saúde. Além da sobrevivência: práticas integradas de atenção ao parto, benéficas para a nutrição e
+a saúde de mães e crianças. Brasília: Ministério da Saúde;
+2011. 50 p.
+
+3.
+
+Ministério da Saúde. Pesquisa de prevalência de aleitamento materno em municípios brasileiros - situação do
+aleitamento materno em 227 municípios brasileiros. Brasília: Ministério da Saúde; 2010.
+
+2.
+
+World Health Organization. Global strategy for infant and
+young child feeding. Geneva: WHO; 2002.
+
+4.
+
+Bueno LGS, Teruya KM. Aconselhamento em amamentação e sua prática. J Pediatr (Rio J.). 2004;80(5
+
+Rev Bras Enferm. 2014 mar-abr; 67(2): 290-5.
+
+Conhecimento de puérperas sobre amamentação exclusiva
+
+Suppl):S126-S130.
+
+2011;16(4):628-33.
+
+5.
+
+Morais AMB, Machado MMT, Aquino PS, Almeida MI.
+Vivência da amamentação por trabalhadoras de uma indústria têxtil do Estado do Ceará, Brasil. Rev Bras Enferm.
+2011;64(1):66-71.
+
+14. Souza Filho MD, Gonçalves Neto PNT, Martins MCC.
+Avaliação dos problemas relacionados ao aleitamento
+materno a partir do olhar da enfermagem. Cogitare Enferm. 2011;16(1):70-5.
+
+6.
+
+Fontanella BJB, Luchesi BM, Saidel MGB, Ricas J, Turato ER, Melo DG. Amostragem em pesquisas qualitativas:
+proposta de procedimentos para constatar saturação teórica. Cad Saúde Pública. 2011;27(2):388-94.
+
+15. Sampaio PF, Moraes CL, Reichenheim ME, Oliveira ASD,
+Lobato G. Nascer em Hospital Amigo da Criança no Rio
+de Janeiro, Brasil: um fator de proteção ao aleitamento
+materno? Cad Saúde Pública. 2011;27(7):1349-61.
+
+7.
+
+Bardin L. Análise de conteúdo. Lisboa: Edições 70; 2009.
+
+8.
+
+Passarin GL, Santos JS. Conhecimento do aleitamento materno em puérperas no Hospital Geral - Caxias do Sul.
+Pediatria (São Paulo). 2009;31(3):152-60.
+
+9.
+
+Joventino ES, Dodt RCM, Araujo TL, Cardoso MVLML,
+Silva VM, Ximenes LB. Tecnologias de enfermagem para
+promoção do aleitamento materno: revisão integrativa da
+literatura. Rev Gaúch Enferm. 2011;32(1):176-84.
+
+16. Brasil. Lei nº 11.770, de 09 de setembro de 2008. Cria
+o Programa Empresa Cidadã, destinado à prorrogação da
+licença-maternidade mediante concessão de incentivo fiscal, e altera a lei nº 8212, de 24 de julho de 1991. Diário
+Oficial da União 10 set 2008;Seção 1.
+
+10. Mehry EE. Saúde: a cartografia do trabalho vivo. São Paulo: UCITEC; 2002. 189 p.
+11. Graça LCC, Figueiredo MCB, Conceição MTCC. Contributions of the nursing intervention in primary healthcare
+for the promotion of breastfeeding. Rev Latinoam Enferm.
+2011;19(2):429-36.
+12. Ministério da Saúde. Saúde da criança: nutrição infantil:
+aleitamento materno e alimentação complementar. Brasília: Ministério da Saúde; 2009.
+13. Quirino LS, Oliveira JD, Figueiredo MFER, Quirino GS.
+Significado da experiência de não amamentar relacionado às intercorrências mamárias. Cogitare Enferm.
+
+17. Junges CF, Ressel LB, Budó MLD, Padoin SMM, Hoffmann IC, Sehnem GD. Percepções de puérperas quanto
+aos fatores que influenciam o aleitamento materno. Rev
+Gaúch Enferm. 2010;31(10):343-50.
+18. Vieira F, Bachion MM, Salge AKM, Munari DB. Diagnósticos de enfermagem da NANDA no período pós-parto imediato e tardio. Esc Anna Nery Rev Enferm.
+2010;14(1):83-9.
+19. Ministério da Saúde. Pré-natal e puerpério: atenção qualificada e humanizada - manual técnico. 2. ed. Brasília:
+Ministério da Saúde; 2006.
+20. Ministério da Saúde. Decreto no 94.406/87. Regulamentação da lei nº. 7.498, de 25 de junho de 1986, que dispõe
+sobre o exercício da enfermagem, e dá outras providências. Diário Oficial da União 09 jun 1987.
+
+Rev Bras Enferm. 2014 mar-abr; 67(2): 290-5.
+
+295
+
+

@@ -1,0 +1,1205 @@
+CENTRO UNIVERSITÁRIO DE BRASÍLIA
+FACULDADE DE CIÊNCIAS DA EDUCAÇÃO E SAÚDE
+GRADUAÇÃO EM ENFERMAGEM
+
+Camilla Roberta De Souza
+
+A não-amamentação pela mãe portadora do HIV positivo e o impacto no recémnascido: uma revisão bibliográfica
+
+BRASÍLIA
+2014
+
+CAMILLA ROBERTA DE SOUZA
+
+A NÃO-AMAMENTAÇÃO PELA MÃE PORTADORA DO HIV POSITIVO E O
+IMPACTO NO RECÉM-NASCIDO: UMA REVISÃO BIBLIOGRÁFICA
+
+Trabalho de conclusão de curso,
+apresentado no formato de artigo
+científico ao UniCEUB como requisito
+parcial para a conclusão do Curso de
+Bacharelado em Enfermagem.
+Orientadora: Professora Valéria Aguiar
+
+BRASÍLIA
+2014
+
+Com muito carinho, dedico a pessoa mais
+importante da minha vida, minha amada
+filha Carolina que me motivou e
+incentivou
+a superar todas as
+adversidades, me fazendo persistir durante
+minha formação acadêmica.
+
+AGRADECIMENTOS
+
+Agradeço a Deus por iluminar e me dar forças nesta jornada onde muitos
+obstáculos foram superados graças à fé que tenho nele.
+A minha amada mãe e irmã Hélia pela imensa colaboração para comigo, a minha
+sogra Vicência e meu sogro Justiniano pela colaboração e incentivo ao longo destes
+anos. Ao meu amado marido Daniel que me estimulou, me deu força e carinho.
+À professora Valéria Aguiar e ao professor Eduardo Cyrino pela paciência na
+orientação, disponibilidade e incentivo que tornaram possível a conclusão deste
+trabalho.
+A todos os professores do curso, que foram tão importantes na minha jornada
+acadêmica.
+Aos amigos e colegas, pelo carinho e apoio constantes.
+
+Muito Obrigada!
+
+Que eu não perca a vontade de doar esse
+enorme amor que existe em meu coração,
+mesmo sabendo que muitas vezes ele será
+submetido a provas e até rejeitado.
+
+Francisco Candido Xavier
+
+A não-amamentação pela mãe portadora do HIV positivo e o impacto no recémnascido: uma revisão bibliográfica
+
+Camilla Roberta de Souza1 Valéria Aguiar2
+
+RESUMO
+O presente trabalho apresenta uma revisão bibliográfica sobre o impacto físico e
+emocional no recém-nascido que não é amamentado. Assim, a revisão da literatura
+buscou em bancos de dados eletrônicos como a Bireme (Biblioteca Virtual em Saúde),
+Lilacs (Literatura Latina Americana e do Caribe em Ciências da Saúde) e Scielo
+(Scientific Eletronic Library Online) com palavras-chave amamentação, mãe HIV
+positivo e recém-nascido entre os anos 2000 e 2014. A amamentação natural da mãe
+infectada pelo Vírus da Imunodeficiência Humana (HIV) ao filho é fator de risco para a
+transmissão do vírus, assim recomenda-se a exclusão a amamentação natural. O fato de
+não amamentar ao seio pode dificultar a comunicação do binômio mãe-filho,
+comprometendo o contato e a comunicação, devido ao medo de transmissão da doença.
+Compete ao enfermeiro, no acompanhamento desse binômio, identificar qualquer
+dificuldade apresentada pela mãe para interagir com seu filho verticalmente exposto, de
+forma que as medidas estabelecidas para redução do risco de transmissão vertical sejam
+seguidas, e, no entanto, contribuir para comunicação do elo afetivo da mãe com seu
+bebê.
+Palavras-chave: amamentação, mãe HIV positivo, recém-nascido.
+
+______________________
+1
+
+Graduanda do curso de Enfermagem do Centro Universitário de Brasília – UniCEUB.
+
+2
+
+Enfermeira, professora de Enfermagem do Centro Universitário de Brasília – UniCEUB.
+
+The non-breastfeeding by HIV positive carrier mother and the impact on the
+newborn: a literature review
+
+ABSTRACT
+
+This paper presents a literature review on the physical and emotional impact on
+newborn who is not breastfed. Thus, the literature searched in electronic databases such
+as the Term (Virtual Health Library), Lilacs (Latin American and Caribbean Literature
+on Health Sciences) and Scielo (Scientific Electronic Library Online with keywords
+breastfeeding), HIV positive mother and newly born between the years 2000 and 2014.
+Breast feeding from infected mother by Human Immunodeficiency Virus (HIV) the
+child is a risk factor for transmission of the virus, so it is recommended deleting
+breastfeeding. The fact of not breastfeeding at the breast can hinder communication
+both mother and child, committing contact and communication, due to fear of disease
+transmission. Nurses are responsible in monitoring this mother-son, identify any
+difficulties presented by the mother to interact with your child exposed vertically, so
+that the measures established to reduce the risk of MTCT are followed, and, however,
+contribute to communication emotional bond between the mother and her baby.
+
+Keywords: breastfeeding, HIV positive mother, newborn.
+
+A NÃO-AMAMENTAÇÃO PELA MÃE PORTADORA DO HIV POSITIVO E O
+IMPACTO NO RECÉM-NASCIDO: UMA REVISÃO BIBLIOGRÁFICA
+
+1. INTRODUÇÃO
+A amamentação é um processo natural e são imensuráveis seus benefícios, tanto
+para o bebê quanto para a mãe. O leite materno é o alimento melhor e mais completo
+para o bebê, uma vez que contém todos os nutrientes que a criança necessita nos
+primeiros 6 meses de vida e complementar até dois anos, além de proteger as crianças
+contra quadros infecciosos (otite, diarreia, pneumonia e outros) e alergias, aumentando
+o vínculo mãe-filho, além de considerado o método mais econômico que o aleitamento
+artificial (ABDALLAH et al., 2008).
+O leite humano contém anticorpos e outros fatores de proteção, no entanto em
+algumas doenças maternas ele pode funcionar como possível fonte de infecção para a
+criança. Todavia, doenças envolvendo tanto a mãe quanto o recém-nascido (RN) podem
+constituir obstáculos para a amamentação (LAMOUNIER; MOULIN; XAVIER, 2004).
+A contaminação pelo Vírus da Imunodeficiência Humana (HIV) é um grave
+problema no âmbito da saúde pública, de caráter pandêmico, com evolução letal e no
+qual não existe ainda, tratamento curativo ou vacina. É uma doença rodeada de mitos e
+preconceitos, que afetam o aspecto psicológico, as relações familiares, afetivas, sociais
+e profissionais do portador (VAZ; BARROS, 2000).
+Com o progresso do surto da AIDS entre as mulheres, houve um crescimento no
+número de casos em crianças, sendo a maioria devida à transmissão vertical, na qual o
+HIV pode ser transmitido da mãe para o filho durante a gestação, durante o parto e pela
+amamentação. A maior parte dos casos de transmissão vertical ocorre na hora do parto
+com uma taxa de 65%, com a minoria dos casos representativos por transmissão
+placentária ou ainda um risco médio de 15% por aleitamento materno. Diante disso, está
+contra indicada a lactação por parte de mulheres HIV positivo (MOREIRA; REA;
+FILIPE, 2006).
+No final da década de 80, a frequência de casos de AIDS entre mulheres
+ascendeu consideravelmente quando a transmissão heterossexual passou a ser a
+
+principal via de transmissão. O número de casos em indivíduos com AIDS passou de 28
+homens para 1 mulher em 1985 e 2 homens para 1 mulher em 2000 (BRASIL, 2003).
+Diante da impossibilidade das mulheres com HIV positivo em amamentar, as
+intervenções profissionais devem ser iniciadas no pré-natal e direcionadas à promoção
+do aleitamento artificial, fatores emocionais que a mãe possa expor em não amamentar
+seu filho, alternativas para a substituição do leite materno, como modo de preparo dos
+alimentos e dos complementos alimentares, propiciando subsídios emocionais e
+precaver os problemas com as mamas no puerpério decorrentes da ausência e cuidados
+adequados como uso de enfaixamento ou de inibidores de lactação (VASCONCELOS
+et al., 2012).
+Com a vasta implementação de intervenções visando a redução da transmissão
+vertical do HIV, se inicia principalmente a administração de antirretrovirais, a cesariana
+eletiva e a substituição do leite materno, com isso resultou numa redução significativa
+da incidência de casos de AIDS em crianças. Além disso, o diagnóstico e tratamento
+gratuito e universal para o HIV/AIDS, a amamentação por leite artificial durante os seis
+primeiros meses de vida de crianças expostas adotadas como medidas de precaução da
+infecção da mãe para o bebê (ABDALLAH et al., 2008).
+Desde o início da gestação até o nascimento, os bebês nascidos de mães
+soropositivas passam por diversas intervenções a fim de serem protegidos da
+contaminação vertical. Mesmo assim eles possuem uma intensa expressividade e
+impulso em estabelecer contato com a mãe nas primeiras horas de vida e essas
+manifestações foram mais evidentes nos RNs expostos ao HIV (VASCONCELOS et al.,
+2012).
+Como a criança exposta ao HIV é impossibilitada de receber aleitamento
+materno, esta parece compensar a falta de contato íntimo com a mãe com outras formas
+de comunicação, possibilitando a mãe a identificar e responder mais rapidamente aos
+sinais comunicativos como o olhar, o choro e o gemido, para o aprimoramento e
+estabelecimento precoce de uma relação saudável (VASCONCELOS et al., 2012).
+Este estudo tem por objetivo realizar uma revisão da literatura descrevendo o
+impacto imunológico e emocional da criança no não aleitamento materno exclusivo até
+o sexto mês de vida e complementar até dois anos.
+
+2 METODOLOGIA
+Para apresentar, a não amamentação da mulher HIV positivo e o impacto no
+recém-nascido o presente estudo foi realizado por meio de revisão de literatura, que tem
+por finalidade conhecer as diferentes formas de contribuição científica que se realizaram
+sobre um determinado assunto.
+Trata-se então de uma revisão bibliográfica narrativa que tem como objetivo
+conhecer o impacto nos recém-nascidos de mães HIV positivos que não foram
+amamentados.
+Para encontrar os documentos a serem utilizados nesse levantamento foram
+empregadas as palavras-chave: amamentação, mãe HIV positivo, recém-nascido. Dentre
+os encontrados, foram selecionados 21 artigos, sendo que os critérios de inclusão foram
+os artigos que estavam em português e no período de 2000 a 2014 e os que não
+atendiam a esses critérios, foram excluídos. Foram também utilizados manuais técnicos
+do Ministério da Saúde e da Federação Brasileira de Ginecologia e Obstetrícia que
+abordam o tema.
+Esses artigos foram encontrados na base de dados Scielo (Scientific Electronic
+Library Online), Bireme (Biblioteca Virtual em Saúde) e LILACS (Literatura LatinoAmericana e do Caribe em Ciências da Saúde).
+3. DESENVOLVIMENTO
+3.1 ADVENTO DA AIDS
+A Síndrome da Imunodeficiência Adquirida (SIDA) foi reconhecida em 1981,
+nos EUA (Estados Unidos da América), onde tornou-se um marco na história da
+humanidade. A partir da identificação do comprometimento do sistema imunológico de
+pessoas em idade adulta com práticas, unicamente, homossexuais (masculinos) o que
+induziu à conclusão de que se tratava de uma nova moléstia. É uma infecção, pelo vírus
+chamado HIV, do sistema imunológico com destruição dos linfócitos T CD4+ e
+associada a três vias principais de transmissão que são a sexual, a sanguínea e a vertical
+(SANTOS; SOUZA, 2014).
+
+A epidemia da infecção pelo vírus da imunodeficiência humana (HIV) e da
+AIDS representa fenômeno global, dinâmico e instável, cuja forma de ocorrência nas
+diferentes regiões do mundo depende, do comportamento humano individual e coletivo.
+A AIDS destaca-se entre as enfermidades infecciosas emergentes pela grande dimensão
+e extensão dos danos causados às populações e, desde a sua origem, cada uma de suas
+particularidades e repercussões tem sido discutida pela comunidade científica e pela
+sociedade em geral (DE BRITO; DE CASTILHO; SZWARCWALD, 2000).
+Desde o início da epidemia, em 1981, até junho de 2000 foram notificados à
+Coordenação Nacional de DST e AIDS do Ministério da Saúde, 190.949 casos de
+AIDS. Desses casos, 6.750 são crianças, 139.502 adultos masculinos e 44.697 adultos
+femininos. Com registro de ocorrência de casos em quase todo o território nacional, a
+distribuição da AIDS, no entanto, não mostrasse homogênea quanto às regiões de
+residência, sexo, idade, grau de escolaridade nem no que se refere às categorias de
+transmissão. Observando-se maior concentração de casos nas regiões Sudeste e Sul, as
+taxas de incidência nos últimos anos evoluíram, em todo o País, de 8 por 100 mil
+habitantes, em 1991, para 13,7 por 100 mil habitantes, em 1998 e apresenta grande
+variação entre os diferentes estados da Federação (DE BRITO; DE CASTILHO;
+SZWARCWALD, 2000).
+3.2 FEMINIZAÇÃO DA AIDS
+No início da epidemia, os homens que fazem sexo com outros homens
+(homossexuais e bissexuais) foi o grupo mais atingido, resultando em 71% dos casos
+notificados em 1984. Com esta vasta disseminação, houve certa estabilização em
+relação a anos posteriores, com uma redução de 16% entre os anos de 1999/2000, dos
+casos notificados, em todas as regiões do país, onde verificou-se relevante mobilização
+social e mudança de comportamento relacionado a práticas sexuais mais seguras. No
+Brasil, a via de transmissão heterossexual é a mais importante diante da epidemia,
+abrangendo todas as regiões e contribuindo de modo decisivo para o aumento de casos
+em mulheres (DE BRITO; DE CASTILHO; SZWARCWALD, 2000).
+Devido à grande desigualdade social, a propagação da infecção pelo HIV no País
+revela um surto de múltiplas dimensões, que vem sofrendo transformações
+significativas em seu perfil epidemiológico. O aumento da transmissão por contato
+heterossexual resulta em crescimento substancial de casos em mulheres, o que vem
+
+sendo apontado como o mais importante fenômeno para o atual momento da epidemia
+(BRASIL, 2003).
+A feminização da AIDS é um reflexo do comportamento sócio sexual da
+população, associado a aspectos de vulnerabilidade biológica e de gênero. Entre os
+indivíduos com mais de 8 anos de escolaridade, observa-se que diminuem os casos no
+sexo masculino, sendo que o mesmo não acontece no sexo feminino. A mulher
+considera-se menos exposta ao risco, talvez pela sua entrada mais tardia na epidemia,
+não se enquadrando inicialmente nos grupos de risco. As faixas etárias que concentram
+os maiores percentuais de casos de aids em mulheres são as de 25 a 34 anos, sendo
+acometidas em plena idade reprodutiva (BRASIL, 2003).
+A transmissão heterossexual é a principal via de transmissão do HIV, desde o
+início dos anos 90, com significativa participação das mulheres na epidemia e um
+importante percentual de casos por transmissão materno-infantil. No último
+levantamento divulgado pelo Ministério da Saúde em 2005, mostra que, entre os
+homens, a relação heterossexual é a principal forma de transmissão do HIV, enquanto
+vêm diminuindo os registros de casos por drogas injetáveis e relações homossexuais
+(SANTOS; SOUZA, 2014).
+Com o crescimento de casos de AIDS entre mulheres, originou o acréscimo da
+transmissão vertical da infecção pelo HIV, com ascensão do número de casos de AIDS
+em crianças, em todo o mundo. No Brasil, cerca de 80% dos casos de AIDS pediátrica,
+ou seja, em crianças com até 13 anos de idade, advêm de transmissão vertical. O
+número de crianças expostas vem aumentando desde o surgimento dessa doença, sendo
+observado o crescimento do número de casos entre mulheres em idade fértil com
+infecção pelo HIV/AIDS. Esta ocorrência persiste até os dias atuais, com a constatação
+de que a epidemia cresce nove vezes mais entre as mulheres (VERÍSSIMO et al., 2012).
+3.3 INFLUÊNCIA DA AIDS NA GESTAÇÃO
+O preconceito e o estigma ainda são características presentes no cotidiano dos
+indivíduos soropositivos, apesar de diversas mudanças já terem ocorrido, ainda é
+comum a associação da infecção a grupos socialmente marginalizados, como
+homossexuais e profissionais do sexo. Como consequência dessa situação, os portadores
+do HIV raramente são pensados como pais, mães e cônjuges (SANTOS; BISPO
+JÚNIOR, 2011).
+
+A função da maternidade que é tão almejada pelas mulheres, torna-se ameaçada
+com a soro positividade. Esta percebe que diante da descoberta da doença, não é só uma
+condição patológica que intervirá em seu ritmo e estilo de vida, mas, sobretudo, uma
+nova condição capaz de impedir a consolidação de seu papel de mãe (SANTOS; BISPO
+JÚNIOR, 2011).
+O desejo e a ansiedade de se ter filhos saudáveis estão presentes na vida de
+qualquer gestante, porém na portadora do HIV estes se tornam mais intensos, devido a
+transmissão do vírus ser uma probabilidade real e intensa em seu dia-a-dia. É importante
+que o profissional de saúde oriente essas mulheres abordando a importância do
+tratamento correto e apropriado, expondo-lhe que existem diversas possibilidades a fim
+de prevenir a transmissão vertical, desde que todas as medidas profiláticas sejam
+realizadas corretamente (ARAÚJO et al., 2008).
+Com o aparecimento da terapia antirretroviral, o pretensão pela maternidade
+surge como uma possibilidade real para essas mulheres, visto que, se forem seguidas
+corretamente as recomendações do tratamento, a probabilidade do recém-nascido
+adquirir o vírus é consideravelmente baixa. Conforme preconizado, as gestantes
+infectadas pelo HIV deverão receber a terapia antirretroviral objetivando a profilaxia da
+transmissão materno-infantil. O Zidovudina deve ser utilizado por via oral a partir de 14
+semanas de gestação, sendo imprescindível coletar o sangue da gestante para contagem
+de linfócitos CD4 e a média da carga viral, para avaliar a necessidade de modificar o
+esquema terapêutico e de utilizar quimioprofilaxia para infecção oportunista.
+(VERÍSSIMO et al., 2012).
+A indicação de parto cesáreo e a suspensão do aleitamento materno contribuem
+gradativamente para a redução da transmissão do HIV em 2%. Sendo necessário a
+avaliação dos níveis de carga viral materna, medida a partir da 34ª semana onde definirá
+a via de parto mais adequada como medida profilática da transmissão vertical (BRASIL,
+2005).
+Entre os exames essenciais no pré-natal inclui-se a obrigatoriedade da oferta do
+teste anti-HIV a todas às gestantes, com aconselhamento antes e após o teste. Para a
+parturiente não testada durante o pré-natal, há a possibilidade de testagem no parto, com
+o teste rápido anti-HIV, que é de simples execução e com resultado em 15 minutos,
+utilizando uma gota de sangue da polpa digital, porém este teste não substitui os testes
+
+diagnósticos preconizados, pois o teste rápido anti-HIV é apenas um exame de triagem
+para situações em que há necessidade de pronta tomada de decisão como o início ou não
+de ações profiláticas da transmissão vertical no momento do parto. Nas parturientes com
+resultado reagente, é necessário uma segunda amostra de sangue para a confirmação do
+diagnóstico no pós-parto imediato, conforme preconizado pela Portaria Ministerial nº
+59/GM/MS, de 28/1/03 (BRASIL, 2006).
+3.4 PROTOCOLO DO MINISTÉRIO DA SAÚDE
+Com o avanço da ciência, o bebê nascido da mãe soropositiva, tem a chance de
+não se contaminar pelo HIV, pois existem medidas eficazes para evitar o risco de
+transmissão vertical. Nos últimos anos a incidência de casos de AIDS em crianças vem
+decrescendo progressivamente no Brasil, após as medidas profiláticas implementadas
+pelo Ministério da Saúde, que são de grande importância na diminuição da transmissão
+mãe-filho do HIV, com redução de aproximadamente 40% (SANTOS; BISPO JÚNIOR,
+2011).
+Com o intuito de reduzir os riscos de transmissão vertical, todas as gestantes
+independentemente do tipo de parto, realizam a profilaxia antirretroviral intraparto,
+onde recebem AZT intravenoso desde o início do trabalho de parto ou pelo menos 3
+horas antes da cesárea eletiva e é mantido até o clampeamento do cordão umbilical
+(BRASIL, 2013).
+Visando obter melhores resultados com a saúde da gestante e a redução da
+transmissão materno-infantil, alguns fatores devem ser instituídos no atendimento prénatal de uma gestante soropositiva. Este deve ser composto por uma equipe
+multiprofissional seguida por obstetra, infectologista, enfermeira, psicóloga e assistente
+social, com o serviço de pré-natal integrado à maternidade que realizará o parto
+(FEBRASGO, 2011).
+A abordagem laboratorial no início do acompanhamento clínico-obstétrico de
+gestantes infectadas pelo HIV, conforme quadro 2, tem como objetivo avaliar a
+condição geral de saúde da mulher, identificar a presença de comorbidades e outros
+fatores que possam interferir na evolução da gravidez ou da infecção pelo HIV, além de
+avaliar a situação imunológica e virológica inicial, definindo o tratamento antirretroviral
+definido pela indicação clínica com consentimento da gestante (FEBRASGO, 2011).
+
+Quadro 2 - Exames laboratoriais conforme rotina de pré-natal da gestante portadora de
+HIV (Fonte: Brasil, 2013).
+EXAME
+
+INICIAL
+
+PERIODICIDADE
+
+COMENTÁRIOS
+
+Hemograma
+
+Sim
+
+Repetir ao redor de 30 semanas.
+
+Tipagem sanguínea
+
+Sim
+
+Coombs indireto
+
+Sim
+
+Se o resultado for negativo
+
+Solicitar em caso de
+
+repetir em trono da 30ª semana
+
+paciente Rh negativo e
+
+e após mensalmente.
+
+pai Rh positivo ou
+desconhecido.
+
+Citopatológico de colo do
+
+Sim
+
+útero (CP).
+
+Repetir
+
+e
+
+encaminhar
+
+para
+
+colposcopia (e, se necessário,
+biópsia) em caso de resultado
+alterado (ASCUS ou NIC).
+
+Urina tipo 1 ou exame
+
+Sim
+
+Ao redor de 30 semanas.
+
+Urocultura
+
+Sim
+
+30 semanas.
+
+Glicemia de jejum
+
+Sim
+
+Após 20 semanas.
+
+Provas de função hepática
+
+Sim
+
+Na
+
+sumário de urina
+
+primeira
+
+consulta,
+
+com
+
+Em caso de uso de
+
+repetição mensal ou a cada dois
+
+nevirapina, fazer controle
+
+meses.
+
+quinzenal nas primeiras
+18 semanas. Depois, o
+controle deve ser mensal.
+
+Teste
+
+de
+
+tolerância
+
+à
+
+Sim
+
+glicemia de jejum ≥ 85mg/dl.
+
+glicose 75g.
+VDRL
+
+Realizar após 20 semanas se
+
+Sim
+
+30 semanas e na admissão para
+o parto.
+
+Sorologia para rubéola
+
+Não
+
+HBsAg.
+
+Sim
+
+Na primeira consulta.
+
+Imunizar em caso de
+resultado negativo.
+
+AntiHCV
+
+Sim
+
+Na primeira consulta.
+
+AntiHAV
+
+Sim
+
+Na primeira consulta.
+
+Imunizar em caso de
+resultado
+
+negativo
+
+gestantes
+
+em
+
+coinfectadas
+
+com HCV.
+Sorologia para
+
+Sim
+
+Trimestral.
+
+Repetição indicada caso o
+
+Citomegalovírus.
+
+exame
+
+inicial
+
+seja
+
+negativo.
+Sorologia
+
+para
+
+Sim
+
+Trimestral.
+
+Repetição indicada caso o
+
+toxoplasmose (IgM e IgG)
+
+exame
+
+inicial
+
+seja
+
+em
+
+áreas
+
+negativo.
+Sorologia para Chagas
+
+Sim
+
+Na primeira consulta.
+
+Indicado
+endêmicas.
+
+Contagem de linfócitos
+
+Sim
+
+T-CD4+.
+
+Na primeira consulta, devendo
+ser repetido pelo menos entre 46 semanas após início de TARV
+e a partir da 34ª semana.
+
+Carga Viral (CV)
+
+Sim
+
+Na primeira consulta, devendo
+
+Caso
+
+ser repetido após 4-6 semanas
+
+detectável,
+
+repetir
+
+o
+
+de início da TARV e a partir da
+
+exame
+
+reforçar
+
+a
+
+34ª semana.
+
+adesão. A repetição da
+CV
+
+a
+
+a
+
+CV
+
+e
+
+partir
+
+semana
+
+seja
+
+da
+
+auxilia
+
+34ª
+na
+
+definição da via de parto.
+PPD (Reação de
+
+Sim
+
+Resultado reator forte (>
+
+Mantoux).
+
+5
+
+mm):
+
+realizar
+
+investigação
+
+a
+de
+
+tuberculose ativa. Caso a
+reação
+
+for
+
+negativa,
+
+indicar a profilaxia com
+isoniazida
+
+associada
+
+à
+
+piridoxina.
+Swab vaginal e anal para
+
+Sim
+
+Indicar a partir da 34ª semana.
+
+Se a cultura for positiva,
+
+pesquisa de
+
+tratar com penicilina G
+
+estreptococo do grupo B
+
+cristalina
+
+endovenosa
+
+durante o trabalho de
+parto.
+Exame
+
+especular
+
+com
+
+Sim
+
+3º
+
+trimestre
+
+e sempre que
+
+O rastreamento da
+
+realização de teste de Ph e
+
+houver sintomas e sinais de
+
+vaginose bacteriana pode
+
+teste das aminas (teste
+
+vaginite.
+
+ser considerado para as
+
+do cheiro ou de Whiff)
+
+gestantes
+
+com
+
+história
+
+prévia
+
+de
+
+parto
+
+pré-
+
+termo.
+
+É de grande relevância investir no processo educativo da gestante infectada,
+transmitindo-lhe orientação sobre seu prognóstico e do recém-nascido, com enfoque no
+não aleitamento natural, o estímulo a práticas sexuais seguras durante o pré-natal,
+mesmo em casais soro-concordantes para evitar a troca de cepas virais distintas e o
+fornecimento de instruções para redução da transmissão vertical no parto, incluindo kit
+e instruções para uso dos antirretrovirais indicados no período periparto (FEBRASGO,
+2011).
+3.5 CUIDADOS IMEDIATOS COM O RECÉM-NASCIDO DA GESTANTE
+PORTADORA DE HIV POSITIVO
+No Brasil, cerca de três milhões de crianças nascem por ano, em média 12 mil
+crianças seriam expostas anualmente à infecção materna pelo HIV e com risco de
+aquisição de infecção (BRASIL, 2013).
+Logo ao nascer, as vias aéreas do recém-nascido (RN) devem ser aspiradas
+cautelosamente, evitando traumas nas mucosas. Lava-se o RN imediatamente após o
+parto, com água morna e sabão, evitando o contato prolongado com o sangue e
+secreções maternas. Caso haja deglutição de sangue ou mecônio, promover
+cuidadosamente a lavagem gástrica, a fim de prevenir traumas de mucosas, tanto
+durante a passagem da sonda gástrica durante a aspiração (BRASIL, 2007).
+A transmissão ocorre mediante a exposição de mucosas do RN às partículas
+virais presentes no sangue e em secreções maternas. Diante disso, medidas preventivas
+devem ser adotadas, visando evitar o prolongamento dessa exposição ou lesões de
+mucosas que rompam barreiras protetoras à penetração viral (BRASIL, 2013).
+Adotando medidas para proteger o RN de maior exposição ao sangue e aos
+líquidos orgânicos maternos, a pele deve ser limpa com álcool, antes dos procedimentos
+invasivos, como a administração de vitamina K ou a punção no calcanhar. Todos os dias
+o coto umbilical deve ser limpo cuidadosamente até sua cicatrização completa. De
+
+modo geral, o recém-nascido pode ser cuidado no berçário normal, dispensando o uso
+de luvas para atividades como vestir ou alimentar o bebê (VERÍSSIMO et al., 2012).
+Mesmo que a mãe não tenha recebido antirretrovirais, deve ser iniciada a
+quimioprofilaxia do recém-nascido de puérpera portadora de HIV com a Zidovudina
+(AZT) imediatamente após o nascimento ainda na sala de parto ou nas duas primeiras
+horas de vida, podendo ser iniciada dentro das primeiras oito horas de vida, caso a
+parturiente tenha recebido este medicamento durante o trabalho de parto. Não há
+comprovação de benefícios do início da quimioprofilaxia com a zidovudina após 48
+horas do nascimento (BRASIL, 2007).
+Conforme recomendação do Ministério da Saúde, a dose preconizada é de
+2mg/kg de zidovudina VO, de seis em seis horas durante seis semanas. Caso a criança
+não tenha condições de receber o medicamento por via oral, utiliza-se o AZT injetável,
+na dose de 1,5mg/kg IV de 6 em 6 horas. Em crianças prematuras com menos de 34
+semanas de gestação utiliza-se a seguinte dose do AZT: 1,5 mg/kg VO ou IV de 12 em
+12 horas nas primeiras duas semanas e 2mg/kg de 8 em 8 horas, por mais quatro
+semanas, se a criança nasceu com mais de 30 semanas de gestação (BRASIL, 2007).
+Na 6ª semana vida suspender o uso do AZT e solicitar hemograma, provas de
+função hepática (AST, ALT, GGT, FA), sorologias para toxoplasmose, rubéola,
+citomegalovírus, herpes simples, sífilis, HBV e HCV. Introduzir a quimioprofilaxia para
+pneumonia com (sulfametoxazol 25-40mg/kg/dia e trimetropim 5-10mg/kg/dia), até os
+12 meses de idade ou até o estabelecimento do diagnóstico. É importante solicitar um
+hemograma de controle ao nascimento, devido à possibilidade de anemia pelo uso da
+zidovudina (BRASIL, 2013).
+A criança exposta ao HIV é considerada de risco, diante disso a Unidade Básica
+de Saúde deve adotar medidas como marcar a consulta no serviço de referência, realizar
+puericultura e monitorar o comparecimento da criança às consultas agendadas no
+serviço de assistência especializada e assegurar-se do recebimento da fórmula infantil.
+Segundo instrução do Ministério da Saúde as crianças nascidas de mães infectadas pelo
+HIV, necessitam de acompanhamento periódico em unidades especializadas com
+pediatras capacitados para o atendimento dessas crianças até a definição do diagnóstico.
+Nesse caso, a primeira consulta deve ocorrer duas semanas após o parto e deverá ser
+preferencialmente agendada pela maternidade antes da alta do binômio. Desse modo,
+
+serão garantidas a chance de realização desse seguimento de saúde e o recebimento da
+fórmula infantil. Quanto à periodicidade das consultas, deve ser mensal nos primeiros
+seis meses e no mínimo trimestral a partir do segundo semestre de vida (BARROSO et
+al., 2012).
+É imprescindível acompanhar o aparecimento de sinais e sintomas que possam
+ser atribuídos à infecção pelo HIV/AIDS, principalmente as alterações de crescimento e
+desenvolvimento da criança. A primeira consulta no serviço de referência de
+HIV/AIDS, deve ocorrer duas semanas após o parto, mensalmente, paralelamente ao
+acompanhamento de crescimento e desenvolvimento neuropsicomotor (BRASIL, 2007).
+A família deve ser orientada sobre a vacinação, pois as crianças com HIV,
+sintomática ou assintomática, devem receber todas as vacinas de rotina, exceto o poli
+vírus oral. As pessoas em contato com a família também não devem receber a vacina de
+pólio oral, pois o vírus pode ser transmitido para a criança imunodeprimida, mas a
+vacina inativada da poliomielite pode ser administrada, conforme quadro 1
+(VERÍSSIMO et al., 2012).
+Quadro 1 - Calendário Vacinal da criança exposta à infecção materna pelo HIV (Fonte:
+Brasil, 2013).
+Idade
+
+Vacina
+
+RN
+
+Hepatite B, BCG
+
+1
+
+Hepatite B
+
+2
+
+DTP ou DPTa, Hib, VIP ou VOP, PNc, Rtv, MenC conj
+
+4
+
+DTP ou DPTa, Hib, VIP ou VOP, PNc, Rtv, MenC conj
+
+6
+
+Hepatite B, DTP ou DPTa, Hib, VIP ou VOP, PNc, MenC conj, Influenza
+
+7
+
+Influenza
+
+12
+
+Hepatite B, PNc, SRC, VZ, Hepatite A
+
+15
+
+DTP ou DTPa, Hib, VIP ou VOP, VZ
+
+18
+
+Hepatite A
+
+HepB = hepatite B; Hib = Haemophilus influenzae tipo b; DTP = difteria, tétano e coqueluche; DTPa =
+difteria, tétano e coqueluche acelular; VIP = vacina injetável contra pólio; VOP = vacina oral contra
+polio; PNc = vacina contra pneumococo conjugada; Rtv: vacina oral contra rotavirus; MenC conj. =
+vacina contra meningococo tipo C conjugada; Infl = vacina contra influenza; HepA = hepatite A; SRC =
+vacina contra sarampo, caxumba e rubéola; VZ = vacina contra varicella zoster
+
+Após o nascimento estas crianças devem alimentar-se, exclusivamente, com
+fórmula infantil que é um leite em pó específico para o organismo do bebê e pode ser
+obtida gratuitamente por meio de políticas públicas. Tal prática visa diminuir a
+transmissão do vírus, portanto, se não há orientação correta para o preparo da fórmula
+infantil, pode haver um aumento da morbimortalidade infantil por doenças infecciosas.
+O impacto da AIDS na população pediátrica, não é apenas a criança infectada, como
+também os problemas socioeconômicos, físicos e psicológicos, oriundos da doença dos
+pais, afetando diretamente o bem-estar da criança independente da sua situação
+sorológica (CUNHA; GALVÃO, 2012).
+Apenas em 2002, por meio da Portaria nº 2.313 do Ministério da Saúde, foi
+incentivado o uso da fórmula infantil para crianças nascidas de mães portadoras do HIV.
+O Projeto Nascer, foi criado em 2002 pelo Ministério da Saúde, onde disponibiliza
+gratuitamente a fórmula infantil para as crianças nascidas de mães soropositivas até o
+sexto mês de idade, visando a promoção adequada de seu desenvolvimento (BRASIL,
+2003).
+Inicialmente a fórmula infantil é disponibilizada pela maternidade onde a criança
+nasceu, de duas a quatro latas no momento da alta hospitalar. Depois, garante-se a
+distribuição de até 60 latas por criança até o sexto mês de vida, a ser feita pelo serviço
+especializado, onde a criança será encaminhada para acompanhamento até ser definido
+o seu diagnóstico. Para crianças menores de doze meses que não podem ser
+amamentadas, a mãe deverá receber o Guia Prático de Preparo de Alimentos (CUNHA;
+GALVÃO, 2012).
+Após a alta da maternidade a mãe adotará inúmeras responsabilidades com o
+filho, incluindo a continuidade de todas as medidas preventivas, especialmente a
+substituição do aleitamento materno. O cuidado representa uma conduta de forma
+significativa quando o cuidador é a mãe soropositiva, que cuidará de sua criança, quer
+soropositiva, quer soronegativa. Assim, essas mães convivem com o sentimento de
+culpa e o medo de gerar uma criança soropositiva, desejando que seu filho possa brincar
+e crescer saudável. É importante que essas mães sejam estimuladas a seguirem as
+orientações dos profissionais de saúde com o objetivo de diminuir a possibilidade de
+infecção na criança. Em virtude dessas crianças demandarem cuidados após o
+nascimento, a mãe infectada deve aprender a cuidar dos seus filhos e dar continuidade
+às recomendações no intuito de contribuir para a redução da transmissão vertical. Dessa
+
+forma, é essencial a mãe ou o cuidador compreender a necessidade do cumprimento
+dessas orientações, além dos riscos decorrentes da não adesão ao seguimento em saúde
+(BARROSO et al., 2012).
+
+3.6 A IMPOSSIBILIDADE DA AMAMENTAÇÃO DIANTE A EXPOSIÇÃO AO
+VÍRUS HIV
+As evidências científicas de que a amamentação é a melhor forma de alimentar o
+recém-nascido acrescem a cada ano, e as autoridades de saúde recomendam sua prática
+através de políticas e ações que previnam o desmame precoce, que ocorre muitas vezes
+por dificuldades e dúvidas enfrentadas pelas mães em relação a eficácia do aleitamento
+materno (MARTINS, 2013).
+As mães portadoras de HIV não podem amamentar, pois há o risco de
+aproximadamente 14% do bebê se contaminar com o leite materno, essa probabilidade
+aumenta quanto mais recente for a infecção (VINHAS et al., 2006).
+Durante o aleitamento materno, a transmissão do vírus pode ocorrer em qualquer
+fase, porém a mais frequente ocorre nas primeiras semanas e, nas infecções maternas
+mais recentes. O HIV é excretado livre ou no interior de células no leite de mulheres
+infectadas, manifestando ou não sinais da doença, considerando a carga viral do leite
+materno como um importante determinante no risco de transmissão. No recém-nascido,
+a forma de penetração do vírus são as mucosas nasofaríngea e gastrintestinal
+(LAMOUNIER et al., 2004).
+Diante disso está definitivamente contraindicado o aleitamento cruzado que é a
+amamentação da criança por outra nutriz, a alimentação mista, sendo o leite humano e a
+fórmula infantil e o uso de leite humano com pasteurização domiciliar, contudo, em
+situações especiais, como recém-nascido pré-termo ou de baixo peso, pode ser utilizado
+leite humano pasteurizado aquecido a 62,5ºC por 30 minutos, seguido por resfriamento
+rápido, proveniente de Banco de Leite credenciado pelo Ministério da Saúde (BRASIL,
+2013).
+Logo após o nascimento de uma criança, a mama da mulher por meio da
+prolactina, começa a produzir o leite materno, este se não for retirado em quantidade
+
+suficiente, as mamas podem ficar ingurgitadas, provocando dor, desconforto e até febre
+em algumas mulheres. Visando impedir as intercorrências mamárias, o Ministério da
+Saúde recomenda-se inibir a lactação através do enfaixamento das mamas com ataduras
+ou comprimindo-as com um top e evitando o início da lactação pela estimulação. Esta
+conduta deve ser mantida num período de dez dias. Pelas dificuldades enfrentadas pela
+mulher, após a alta hospitalar, é recomendável que se associe a essa medida, a inibição
+farmacológica da lactação com 02 comprimidos de cabergolina 0,5 mg por via oral
+imediatamente após o parto (BRASIL, 2007).
+A amamentação é um momento extraordinário na relação afetiva entre a mãe e a
+criança, para se adquirir a intimidade, o carinho, a segurança do bebê, no entanto a
+mulher soropositiva impedida de amamentar deve estimular o carinho e a atenção ao seu
+filho, além de enfrentar uma série de desafios, como a possibilidade do bebê nascer
+contaminado. Os enfermeiros ao prestarem assistência no aspecto preventivo devem
+atentar à necessidade da saúde de cada gestante relacionados ao apoio emocional e
+psicológico que envolve a mulher no seu convívio social e familiar. Os profissionais de
+enfermagem desfrutam de uma posição privilegiada, visando educar as pessoas sobre as
+formas de reduzir o risco de transmissão do HIV. Os enfermeiros são compreendidos
+como fontes confiáveis de informação sobre saúde e, rotineiramente as pessoas se
+sentem bastante à vontade para expor suas particulares íntimas (VINHAS et al., 2006).
+O significado de mães HIV positivas não amamentarem, constitui motivo de
+conflitos interiores para a mãe e implica na reestruturação da relação mãe-bebê. Ainda
+observa que a incorporação da importância da amamentação pela sociedade desencadeia
+questionamentos frequentes às mães se elas estão amamentando, gerando situações de
+constrangimento e discriminação (SANTOS; BISPO JÚNIOR, 2011).
+A tristeza constitui-se uma resposta humana às situações de perda, derrota,
+desapontamento dentre outras adversidades. A mulher reage sentindo-se mal,
+desconfortável, triste e chorosa. Diante dos distintos sentimentos vivenciados pelas
+puérperas portadoras do HIV perante a impossibilidade de amamentar, cercados de
+elementos sociais e culturais, percebe-se o forte impacto que esta realidade denota em
+suas vidas e em sua saúde. Para que essa situação seja enfrentada, juntamente com os
+sentimentos provocados, é importante que a mulher sinta-se segura, encontrando apoio
+em sua família, amigos e profissionais de saúde. Estes, precisam compreender o
+universo emocional e cultural desta mulher, para assim aproximarem-se da sua
+
+realidade, adequando suas orientações e cuidados durante o pré-natal, parto e puerpério,
+com a finalidade de serem mais eficazes (BATISTA; SILVA,2007).
+
+3.7 O IMPACTO FÍSICO E EMOCIONAL DA NÃO AMAMENTAÇÃO SOBRE
+O RECÉM-NASCIDO
+A amamentação natural da mãe infectada pelo Vírus da Imunodeficiência
+Humana (HIV) ao filho é fator de risco para a transmissão do vírus, assim recomenda-se
+a exclusão a amamentação natural. O fato de não amamentar ao seio pode dificultar a
+comunicação do binômio mãe-filho, comprometendo o contato e a comunicação, devido
+ao medo de transmissão da doença (VASCONCELOS et al., 2012).
+Apesar dos bebês nascerem em boas condições, como são excluídos do
+aleitamento materno, os neonatos ficam expostos a outros problemas inerentes a essa
+faixa etária, como infecções generalizadas decorrentes da baixa imunidade, tornando-se
+indispensáveis o acompanhamento clínico e as orientações para a saúde referentes à
+higiene e à alimentação da criança. Embora seja de grande eficácia a fim de precaver a
+transmissão da infecção pelo HIV, os antirretrovirais (ARVs) podem ocasionar efeitos
+indesejáveis aos recém-nascidos, sejam os usados pela mãe, por serem transferidos pela
+placenta, ou aqueles usados pela própria criança. Outras condições já sugeridas como
+consequência da exposição aos ARVs, porém, ainda não confirmadas, são
+prematuridade, resistência à insulina, malformações e síndrome da morte súbita. No
+entanto, os benefícios do uso dessas drogas superam os riscos já relatados na literatura
+médica (BRASIL, 2013).
+Antes de completar um ano de vida, as crianças infectadas manifestam alguns
+sintomas similares aos dos adultos, incluindo a linfadenopatia, a hepatoesplenomegalia,
+a diarreia crônica, a pneumonite intersticial e a estomatite persistente, deficiência no
+crescimento e atraso no desenvolvimento, infecções bacterianas graves recorrentes e,
+ocasionalmente, aumento das glândulas parótidas (VERÍSSIMO et al., 2012).
+Todo bebê nascido de uma mãe soropositivo terá anticorpos HIV ao nascer, no
+entanto, os recém-nascidos não infectados perdem o anticorpo materno entre os
+primeiros oito a quinze meses de vida. Tipicamente, o bebê infectado por HIV é
+
+assintomático ao nascer e não expõe sinais físicos evidentes. Porém, com a ocorrência
+de uma infecção oportunista (causada por um organismo que geralmente não provoca a
+doença) o neonato pode alertar o cuidador sobre a presença da infecção HIV, ou auxiliar
+na confirmação do diagnóstico. A idade média do início das infecções oportunistas,
+advém em torno dos três meses aos seis meses de vida (VERÍSSIMO et al., 2012).
+Os testes sorológicos rotineiros para detecção de anticorpos não auxiliam no
+diagnóstico da criança antes dos 18 meses de idade, pois, durante a gestação, advém a
+transferência dos anticorpos maternos IgG contra o HIV para o feto. Esses anticorpos
+são detectados por meio de ensaio imunoenzimático (ELISA) a partir do nascimento em
+todos os recém-nascidos. Em 50% das crianças não infectadas pelo HIV eles
+desaparecem até 12 meses e em 100% delas até 18 meses de idade pós-natal (BRASIL,
+2013).
+3.8 IMPACTO FÍSICO
+Todo bebê advindo de uma mãe soropositivo terá anticorpos HIV ao nascer, no
+entanto, os recém-nascidos não infectados perdem os anticorpos maternos entre os
+primeiros oito a quinze meses de vida. Geralmente, o bebê infectado por HIV é
+assintomático ao nascer e não apresenta sinais físicos evidentes. Entretanto, a ocorrência
+de uma infecção oportunista no neonato pode alertar o cuidador sobre a presença da
+infecção, ou auxiliar na confirmação do diagnóstico do HIV. As infecções oportunistas
+são ocasionadas por um organismo que geralmente não provocam a doença, e iniciamse em torno dos três aos seis meses de idade (VERÍSSIMO, 2012).
+Há muitas questões a serem esclarecidas com relação a transmissão do HIV via
+leite materno. Em um estudo realizado em Durbin na África do Sul, que por ser um país
+em desenvolvimento e seus recursos limitados, mostrou que filhos de mães com HIV
+positivas amamentados exclusivamente tinham um risco diminuído de contrair o vírus
+aos 3 meses de idade (14%) quando comparadas com crianças amamentadas
+parcialmente (24%). Os autores sugerem que a alimentação artificial pode causar dano a
+mucosa gastrointestinal, ou resposta alérgica, facilitando a penetração do vírus. O índice
+de transmissão entre as crianças alimentadas com fórmula infantil foi de 19%. Apesar
+desses resultados encorajadores, a comunidade científica tem alertado para a
+necessidade de novos estudos para confirmar esses achados (GIUGLIANI, 2000).
+
+Os prováveis efeitos protetores do leite materno contra a infecção pelo vírus
+HIV na criança, seriam a manutenção da integridade da barreira da mucosa intestinal,
+com promoção de microflora intestinal protetora, aumentando a resistência contra
+infecções e a modulação da resposta imunológica da criança (PAIM et al., 2008).
+Com base num estudo de caso-controle, realizado em Pelotas (RS), mostrou que
+as chances de morrer eram bem maiores em crianças que receberam outro tipo de leite.
+A probabilidade de morrer no primeiro ano de vida, por diarreia, foi 14 vezes maior em
+crianças não amamentadas e 3,6 vezes maior em crianças com aleitamento misto,
+quando comparadas com crianças amamentadas exclusivamente. Outro estudo delineou
+o efeito do uso de leite artificial nas taxas de internação por pneumonia, sendo que as
+crianças não amamentadas nos primeiros 3 meses, a chance de hospitalização foi 61
+vezes maior do que em crianças amamentadas exclusivamente (GIUGLIANI, 2000).
+Em decorrência da imaturidade do bebê, este pode apresentar dificuldade na
+sucção, apresentando algum problema para acomodar o leite na boca, regurgitando-o e
+até mesmo engasgando. Todavia durante o aleitamento artificial, a mãe deve olhar
+atenta ao bebê, para direcionar corretamente a colher de leite para a boca do recémnascido, no intuito de evitar acidentes, como apontar a colher fora da boca, além de
+oferecer uma quantidade adequada à capacidade do bebê engolir (VASCONCELOS et
+al., 2012).
+As mães tem um duplo papel a desempenhar como o de portadora do vírus e o
+de cuidadora, seja de seus companheiros, quando adoecem, ou dos filhos. A infecção
+pelo HIV também afeta a qualidade de vida da família e o bem-estar das crianças,
+podendo contribuir para aguçar os conflitos já existentes entre o casal e as preocupações
+em relação a educação e ao futuro dos filhos. Com relação a isso, a interação entre pais
+portadores do HIV e seus filhos não-portadores parece ser afetada pela infecção dos
+pais. Um estudo realizado com 12 mães norte-americanas encontrou o dado de que,
+mesmo sabendo sobre as vias de transmissão, as mães tinham medo de infectar seus
+filhos através de contato casual, desenvolvendo até uma obsessão por limpeza
+(GONÇALVES; PICCININI, 2007).
+3.9 IMPACTO EMOCIONAL
+As primeiras relações entre mãe e bebê são de suma importância para o
+desenvolvimento infantil. Contudo a gestação marca um dos mais importantes
+
+momentos de mudança para a maternidade e se caracteriza por transformações
+biológicas e emocionais que auxiliam a mulher a preparar-se para o nascimento do bebê,
+porém, o modo como a gestação se desenvolve pode influenciar as interações entre mãe
+e bebê após o nascimento. O processo da maternidade é marcado pelo nascimento do
+bebê e pela relação que irá se estabelecer entre mãe e filho, que já começa a se delinear
+desde o período intrauterino. A experiência do parto é um episódio marcante na vida da
+mulher e imprescindível para o desenvolvimento infantil. (DE FARIA, 2008).
+As formas de comunicação que se constituem entre mãe e filho ocorrem num
+espaço íntimo, aconchegante, com a mãe sustentando o filho nos braços, seja para
+oferecer aleitamento artificial no caso de puérperas portadoras de HIV, ora para
+acariciá-lo, ou realizar às medidas de higienização, iniciando assim a relação humana,
+embora possam ficar comprometidas em decorrência do medo da transmissão da doença
+(VASCONCELOS et al., 2012).
+O ser humano, logo em seguida ao nascimento, possui uma tendência inata de
+estabelecer vínculo com seus cuidadores, a fim de mantê-los próximos, manifestando-se
+de diversas formas desde as primeiras horas de vida, como, no olhar, no chorar ou
+gemer da criança, porém essas manifestações tornam-se mais evidentes entre os recémnascidos verticalmente expostos ao HIV. Como a criança nascida exposta ao HIV não
+adere ao seio materno, esses fatores parecem compensar esta falta de contato íntimo
+maternal com outras formas de comunicação (VASCONCELOS et al., 2012).
+As crianças que não são amamentadas apresentam um risco maior de não
+receber atenção satisfatória, sendo necessário que eles sejam aconchegados e
+consolados de várias maneiras, por meio de massagens, que sejam agasalhadas,
+seguradas no colo com mais assiduidade e de alguma forma mais protegidas. Outro
+aspecto indispensável é a orientação da mãe ou cuidador, a cantar e falar para que o
+recém-nascido escute sua voz, necessitando ainda, dormir com o bebê para manter uma
+proximidade pele-a-pele (TEIXEIRA, 2009).
+Um estudo realizado em Porto Alegre (RS), investigou a experiência da
+maternidade em 06 mães de nível socioeconômico baixo, portadoras do HIV/AIDS aos
+três meses de vida da criança. Este projeto de pesquisa avaliou as diferentes formas de
+comunicação entre mãe e filho na vigência do vírus da imunodeficiência adquirida
+(HIV). Foi selecionada apenas uma de cada binômio, para fazer parte do estudo, um
+
+procedimento de amamentação natural e outro da artificial. A mãe portadora do HIV
+sentada em uma poltrona com a criança no colo e oferecia o leite em pequenas doses
+com colherinha, na poltrona ao lado, outra mãe com sorologia negativa oferecia a mama
+para o bebê (GIUGLIANI, 2000).
+Os bebês nascidos das mães soronegativas aderiram ao seio imediatamente, em
+mais de 20% o bebê era ativo e o gemido foi observado apenas nestes binômios. O
+olhar, o choro, o gemido e a adesão ao seio são as formas de comunicação de crianças
+nas primeiras horas de vida, devido à imaturidade de seus sistemas. Com uma taxa de
+95,2% dos bebê nascidos das mães soropositivas, que receberam o aleitamento artificial,
+permaneceram de olhos abertos. Provavelmente, ficar de olhos abertos, é situação
+necessária para ser alimentado, esta capacidade lhe proporciona desenvolvimento que é
+o reconhecimento de seus cuidadores com o passar dos dias. Neste estudo observou-se
+que os bebês das mães soropositivas eram mais ativos que os bebês das mães
+soronegativas. Embora não vivenciando a amamentação natural, os recém-nascidos de
+mães HIV positiva manifestaram-se mais atentos que os de mães soronegativas
+(VASCONCELOS et al., 2010).
+Um estudo realizado com uma amostra populacional de famílias norteamericanas, onde exclusivamente os pais eram infectados, os autores perceberam que
+48% deles temiam contrair alguma doença oportunista de seus filhos e 36% tinham
+medo de transmitir o HIV para as crianças, sendo que 28% evitavam totalmente algum
+tipo de contato físico, como os beijos e o compartilhamento de utensílios domésticos.
+Deste modo, o receio de transmitir a doença, para alguns pais, é uma forma de defesa
+contra danos que eles idealizavam já terem causado à criança, ou mesmo o temor de que
+a criança viesse repetir seus erros (GONÇALVES; PICCININI, 2007).
+Compete ao enfermeiro, no acompanhamento desse binômio mãe-filho,
+identificar qualquer dificuldade apresentada pela mãe para interagir com seu filho
+verticalmente exposto, de forma que as medidas estabelecidas para redução do risco de
+transmissão vertical sejam seguidas, e, no entanto, contribuir para comunicação do elo
+afetivo da mãe com seu bebê. Diante disso, é preciso utilizar instrumentos que auxiliem
+na identificação de sinais comunicativos que indiquem como o processo e o tipo de
+relacionamento entre mãe e filho estão sendo desenvolvidos para que sirvam de base
+para intervenção de enfermagem cujo resultado esperado seja um relacionamento mãe e
+
+filho satisfatório, considerando as particularidades de cada binômio, como é o caso de
+mães HIV positivas (VASCONCELOS et al., 2012).
+
+CONSIDERAÇÕES FINAIS
+
+No Brasil nos dias atuais, ainda há dificuldades na identificação de gestantes
+portadoras da infecção pelo HIV durante o pré-natal, onde muitas chegam ao parto sem
+conheceram sua situação sorológica. As políticas públicas foram implementadas em
+1997, visando a prevenção da transmissão vertical, sendo consideradas tardias, visto que
+várias crianças foram contaminadas por meio dessa forma de transmissão.
+A assistência pré-natal é considerada prioridade em saúde pública e tem por
+objetivo diminuir a morbimortalidade materno e infantil, caracterizado pelo
+desenvolvimento de ações preventivas, educativas, identificando situações de risco para
+gestantes e fetos, permitindo intervenções adequadas e precoces, contribuindo assim
+para melhoria das estratégias de prevenção da transmissão vertical do HIV, envolvendo
+o pré-natal, parto e o puerpério, orientando a gestante quanto aos cuidados e a
+alimentação artificial do bebê. Essas medidas profiláticas se forem seguidas
+corretamente reduzem a taxa de transmissão vertical que chega a menos de 2%.
+A alimentação do bebê é um fator importante e deve ser discutida ainda no prénatal, almejando a compreensão e aceitação da gestante em optar por não amamentar,
+analisando seus riscos e benefícios. Os possíveis efeitos protetores do leite materno
+contra a infecção pelo vírus na criança, seriam a manutenção da integridade da barreira
+da mucosa intestinal, com promoção de microflora intestinal protetora, aumentando a
+resistência contra infecções e da resposta imunológica da criança. Porém, a
+recomendação sobre o uso de alimentos substitutos quando aceitável, viável, acessível,
+sustentável e seguro, é o método mais garantido, visto que as taxas de transmissão do
+
+HIV são marcadamente mais baixas nas crianças alimentadas com fórmula exclusiva em
+comparação com crianças em aleitamento exclusivo ou aleitamento misto.
+As mulheres diante da impossibilidade de amamentar são dominadas pelo
+impacto do diagnóstico, o preconceito e a discriminação da sociedade e da família,
+necessitando de apoio. Sendo assim as intervenções psicológicas podem contribuir de
+modo que ansiedades sejam suavizadas e que as mães possam propiciar e desfrutar de
+uma relação mãe-bebê afetiva e saudável, gerando um impacto positivo sobre o
+desenvolvimento infantil.
+Com base nos estudos analisados, conclui-se que os bebês nascidos de mães
+soropositivas ao HIV, buscam compensar a falta da amamentação no seio materno,
+apresentando um olhar mais atento durante a amamentação artificial. A falta de sucção,
+o choro e o gemido, se tornam mais evidentes, pois a criança sempre busca constituir
+vínculo, cabendo a mãe estar atenta aos sinais precoces da criança, que nem sempre
+estão relacionados a necessidades fisiológicas e sim a necessidade de conforto e
+proteção.
+Sabe-se que o aleitamento materno exclusivo até o sexto mês de vida e
+complementar até os 2 anos é o melhor e mais completo alimento para o bebê, sendo
+imensuráveis seus benefícios. As mães com HIV positivo são impossibilitadas de
+amamentar devido ao risco de transmissão vertical conforme recomendação do
+Ministério da Saúde.
+É importante ressaltar o vital papel do enfermeiro junto a gestante/puérpera
+sobre as orientações durante todo o pré-natal, parto e puerpério relacionado ao não
+aleitamento materno e a compensação da falta do contato íntimo maternal com a adoção
+de outras formas de comunicação, como uma relação de acolhimento e amor no decorrer
+da vida, visando suprir a não amamentação, fazendo com que o impacto emocional e
+físico sejam amenizados superando esta imensa perda que é a não amamentação.
+
+REFERÊNCIAS BIBLIOGRÁFICAS
+ABDALLAH, V. O. S. et al. Amamentar: relato de uma experiência. Em Extensão,
+Uberlândia, v. 6, n. 1, p. 92-96, s.m. 2008.
+ARAÚJO, M. A. L. et al. Gestantes portadoras do HIV: enfrentamento e percepção de
+uma nova realidade-DOI: 10.4025/cienccuidsaude. v 7i2. 5005. Ciência, Cuidado e
+Saúde, v. 7, n. 2, p. 216-223, abr./jun. 2008.
+ARAÚJO, M. F. M. et al. A prevalência de diarreia em crianças não amamentadas ou
+com amamentação por tempo inferior a seis meses. Ciência, Cuidado e Saúde,
+Fortaleza, v. 6, n. 1, p. 76-84, jan./mar. 2008.
+BARROSO, L. M. M. et al. Cuidado materno aos filhos nascidos expostos ao HIV/aids.
+Revista da Rede de Enfermagem do Nordeste- Rev Rene, Fortaleza, v. 10, n. 4,
+p.155-164, out./dez. 2012.
+BATISTA, C. B.; SILVA, L. R. da. Sentimentos de mulheres soropositivas para HIV
+diante da impossibilidade de amamentar. Escola Anna Nery Revista de Enfermagem,
+Rio de Janeiro, v. 11, n. 2, p. 268-75, jun. 2007.
+BRASIL. Ministério da Saúde. Programa Nacional de DST e AIDS. Projeto Nascer.
+Brasília: Programa Nacional de DST/Aids. 2003.
+BRASIL. Ministério da Saúde. Secretaria de Vigilância em Saúde. Programa Nacional
+de DST e Aids. Protocolo para a prevenção de transmissão vertical de HIV e sífilis:
+manual de bolso. Brasília: Ministério da Saúde, 2007.
+
+BRASIL. Ministério da Saúde. Secretaria de Atenção à Saúde. Departamento de Ações
+Programáticas Estratégicas. Gestação de Alto Risco, Manual Técnico, Brasília,
+Editora MS, 5ª edição, 2010.
+BRASIL. Ministério da Saúde. Atenção à Saúde do Recém-Nascido. Guia para os
+Profissionais de Saúde, Intervenções Comuns, Icterícia e Infecções, Brasília, Editora
+MS, 2ª Edição, Volume 2, 2013.
+CUNHA, G. H. da; GALVÃO, M. T. G. Inserção de crianças nascidas de mães com
+HIV/aids nos programas de suplementação alimentar. Revista da Rede de
+Enfermagem do Nordeste-Rev Rene, Fortaleza, v. 8, n. 1, p.71-77, abr. 2007.
+DE BRITO, A.; DE CASTILHO, A.; SZWARCWALD, C. AIDS e infecção pelo HIV
+no Brasil: uma epidemia multifacetada. Revista da Sociedade Brasileira de Medicina
+Tropical, São Paulo, v. 34, n. 2, p. 207-217, mar./abr. 2000.
+FEBRASGO. Federação Brasileira de Associações de Ginecologia e Obstetrícia.
+Manual de Orientação Gestação de Alto Risco, 2011. Comissões Nacionais
+Especializadas. Ginecologia e Obstetrícia. Gestação de Alto Risco. Disponível em:
+http://www.febrasgo.org.br. Acesso em: 15 abr. 2014.
+GIUGLIANI, E. R. J. O aleitamento materno na prática clínica. Jornal de pediatria.
+UFRGS, Rio Grande do Sul, v. 76, supl. 3, p. s238-s252, dez. 2000.
+GONÇALVES, T. R.; PICCININI, C. A. Aspectos psicológicos da gestação e da
+maternidade no contexto da infecção pelo HIV/Aids. Psicologia USP, São Paulo, v. 18,
+n. 3, p. 113-142, set. 2007.
+GONÇALVES, T. R.; PICCININI, C. A. Experiência da maternidade no contexto do
+HIV/Aids aos três meses de vida do bebê. Psicologia: Teoria e Pesquisa, Brasília, v.
+24, n. 4, p. 459-470, out./dez. 2008.
+LAMOUNIER, J. A.; MOULIN, Z. S.; XAVIER, C. C. Recomendações quanto à
+amamentação na vigência de infecção materna. Jornal de Pediatria, UFMG, Belo
+Horizonte, v. 80, n. 5, p. 181-188, 2004.
+MARTINS, M. Z. Benefícios da amamentação para saúde materna. Interfaces
+Científicas-Saúde e Ambiente, Aracaju, v. 1, n. 3, p. 87-97, jun. 2013.
+
+MORENO, C. C. G. S.; REA, M. F.; FILIPE, E. V. Mães HIV positivo e a nãoamamentação. Revista brasileira de saúde materno infantil, Recife, v. 6, n. 2, p. 199208, abr./jun. 2006.
+PAIM, B. S.; SILVA, A. C. P.; LABREA, M. da G. A. Amamentação e HIV/AIDS:
+uma revisão. Boletim da Saúde, Porto Alegre, v. 22, n. 1, p. 68-74, jan./jun. 2008.
+SANTOS, S. F. F. dos; BISPO JÚNIOR, J. P. Desejo de maternidade entre mulheres
+com HIV/aids. Revista Baiana de Saúde Pública, Bahia, v. 34, n. 2, p. 299-310,
+abr./jun. 2011.
+SANTOS, R. C. S. dos; SOUZA, M. J. A. de. HIV na gestação. Estação Científica
+UNIFAP, Macapá, v. 2, n. 2, p. 11-24, jul./dez. 2014.
+TEIXEIRA, M. A. Soropositividade de mulheres para os vírus HIV e HTLV:
+significados do contágio do leite materno. Salvador (BA): Universidade Federal da
+Bahia, Programa de Pós-Graduação em Enfermagem, 2009.
+VASCONCELOS, S. G. et al. Comunicação mãe-filho durante amamentação natural e
+artificial na era AIDS. Revista da Rede de Enfermagem do Nordeste-Rev Rene, v.
+11, n. 4, p. 103-109, out./dez. 2012.
+VAZ, M. J. R.; BARROS, S. M. O. de. Redução da transmissão vertical do HIV:
+desafio para a assistência de enfermagem. Revista Latino-Americana de
+Enfermagem, Ribeirão Preto, v. 8, n. 2, p. 41-46, abr. 2000.
+VERISSIMO DE OLIVEIRA, M. I. et al. Puérperas com vírus humano da
+imunodeficiência positivo (HIV+) e as condições de nascimento de seus recémnascidos. Enfermería Global, Fortaleza, n. 28, p. 439-452, out. 2012.
+VINHAS, D. C. S. et al. Amamentação: impacto provocado nas gestantes HIV
+positivas. Revista Eletrônica de Enfermagem, v. 6, n. 1, p. 16-24, 2006.
+
+

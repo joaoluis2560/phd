@@ -1,0 +1,902 @@
+ISSN - 1519-0501
+
+DOI: 10.4034/PBOCI.2013.131.08
+
+Desmame Precoce: Falta de Conhecimento ou de
+Acompanhamento?
+Early Weaning: Lack of Knowledge or Lack of Follow Up?
+1
+
+2
+
+3
+
+Suzely Adas Saliba MOIMAZ , Orlando SALIBA , Heloisa Carvalho BORGES ,
+4
+2
+Najara Barbosa da ROCHA , Nemre Adas SALIBA
+
+1
+
+Professora Titular do Departamento de Odontologia Preventiva e Social da Faculdade de Odontologia de Araçatuba da Universidade Estadual
+Paulista (UNESP), Araçatuba/SP, Brasil.
+2
+Professor Titular do Programa de Pós-Graduação em Odontologia Preventiva e Social da Faculdade de Odontologia de Araçatuba da Universidade
+Estadual Paulista (UNESP), Araçatuba/SP, Brasil.
+3
+Mestranda do Programa de Pós-Graduação em Odontologia Preventiva e Social da Faculdade de Odontologia de Araçatuba da Universidade
+Estadual Paulista (UNESP), Araçatuba/SP, Brasil.
+4
+Doutoranda do Programa de Pós-Graduação em Odontologia Preventiva e Social da Faculdade de Odontologia de Araçatuba da Universidade
+Estadual Paulista (UNESP), Araçatuba/SP, Brasil.
+
+RESUMO
+Objetivo: Verificar conhecimentos de mulheres e orientações recebidas
+por elas sobre aleitamento materno, durante a gestação e após o
+nascimento dos bebês, e as influências destes sobre a prática da
+amamentação.
+Métodos: Trata-se de um estudo longitudinal, com acompanhamento
+de 84 pares de mães e bebês, da gestação ao sexto mês de vida dos
+bebês. Na primeira fase da pesquisa foram realizadas entrevistas
+domiciliares e em Unidades Básicas de Saúde com as gestantes, para
+obtenção de suas intenções e conhecimentos sobre a prática do
+aleitamento materno. Na segunda fase foi realizado acompanhamento
+das mães e bebês, do primeiro ao sexto mês de idade, para registro das
+dificuldades na amamentação e motivos de desmame.
+Resultados: No primeiro mês de vida, 94,3% (82) dos bebês foram
+amamentados, destes, apenas 49,4% (43) receberam leite materno
+exclusivamente. Ao final do sexto mês, 43,7% (38) dos bebês já tinham
+sido desmamados. Nenhuma mãe amamentava exclusivamente seu
+bebê ao sexto mês de vida. Durante a gravidez, 60,7% (51) das mães
+não receberam orientações sobre o aleitamento, e 83,4% (70) das mães
+receberam orientações sobre aleitamento após o nascimento das
+crianças. A maioria das mães (76,2%) tinha conhecimento do período
+ideal de amamentação. Um total de 73 (86,9%) mães acreditava que o
+aleitamento era benéfico ao bebê, mas somente 41 (48,8%) destas
+amamentaram. Somente 11 (13,1%) mulheres do estudo foram
+acompanhadas pela equipe do sistema público de saúde durante a
+lactação.
+Conclusão: Apesar da maioria das gestantes terem sido orientadas e
+possuírem conhecimento sobre o aleitamento materno, houve
+desmame precoce. Orientar é importante, entretanto, o apoio e o
+acompanhamento das mães são fundamentais para que se tenha
+sucesso na prática da amamentação.
+
+DESCRITORES
+Aleitamento materno; Desmame; Educação em saúde.
+
+ABSTRACT
+Objective: To assess the knowledge of women and the instructions
+received on breastfeeding during pregnancy and after childbirth, and
+their influence on breastfeeding practice.
+Method: This study was a longitudinal investigation following 84 pairs
+of mothers and babies from pregnancy through the sixth month of
+baby’s life. In the first phase of the research, interviews were made
+with the pregnant women at home and at Basic Health Units to collect
+information about their intentions and knowledge of breastfeeding. In
+the second phase of the research, mothers and babies were followed
+up from the first to sixth month of baby’s life to record the difficulties
+of breastfeeding and reasons for weaning.
+Results: In the first month, 94.3% (82) of the babies were breastfed, but
+only 49.4% (43) were breastfed exclusively. At the end of the sixth
+month of life, 43.7% (38) of the babies had already been weaned. No
+mother breastfed exclusively her baby within the sixth month. During
+pregnancy, 60.7% (51) of the mothers had no instructions about
+breastfeeding and 83.4% (70) of the mothers received instructions on
+breastfeeding after childbirth. Most mothers (76.2%) knew about the
+ideal breastfeeding period. Seventy-three (86.9%) mothers believed
+that breastfeeding was beneficial for the baby, but only 41 (48.8%) of
+them really breastfed. Only 11 (13.1%) mothers were followed up by
+the public health system team during lactation.
+Conclusion: Although most women had been instructed during
+pregnancy or after childbirth and had knowledge of breastfeeding,
+early weaning occurred. Advising is important, but the support and
+follow up of the mothers are of utmost importance for a successful
+breastfeeding practice.
+
+KEY-WORDS
+Breastfeeding; Weaning; Health education.
+
+Pesq Bras Odontoped Clin Integr, João Pessoa, 13(1):53-59, jan./mar., 2013
+
+53
+
+Moimaz et al. – Desmame Precoce: Falta de Conhecimento ou de Acompanhamento?
+
+INTRODUÇÃO
+O leite materno é o alimento ideal para o bebê e
+tem sido recomendado como alimento exclusivo até os
+seis primeiros meses de vida. Depois dos seis meses, com
+o objetivo de suprir suas necessidades nutricionais, a
+criança deve começar a receber alimentação
+complementar segura e nutricionalmente adequada,
+juntamente com a amamentação, até os dois anos de
+1
+idade . O aleitamento materno (AM) é de extrema
+importância para a sobrevivência e crescimento do bebê,
+pois atende todas as necessidades nutricionais,
+2
+imunológicas e emocionais do recém-nascido . As mães
+também experimentam vantagens com a amamentação
+que incluem aceleração da perda de peso ganho na
+gravidez e da involução uterina pós-parto e menor
+incidência de câncer de mama e de ovário. O aleitamento
+também traz benefícios para a família, sendo uma opção
+3
+econômica e prática .
+Desta forma, a promoção do AM deveria ser
+vista como ação prioritária para a melhoria da saúde e da
+qualidade de vida das crianças e de suas famílias.
+Promover o AM pode ser um bom exemplo de política
+pública que envolve a família, comunidade, governos e
+sociedade civil, com baixo custo e excelente impacto
+4
+sobre o desenvolvimento infantil . A partir da década de
+1990,
+várias
+normatizações e
+ações foram
+desencadeadas em nível nacional e internacional, com o
+objetivo de ampliar a divulgação dos benefícios e a
+prática do AM. Dentre elas destacam-se a Declaração de
+Innocenti, o estabelecimento da Norma Brasileira de
+Comercialização de Alimentos para Lactentes e Crianças
+de Primeira Infância (NBCAL), a iniciativa Hospital Amigo
+da Criança (IHAC) e a revigoração dos Programas de
+5
+Puericultura em Unidades Básicas de Saúde .
+Apesar da ampla divulgação nas maternidades,
+postos de puericultura e campanhas de saúde pública, a
+prática do AM ainda não atingiu a frequência e duração
+desejáveis, embora venha evoluindo favoravelmente,
+porém de maneira muito lenta, durante os últimos 30
+6,7
+anos . A prática da amamentação envolve uma
+complexa interação de fatores socioeconômicos,
+8
+culturais e psicológicos . Para que a amamentação
+natural seja uma prática frequente, é necessário avaliar e
+entender o que as mães pensam em relação ao período
+da amamentação, e também os motivos por que elas a
+5
+interrompem . Desafio ainda maior é descobrir quais as
+ações podem atuar nesses fatores, modificando-os de
+forma a promover maior adesão das mães à prática do
+AM.
+Os profissionais de saúde são importantes no
+incentivo do AM, apoiando e instruindo a nutriz, pelo
+acompanhamento pré-natal cuidadoso, formação de
+grupos de gestantes, alojamento conjunto, durante a
+puericultura e na promoção de campanha de incentivo
+8
+ao aleitamento . Afinal, na medida em que se conhecem
+os motivos que possam contribuir com o desmame
+precoce, pode-se atuar melhor no sentido de prevenção
+
+54
+
+desses fatores de forma mais direcionada e, portanto,
+9
+mais eficaz . Além de conhecer os motivos que levam ao
+desmame precoce, é fundamental acompanhar e apoiar
+as mães para que as mesmas se sintam capazes de
+enfrentar as dificuldades que possam surgir.
+Desta forma, é de grande importância avaliar as
+orientações sobre AM recebidas pelas mães e verificar o
+quanto essas orientações são capazes de motivá-las,
+modificando comportamentos e levando à prática do
+AM. Portanto, esse estudo longitudinal tem como
+objetivo analisar, no serviço público, o conhecimento das
+mães e as orientações recebidas por elas sobre AM
+durante a gestação e lactação, bem como verificar a
+associação entre esses fatores e a prática do AM.
+
+METODOLOGIA
+Amostra
+A população de estudo constituiu de 101
+mulheres que estavam no terceiro trimestre de gestação,
+cadastradas no serviço público de saúde de dois
+municípios do Estado de São Paulo, Araçatuba e Piacatu,
+no período de março a julho de 2007. Todas as gestantes
+foram visitadas em seus domicílios ou entrevistadas na
+própria Unidade Básica de Saúde. Foram excluídas do
+estudo as gestantes que estavam com endereço
+cadastrado não encontrado, errado, ou incompleto; as
+que se recusaram a participar do estudo e as que não
+estavam no seu último trimestre de gravidez. A amostra
+final foi de 84 mães e 87 bebês, uma vez que três mães
+tiveram gêmeos.
+
+Desenho do estudo
+Foi realizado um estudo de coorte, prospectivo,
+parte de um estudo maior que acompanhou gestantes
+desde o pré-natal (último trimestre de gestação) até os
+36 meses de idade dos bebês.
+Inicialmente, foi realizado um estudo piloto para
+validação e adequação do instrumento de coleta de
+dados, aferição das dificuldades encontradas,
+capacitação e calibração dos pesquisadores. O processo
+de capacitação consistiu numa exaustiva análise do
+questionário a ser aplicado, com discussão das questões
+mais controversas. Para padronização do exame clínico,
+todos os examinadores foram previamente calibrados. O
+processo de calibração constou de uma etapa teórica,
+com estudo dos indicadores e de casos clínicos, e de uma
+etapa prática, que incluiu realização de exames e
+discussão pela técnica do consenso. O valor do teste
+Kappa, teste de concordância entre os pesquisadores, foi
+de K=0.91.
+O estudo foi realizado em duas fases. A primeira
+consistiu do acompanhamento das gestantes até a
+proximidade do parto, e foram avaliadas as condições
+socioeconômico-cultural e os conhecimentos sobre o
+AM. Foram realizadas entrevistas domiciliares pelos
+pesquisadores, previamente calibrados, utilizando um
+
+Pesq Bras Odontoped Clin Integr, João Pessoa, 13(1):53-59, jan./mar., 2013
+
+Moimaz et al. – Desmame Precoce: Falta de Conhecimento ou de Acompanhamento?
+
+formulário
+semiestruturado,
+contendo
+variáveis
+quantiqualitativas, como dados pessoais da mãe,
+informações sobre moradia e renda, escolaridade e
+conhecimento sobre o AM. A segunda fase do estudo foi
+conduzida após o nascimento dos bebês e envolveu o
+acompanhamento das mães e de seus bebês, por meio
+de visitas domiciliares mensais, do primeiro ao sexto mês
+de vida dos bebês. Durante as visitas mensais, um roteiro
+foi utilizado para registro das dificuldades em relação ao
+aleitamento, motivos alegados para a introdução de
+outros alimentos diferentes do leite materno, e motivos
+de desmame.
+A classificação proposta pela Organização
+Mundial da Saúde (OMS) foi utilizada para a definição do
+padrão de aleitamento: aleitamento exclusivo quando a
+criança consome apenas o leite materno, aleitamento
+predominante quando além do leite materno há adição
+de outros líquidos, aleitamento complementar para
+bebês que consomem outros alimentos sólidos e o leite
+materno, e por fim, aleitamento artificial quando ocorre
+o desmame. O aleitamento total incluiu todas as crianças
+que foram amamentadas, independentemente de ser de
+10
+forma exclusiva, predominante ou complementar .
+Os dados obtidos foram analisados por meio do
+11
+programa Epi Info 2000 , programa para Windows de
+livre distribuição pela OMS, e o pacote estatístico
+12
+Bioestat 5.0 . Os dados foram expressos em média ±
+desvio-padrão e porcentagem. Foram utilizadas as
+seguintes variáveis independentes: conhecimento da
+mãe sobre a existência de benefício da AM para o filho;
+conhecimento da mãe sobre a existência de benefício da
+AM para ela mesma; orientações sobre AM recebidas
+durante a gestação; orientações sobre AM recebidas
+após o nascimento dos bebês; acompanhamento das
+mães pelos serviços de saúde durante o AM. O AM foi
+utilizado como desfecho. O teste do Qui-quadrado e o
+Exato de Fisher foram empregados para investigar
+associações entre as variáveis independentes e o AM. A
+análise dos períodos de AM exclusivo e AM total foi
+realizada utilizando-se análise de sobrevivência. Para
+comparar duas ou mais amostras, dispostas em n tabelas
+de contingência e cálculo do odds ratio e do intervalo de
+confiança (95%), foi aplicado o teste de sobrevivência de
+Mantel–Haenzel. Para a análise qualitativa, as respostas
+foram transcritas na íntegra como foram respondidas e
+analisadas segundo a “Análise do Conteúdo” preconizada
+13
+por Bardin . Houve a categorização das respostas e
+análise em profundidade dos conteúdos.
+
+Aspectos éticos
+Este estudo foi aprovado pelo Comitê de Ética e
+Pesquisa em Seres Humanos da Faculdade de
+Odontologia de Araçatuba – FOA/Unesp, sob processo
+2006–01471. Todas as mães entrevistadas receberam
+informações sobre os objetivos do estudo. As mães
+foram orientadas de que a sua não-participação não lhe
+acarretaria prejuízo e que os dados coletados
+permaneceriam anônimos.
+
+RESULTADOS
+As características das 84 mães selecionadas para
+o estudo estão apresentadas na Tabela 1. A maioria da
+população do estudo caracterizou-se por ser jovem (25 ±
+5.70 anos), de baixa escolaridade e baixo poder
+aquisitivo, de cor parda ou negra, viver com os parceiros,
+ser do lar e não estar na primeira gestação (Tabela 1).
+Vale ressaltar que dentre as 84 mães do estudo, três
+delas tiveram gêmeos, portanto, no texto, a descrição de
+resultados refere-se a 87 bebês.
+A taxa de crianças amamentadas no primeiro
+mês, seguinte ao nascimento, foi de 94,3% (82) dos
+bebês, entretanto apenas 43 (49,4%) dos bebês recebiam
+AM exclusivo durante esse período. No terceiro mês, a
+taxa de aleitamento exclusivo diminuiu para 13,8% (12) e
+nenhum bebê continuou a ser amamentado
+exclusivamente até o sexto mês de vida. Ao final do sexto
+mês, quase metade dos bebês já tinham sido
+completamente desmamados. As curvas de AM exclusivo
+e AM total estão mostradas na Figura 1.
+Maior número de mães recebeu orientações
+sobre a amamentação, pela equipe de saúde local, após
+os bebês terem nascidos (83,4%) do que durante o
+período gestacional (39,3%). As orientações foram
+transmitidas principalmente pelos médicos (68,5%)
+durante a gravidez e pelas enfermeiras (77,2%) após o
+nascimento dos bebês.
+Um total de 64 (76,2%) mães sabia o tempo
+ideal que deveriam amamentar exclusivamente, mas
+apenas 34 (40,5%) amamentaram exclusivamente
+durante esse período. Na Tabela 2 é mostrado o
+conhecimento das mães sobre os benefícios para o bebê
+e para as mães em se realizar o AM. Havia 73 (86,9%)
+mães que acreditavam que existiam benefícios aos
+bebês, mas apenas 41 (48,8%) amamentaram. Apenas 46
+(54,7%) mães acreditavam que existiam benefícios para
+as mães em amamentar e somente 25 (29,8%)
+amamentaram (Tabela 2).
+Da totalidade de mulheres, 41 (48,8%)
+receberam ajuda de algum membro do sistema local de
+saúde sobre como realizar a amamentação. Na análise
+qualitativa da opinião dessas mulheres sobre a ajuda
+recebida, a maioria (78%) considerou “ótima” ou “boa”.
+Somente 11 (13,0%) mulheres foram acompanhadas pela
+equipe local de saúde durante a lactação.
+Dezessete
+(20,2%)
+mães
+apresentaram
+dificuldades em amamentar seu bebê. As principais
+dificuldades relatadas pelas mães durante a
+amamentação foram: o bebê não sugava ou não pegava
+o peito (10,5%); problemas no bico do seio como
+rachaduras, sangramentos, mamas invertidas e falta de
+bico (63,1%); dificuldades em amamentar (15,8%); falta
+de leite ou leite secou (10,5%). Observou-se uma relação
+significante muito forte entre mulheres que tiveram
+dificuldades em amamentar e a prática do AM
+(p<0,0001).
+
+Pesq Bras Odontoped Clin Integr, João Pessoa, 13(1):53-59, jan./mar., 2013
+
+55
+
+Moimaz et al. – Desmame Precoce: Falta de Conhecimento ou de Acompanhamento?
+
+Tabela 1. Características gerais da população de estudo, constituído de mães (n=84) e bebês (n=87) em dois
+municípios paulista, Araçatuba e Piacatu, 2010.
+n
+%
+Renda familiar (SM)
+0a2
+48
+57,1
+Mais de 2
+36
+42,9
+Idade (anos)
+Menor que 20
+13
+15,5
+20 a 25
+30
+35,7
+25 a 30
+30
+35,7
+Mais de 30
+11
+13,1
+Cor
+Branca
+35
+41,7
+Parda e Negra
+49
+58,3
+Situação conjugal
+Mora com o parceiro
+67
+79,8
+Não mora com o parceiro
+17
+20,2
+Profissão
+Características maternas
+Não trabalha
+44
+52,3
+Funcionária Privada
+21
+25,0
+Funcionária Pública
+4
+4,8
+Estudante desempregada
+5
+6,0
+Autônoma
+7
+8,3
+Outros empregos
+3
+3,6
+Escolaridade
+Analfabeta
+1
+1,2
+Ensino Fundamental Incompleto
+18
+21,4
+Ensino Fundamental Completo
+10
+11,9
+Ensino Médio Incompleto
+20
+23,8
+Ensino Médio Completo
+27
+32,1
+Ensino Superior Incompleto
+5
+6,0
+Ensino Superior Completo
+3
+3,6
+Número de filhos nascidos e vivos
+Primigesta
+36
+41,4
+Mais de um filho
+51
+58,6
+Gênero
+Masculino
+38
+43,7
+Feminino
+49
+56,3
+Peso ao nascer (gramas)
+Características infantis
+Menor que 2500
+12
+13,8
+2500 ou mais
+75
+86,2
+Idade Gestacional
+Menos que 37 semanas
+16
+18,4
+37 semanas ou mais
+71
+81,6
+SM (Salário Mínimo): valor vigente na época da coleta de dados – R$ 415,00
+Fonte: IBGE
+Aleitamento exclusivo
+
+Aleitamento materno
+
+140
+120
+
+82
+74
+
+100
+80
+
+68
+64
+
+60
+40
+
+57
+47
+
+43
+27
+
+20
+12
+0
+1º mês
+
+4
+2º mês
+
+3º mês
+
+4º mês
+
+1
+5º mês
+
+0
+6º mês
+
+Figura 1. Distribuição numérica das crianças (n=87), segundo o aleitamento materno
+exclusivo e materno total de dois municípios paulista, Araçatuba e Piacatu, 2010.
+
+56
+
+Pesq Bras Odontoped Clin Integr, João Pessoa, 13(1):53-59, jan./mar., 2013
+
+Moimaz et al. – Desmame Precoce: Falta de Conhecimento ou de Acompanhamento?
+
+Tabela 2. Distribuição numérica de mães segundo seu conhecimento sobre a existência de benefícios do
+aleitamento materno para o bebê e para a mãe, Araçatuba e Piacatu, 2010.
+Existe benefício para o filho
+Existem benefícios para a mãe
+Amamentou
+Sim
+Não
+Sim
+Não
+Sim
+41
+6
+25
+22
+Não
+32
+5
+21
+16
+Total
+73
+11
+46
+38
+Valor de p
+(Teste Exato de Fisher)
+
+1,0000
+
+0,8286
+
+Tabela 3. Análise dos fatores maternos associados com o aleitamento materno entre 1 a 6 meses, pelo método
+mantel-Haenzel, Araçatuba e Piacatu, 2010.
+Aleitamento Materno
+Variáveis
+p
+Odds Ratio
+IC95%
+Está sendo acompanhada pelos serviços de saúde
+0,0543
+1,8459
+1,0305 - 3,3066
+Orientação durante a gestação
+0,0118
+1,7326
+1,1454 - 2,6207
+Orientação após o nascimento
+0,0033
+2,7737
+1,4221 - 5,4099
+
+As mães que receberam orientações sobre o AM
+durante a gestação e após o nascimento tiveram uma
+chance significativamente maior de realizar o AM (odds
+ratio: 1,7326, IC95%: 1,1454 - 2,6207; odds ratio: 2,7737,
+IC95%: 1,4221 - 5,4099, respectivamente). As mães que
+eram acompanhadas pelos serviços de saúde tiveram
+maior tendência de realizar o AM (odds ratio: 1,8459,
+IC95%: 1,0305 - 3,3066) (Tabela 3).
+
+DISCUSSÃO
+Apesar de registros recentes na literatura
+4,8
+científica de aumento dos índices de aleitamento , as
+condições ideais ainda estão distantes de serem
+alcançadas e justificam estudos como este, que resgatam
+medidas de baixo custo na promoção da prática da
+amamentação. Tais medidas consideram a importância
+dos profissionais de saúde fornecerem orientações sobre
+AM às gestantes, nas fases pré e pós-natais e
+14,15
+acompanhá-las durante a lactação . Atividades de
+promoção, apoio e proteção ao AM representam
+importantes estratégias para redução da morbidade
+infantil,
+especialmente
+em
+países
+em
+16,17
+desenvolvimento .
+No presente estudo observa-se que as
+orientações recebidas pelas gestantes sobre a
+amamentação, durante a gestação e após o nascimento
+dos bebês, tiveram influência positiva, estatisticamente
+significante, no padrão de aleitamento. Esses resultados
+mostram que essas orientações podem ser consideradas
+como fatores motivadores para as mães em amamentar.
+As orientações sobre a amamentação são importantes
+para motivar as mães a iniciarem e manterem o AM. São
+também cruciais para prover informações sobre as
+vantagens para as mães e para os bebês em amamentar
+e para estimularem discussões sobre mitos e tabus
+relacionados ao tema. Adicionalmente, atividades
+
+interativas, como de grupos de gestantes, podem ser
+utilizadas para ajudar as mulheres aprenderem sobre a
+experiência de outras mães e sobre o significado do
+aleitamento. Orientar é importante, porém mais
+importante que isso é acompanhar as mães no período
+da lactação, identificando precocemente dificuldades
+que podem vir a surgir como traumas mamilares,
+sangramentos, mamadas pouco eficientes. Se esses
+problemas não forem bem acompanhados e assistidos
+podem levar ao desmame precoce.
+A equipe médica foi a maior responsável pelas
+orientações às mães durante a gestação, e a enfermeira
+após o nascimento do bebê, daí a importância de se ter
+uma equipe treinada e voltada ao estímulo do AM. Os
+profissionais da saúde, por meio de suas atitudes e
+práticas, podem influenciar positiva ou negativamente o
+18
+início da amamentação e sua duração . Em particular, os
+obstetras, durante o período pré-natal, e os pediatras e a
+equipe de enfermagem, no período neonatal, podem
+incentivar a amamentação e apoiar as mães, ajudando-as
+a iniciá-la precocemente e a adquirirem autoconfiança
+19,20
+em
+sua
+capacidade
+de
+amamentar
+.
+O
+desenvolvimento ostensivo de ações de apoio à
+amamentação dentro das instituições hospitalares que
+assistem ao parto e ao recém-nascido é reconhecido
+como medida capaz de modificar o perfil de AM em uma
+21,22
+população .
+O Sistema Público de Saúde Brasileiro possui
+como base a Estratégia de Saúde da Família, que se
+constitui num modelo de atenção integral à saúde, com
+ênfase na promoção e prevenção. A Estratégia de Saúde
+da Família inclui a formação de equipes
+multidisciplinares, que são responsáveis pela atenção
+básica, sendo uma de suas importantes ações a
+realização de visitas domiciliares em áreas pré-definidas.
+Nessas visitas, os profissionais de cada equipe realizam
+atividades de diagnóstico de risco, encaminhamento para
+tratamento, ações de prevenção e controle de doenças
+
+Pesq Bras Odontoped Clin Integr, João Pessoa, 13(1):53-59, jan./mar., 2013
+
+57
+
+Moimaz et al. – Desmame Precoce: Falta de Conhecimento ou de Acompanhamento?
+
+crônicas. As equipes de saúde da família ostentam uma
+condição privilegiada para atividades educativas. A
+inserção na comunidade, com o envolvimento de
+lideranças locais, representadas pelos agentes
+comunitários de saúde, propiciam maiores chances de
+4
+êxito para atividades educativas . Estudos prévios
+mostram que, embora esses profissionais possuam
+informações sobre as vantagens do AM, eles não
+dispõem de informações para manejo das principais
+dificuldades enfrentadas
+pelas nutrizes como
+ingurgitamentos, técnica inadequada, ou problemas com
+3
+os mamilos. Como constatado em estudos anteriores ,
+um profissional de saúde com treinamento específico,
+altamente motivado para o incentivo ao AM pode obter
+23,24
+melhoras no índice de AM de uma população .
+No presente estudo, mesmo quando as
+orientações foram fornecidas, observou-se que os índices
+de aleitamento estavam abaixo do ideal, uma vez que
+apenas pouco mais da metade das crianças estavam
+sendo amamentadas até o sexto mês de vida e nenhuma
+na forma exclusiva. Sabe-se que o AM exclusivo é a
+forma mais eficaz e segura de se alimentar o recémnascido. O contato precoce do neonato com proteína de
+leite de outra espécie constitui significativo fator de risco
+para doenças alérgicas e autoimunes, tais como
+bronquites, dermatite atópica, intolerância ou alergia ao
+leite de vaca e diabetes tipo I. O uso de outros líquidos,
+rompendo o aleitamento exclusivo, eleva o risco de
+morbidade, especialmente diarreia, pneumonia e
+25
+otites .
+Um aspecto importante a ser considerado nesse
+estudo é o fato das mães que tiveram dificuldades em
+amamentar,
+pela
+falta
+de
+conhecimento
+e
+acompanhamento, fracassaram em amamentar seus
+filhos. Nossos resultados demonstram uma relação
+significante entre mulheres que tiveram dificuldades de
+amamentar e a prática do AM (p<0,0001), resultando
+assim em desmame precoce. Corroborando este
+trabalho, estudo anterior avaliou, mediante a aplicação
+de um protocolo preconizado pela Unicef, as
+necessidades especiais de apoio para um início bem
+sucedido do AM. Os autores verificaram que diversas
+dificuldades iniciais, tais como má posição corporal da
+mãe e do bebê durante a mamada, inadequação da
+interação mãe/neonato, problemas entre o binômio
+referentes, principalmente, à amamentação que dificulta
+a pega adequada e que pode causar traumas mamilares,
+mamadas pouco eficientes e o não-esvaziamento
+completo da mama trouxeram consequências negativas
+para a produção de leite e para o crescimento de bebê,
+sugerindo que dificuldades no início da amamentação
+26
+podem conduzir ao desmame precoce .
+No presente estudo, apenas 13,0% das mães
+receberam acompanhamento da equipe de saúde local
+durante a lactação. Índice esse muito baixo, sabendo-se
+da necessidade de se apoiar e acompanhar as mães
+durante a lactação para que as mesmas se mantenham
+seguras em suas habilidades e conhecimentos para a
+contínua realização do AM. Uma vez que poucas mães
+
+58
+
+receberam acompanhamento, esta falta de ajuda e apoio
+pode ser considerada o motivo de um grande número de
+mães ter fracassado na prática da amamentação.
+Dada a importância que os profissionais de
+saúde ocupam no processo da amamentação, as equipes
+multiprofissionais da rede pública deveriam ser
+estimuladas a ter uma formação mais ampla e
+continuada sobre AM. Isso poderia ser uma diretriz de
+política de saúde de baixo custo e certamente de alta
+resolubilidade, gerando grandes avanços na saúde
+27
+coletiva, com melhorias no índice de aleitamento .
+Uma limitação desse estudo foi as perdas da
+amostra pela mudança de endereço das gestantes,
+mudanças de cidade e desistência. Entretanto,
+considerando que ainda permaneceu um bom número
+amostral, acreditamos que os resultados desse estudo
+não foram significativamente comprometidos. Outra
+limitação foi que avaliamos somente gestantes da rede
+pública, portanto esses resultados não podem ser
+extrapolados para gestantes atendidas na medicina
+suplementar.
+
+CONCLUSÃO
+A educação em saúde, durante a gestação e
+após o nascimento dos bebês, é importante para a
+promoção de AM. Porém, somente a educação não foi
+suficiente para evitar o desmame precoce. O
+acompanhamento das mães durante a lactação é
+fundamental, mostrando a importância de não só
+informar, mas também apoiar e acompanhar essas
+mulheres para que se tenha sucesso na prática do AM.
+AGRADECIMENTOS
+Os autores agradecem a Fundação de Amparo à
+Pesquisa do Estado de São Paulo-Fapesp, pelo auxílio
+financeiro.
+
+REFERÊNCIAS
+1. World Health Organization (SW). WHA Resolution 54.2.
+Geneva (SW): World Health Organization; 2001.
+2. Popkin BM, Adair JS, Black R. Breast-feeding and diarrheal
+morbidity. Pediatrics 1990; 86(6):874-82.
+3. Giugliani ERJ. Amamentação: como e porque promover? J
+Pediatr 1994; 70(3):128-47.
+4. Parada CMGL, Carvalhaes MABL, Winckler CC, Winckler LA,
+Winckler VC. Situação do aleitamento materno em população
+assistida pelo programa de saúde da família-PSF. Rev Latino-am
+Enfermagem 2005; 13(3):407-14.
+5. Del Ciampo LA, Ferraz IS, Daneluzzi JC, Ricco RG, Martinelli
+CE. Aleitamento materno exclusivo: do discurso à prática.
+Pediatria 2008; 30(1):22-6.
+6. Organização Mundial da Saúde. Proteção, promoção e
+apoio ao aleitamento materno. Genebra: OMS; 1989. 32p.
+7. Braun MLG, Giugliani ERJ, Soares MEM, Giugliani C, Oliveira
+AP, Danelon CMM. Evaluation of the impact of the baby-
+
+Pesq Bras Odontoped Clin Integr, João Pessoa, 13(1):53-59, jan./mar., 2013
+
+Moimaz et al. – Desmame Precoce: Falta de Conhecimento ou de Acompanhamento?
+
+friendly hospital initiative on rates of breastfeeding. Am J Public
+Health 2003; 93(8):1277-9.
+8. Caldeira AP, Fagundes GC, Aguiar GN. Intervenção
+educacional em eqipes do programa de saúde da família para
+promoção da amamentação. Rev Saúde Pública 2008;
+42(6):1027-33.
+9. Losch M, Dungy CI, Russell D, Dusdieker LB. Impact of
+attitudes on maternal decisions regarding infant feeding. J
+Pediatr 1995; 126(4):507-14.
+10. World Health Organization. Indicators for assessing
+breastfeeding practices. Geneva: WHO;2007. Disponível em:
+http://www.who.int/nutrition/publications/iycf_indicators_for
+_peer_review.pdf
+11. Program Epi Info™ Version 3.5.1. *citado em 11 Nov 2008+
+Disponível em: http://www.cdc.gov/epiinfo/
+12. Programa BioEstat 5.0 [citado em 11 Nov 2008] Disponível
+em:
+http://www.mamiraua.org.br/download/index.php?dirpath=./
+BioEstat%205%20Portugues&order=0
+13. Bardin. Análise de conteúdo. 3. ed. São Paulo: Ed. 70, 2004.
+14. Chapman DJ. Does maternal diet contribute to colic among
+breastfed infants? J Hum Lact 2006; 22(2):236-7.
+15. Giuliani NR, Oliveira J, Santos BZ, Bosco VL. Prevalência do
+início do desmame precoce em duas populações assistidas por
+serviços de puericultura de Florianópolis, SC, Brasil. Pesq Bras
+Odontoped Clin Integr 2011; 11(2):239-44.
+16. Theobald HE. Eating for pregnancy and breast-feeding. J
+Fam Health Care 2007; 17(2):45-9.
+17. Ramalho RA, Saunders C. O papel da educação nutricional
+no combate às carências nutricionais. Rev Nutr 2000; 13:11-6.
+18. Giuliani NR, Oliveira J, Santos BZ, Bosco VL. O início do
+desmame precoce: motivos das mães assistidas por serviços de
+puericultura de Florianópolis/SC para esta prática. Pesq Bras
+Odontoped Clin Integr 2012; 12(1):53-8.
+19. Winikoof B, Baer EC. The obstetrician's opportunity:
+translating "breast is best" from theory to practice. Am J Obstet
+Gynecol 1980; 138(1):105-17.
+20. Patton CB, Beaman M, Sarn C, Lewinski C. Nurses’ attitudes
+and behaviors that promote breast-feeding. J Hum Lact 1996;
+12(2):111-5.
+21. World Health Organization. World Health Assembly 47.5
+Geneva: WHO; 1994.
+22. Aldair LS, Popkin BM, Guilkey DK. The duration of breastfeeding: how is it affected by biological, sociodemographic,
+health sector, and food industry factors? Demography 1993;
+30(1):63-80
+23. Santiago LB, Bettiol H, Barbieri MA, Guttierrez MRP, Del
+Ciampo LA. Incentivo ao aleitamento materno: a importância
+do pediatra com treinamento específico. Arch Pediatr Urug
+2005; 76(1):75-84.
+24. Giuliani NR, Oliveira J, Traebert J, Santos BZ, Bosco VL.
+Fatores associados ao desmame precoce em mães assistidas
+por serviços de puericultura de Florianópolis/SC. Pesq Bras
+Odontop Clin Integr 2011; 11(3):417-23
+25. Victoria C, Smith PG, Vaughan JP, Nobre LC, Lombardi C,
+Teixeira AM, et AL. Evidence for protection by breastfeeding
+against infant death from infection disease in Brazil. Lancet
+1987; 2(8554):319-22.
+26. Carvalhares MABL, Corrêa CRH. Identificação de
+dificuldades no início do aleitamento materno mediante
+aplicação de protocolo. J Ped 2003; 79(1):13-20.
+27. Ministério da Saúde. Prevalência de aleitamento materno
+nas capitais brasileiras e no Distrito Federal: relatório
+preliminar.
+Brasília;
+2001.
+Disponível:URL:
+http://tabnet.datasus.gov.br/ cgi/idb2001/d20.pdf. Acessado:
+07 de junho de 2003.
+
+Recebido/Received: 29/03/2012
+Revisado/Reviewed: 15/12/2012
+Aprovado/Approved: 11/02/2013
+
+Correspondência:
+Heloisa Carvalho Borges
+Rua José Bonifácio, nº1193, Vila Mendonça
+Programa de Pós-Graduação em Odontologia
+Preventiva e Social
+CEP: 16015-050 – Araçatuba-SP
+Telefone: (18) 3636-3249/3636-3250
+E-mail: heloborges@hotmail.com
+
+Pesq Bras Odontoped Clin Integr, João Pessoa, 13(1):53-59, jan./mar., 2013
+
+59
+
+

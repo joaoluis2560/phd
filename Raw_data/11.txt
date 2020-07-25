@@ -1,0 +1,515 @@
+Original Article
+
+Breastfeeding self-efficacy: a cohort study
+Autoeficácia na amamentação: um estudo de coorte
+Erdnaxela Fernandes do Carmo Souza1
+Rosa Áurea Quintella Fernandes2
+
+Keywords
+Maternal-child nursing; Obstetrical
+nursing; Breastfeeding; Infant nutrition;
+Self-efficacy
+Descritores
+Enfermagem materno-infantil;
+Enfermagem obstétrica; Aleitamento
+materno; Nutrição do lactente;
+Autoeficácia
+
+Submitted
+April 29, 2014
+Accepted
+July 29, 2014
+
+Corresponding author
+Rosa Áurea Quintella Fernandes
+Teresa Cristina square, 229, Guarulhos,
+SP, Brazil. Zip Code: 07023-070
+fernands@uol.com.br
+DOI
+http://dx.doi.org/10.1590/19820194201400076
+
+Abstract
+Objective: Evaluate the clinical use of the Breastfeeding Self-Efficacy Scale as predictive of early weaning and
+verify if women who had higher self-efficacy scores breastfed for longer periods.
+Methods: Cohort study developed with 100 postpartum mothers. Research instrument used: Breastfeeding
+Self-Efficacy Scale-Short Form. The feeding was monitored on the 7th, 15th, 30th, 45th and 60th day, by
+phone.
+Results: The mean duration of exclusive breastfeeding was 53.2 days (SD 14.2). Most mothers (82.3%) had
+scores compatible with high self-efficacy for breastfeeding, none had low efficacy. There was no statistically
+significant difference in the comparison of mean duration of exclusive and non-exclusive breastfeeding, with
+the scores of medium and high efficacy.
+Conclusion: Findings did not enable the confirmation of the use of the scale as a predictor of risk of early
+weaning. No relation was observed between higher scores of high efficacy and longer periods of exclusive
+breastfeeding.
+
+Resumo
+Objetivo: Avaliar o uso clínico da Escala de Autoeficácia na amamentação como preditiva do desmame precoce
+e verificar se as mulheres que obtiveram maiores escores de autoeficácia amamentaram por mais tempo.
+Métodos: Estudo de coorte com 100 puérperas. Instrumento de pesquisa utilizado: Breastfeeding Self-Eficacy
+Scale-Short Form. O aleitamento foi monitorado no 7º, 15º, 30º, 45º e 60º dia, por telefone.
+Resultados: A média de aleitamento materno exclusivo foi de 53,2 dias (DP 14,2). A maioria das mães
+(82,3%) obteve escores compatíveis com alta autoeficácia para a amamentação, nenhuma apresentou baixa
+eficácia. Não houve diferença estatisticamente significativa na comparação da média de tempo de aleitamento
+exclusivo e não exclusivo, com os escores de média e alta eficácia.
+Conclusão: Os resultados não permitiram confirmar a utilização da escala como preditiva de risco de desmame
+precoce. Não se observou relação entre maiores escores de alta eficácia e maior tempo de aleitamento
+materno exclusivo.
+
+Hospital Samaritano, São Paulo, SP, Brazil.
+Universidade Guarulhos, Guarulhos, SP, Brazil.
+Conflicts of Interest: there are no conflicts of interest to declare.
+1
+2
+
+Acta Paul Enferm. 2014; 27(5):465-70
+
+465
+
+Breastfeeding self-efficacy: a cohort study
+
+Introduction
+The World Health Organization (WHO) and the
+United Nations Children’s Fund (UNICEF) have
+undertaken efforts to protect, promote and support exclusive breastfeeding (EBF), so that mothers are able to establish and keep it for the first
+six months of life of the baby.(1) But this reality
+in Brazil is still far from being achieved, since the
+prevalence of exclusive breastfeeding in the first 6
+months is only 41%, according to the latest survey
+conducted in the Brazilian capitals and the Federal
+District (DF).(2)
+Breastfeeding (BF) is considered, worldwide,
+one of the fundamental pillars for promoting and
+protecting the health of children and its social impact can be quantified through the reduction of
+medical consultations, hospitalizations and medical
+treatments, since the child in EBF has lower risk
+of becoming ill.(3) The obstacles to breastfeeding are
+numerous, but generally the allegations to its abandonment involve myths and misinformation, even
+among women with higher socioeconomic status,
+which confirms the importance of guidance and
+interventions from healthcare professionals in supporting nursing mothers.
+The advancement of public health policies
+in encouraging BF is increasingly evident.(4) The
+outlining of these actions is notorious and covers
+a great part of the women using the public health
+network. On the other hand, women who do not
+use this network and are assisted in private institutions not always can count on professional support
+to help them during the difficulties in BF, especially
+after discharge.
+In this context, it becomes necessary to reformulate strategies, mainly from the private health
+network, to promote, protect and support EBF,
+reinforcing the adherence of women who are able
+to be assisted in the private health network. These
+mothers generally receive breastfeeding support
+while hospitalized, however, almost no institution
+has resources available to maintain this support after delivery in the domicile, or has breastfeeding
+outpatient services. These deficiencies may favor
+early weaning in this segment.
+
+466
+
+Acta Paul Enferm. 2014; 27(5):465-70
+
+Therefore, the institutions and professionals in
+the private health network are faced with the challenge of implementing breastfeeding care practices
+during the prenatal, delivery and postpartum periods, mainly because of the need for professional
+support mothers have in the first days after birth,
+a phase that is a defining moment to overcome a
+series of obstacles to breastfeeding and to avoid its
+abandonment.
+Following up mother and baby at a breastfeeding outpatient service, until the tenth day after
+discharge, represents a strategy that can contribute to reverse an inadequate indication of formula
+supplementation, or even a possible breastfeeding
+interruption.(5) Unfortunately, there are only a few
+private health services that promote monitoring of
+both mother and child after discharge.
+Learning the willingness of mothers to breastfeeding can be a way to predict whether they will
+maintain the recommended breastfeeding period,
+which would help professionals to identify difficulties and weaknesses and establish supportive
+interventions. The application of a breastfeeding
+self-efficacy scale could point out the mothers with
+more weaknesses, in the aspects required in the
+process of breastfeeding, and allow interventions
+during provision of nursing care that occurs after
+childbirth, intending to provide support for successful breastfeeding.
+A study associated longer periods of EBF with
+the determination of the mothers to breastfeed, and
+it recommended attention from health professionals
+to the absence of mothers’ determination to breastfeeding, so that interventions can be performed to
+consolidate this practice.(6)
+The objective of this study was to evaluate the
+clinical use of the Breastfeeding Self-Efficacy Scale
+as predictive of early weaning and to verify if the
+women who had higher self-efficacy scores breastfed
+longer than those who had lower scores.
+
+Methods
+This is a cohort study conducted in a large private
+hospital, located in an upscale neighborhood of the
+
+Souza EF, Fernandes RA
+
+city of São Paulo. The sample was defined by convenience and comprised 100 postpartum women who
+gave birth in the period between November 2010
+and April 2011, and who met the following inclusion criteria: being in postpartum (48-72 hours
+after delivery); having agreed to participate in the
+study for up to 60 days after the baby’s birth; having
+a landline or mobile phone number; being breastfeeding exclusively during hospitalization.
+The survey instrument used was the Escala de
+Autoeficácia na Amamentação, the Brazilian version
+of the Breastfeeding Self-Eficacy Scale-Short Form
+(BSES-SF). This scale has been validated in Brazil
+by Dodt in 2008, who applied it in a public hospital in Ceará.(7) This instrumentis clinically useful for
+nurses to apply in the postpartum period, mainly
+due to short hospital stays. The scale helps to recognize mothers who are likely to succeed in breastfeeding, providing them with positive reinforcement, as well as those who may need interventions
+before discharge, in order to provide appropriate
+and effective assistance.(8)
+The scale consists of three dimensions (magnitude, generalization and strength) and is based on
+four sources of information (personal experience,
+observational or vicarious experience, verbal persuasion and emotional and physiological state).(9)
+In each rated item, the woman gave a score ranging from 1 to 5 points (1 - Strongly disagree 2 Disagree, 3 - Sometimes agree, 4 - Agree and 5 Strongly agree).
+For data collection, the women were interviewed once during hospitalization and after childbirth they were contacted by telephone on the 7th,
+the 15th, the 30th, the 45th and the 60th day to monitor breastfeeding continuity.
+For statistical analysis, the data were compiled
+and analyzed using the SPSS (Statistical Package
+for Social Sciences), version 16.0. The Kolmogorov-Smirnov test was used to evaluate the adhesion
+of the dependent and independent continuous variables to the normal distribution curve. The Pearson’s correlation coefficient was calculated, and
+ANOVA was employed to compare the duration of
+breastfeeding among women with different degrees
+of self-efficacy in breastfeeding. The chi-square test
+
+was used for the association between problems in
+each stage of BF monitoring. In all analyzes, the level of significance used was p ≥ 0.05.
+The study development complied with all national and international ethical guidelines for research involving human subjects.
+
+Results
+The sociodemographic profile of the mothers who
+participated in the study can be outlined as follows:
+mean age of 32.8 years, ranging from 17 to 44
+years; most of them (94.6%) are married, Catholics
+(53.1%), have paid working activities (90%) and
+completed higher education (70%). A total of 47%
+were primipara, 43% secundipara, 87% of the deliveries were caesarean and 95.3% reported not having received any guidance on breastfeeding during
+prenatal care.
+The mean time of EBF was 53.2 days (SD 14.2),
+ranging from 15 to 60 days (Table 1).
+Tabela 1. Table 1. Frequency of feeding during the postpartum
+periods analyzed
+Days after birth
+Type of feeding
+
+7thDay
+
+15thDay
+
+30thDay
+
+45thDay
+
+60thDay
+
+n(%)
+
+n(%)
+
+n(%)
+
+n(%)
+
+n(%)
+
+100(100.00)
+
+92(92.00)
+
+84(84.00)
+
+81(81.00)
+
+79(79.00)
+
+Supplemented
+
+-
+
+8(8.00)
+
+15(15.00)
+
+14(14.00)
+
+15(15.00)
+
+Formula
+
+-
+
+-
+
+Exclusive
+
+1(1.00)
+
+5(5.00)
+
+6(6.00)
+
+At the start of monitoring, in the seventh postpartum day, 100% of the women practiced EBF.
+However, by the 15th day, 8% of mothers had
+introduced a complement, therefore practicing
+mixed feeding. On the 30th day, 15% of mothers supplemented breastfeeding with formula and
+1% had weaned the baby. Exclusive breastfeeding
+showed a progressive decline reaching 79% at 60
+days (Table 2).
+Acta Paul Enferm. 2014; 27(5):465-70
+
+467
+
+Breastfeeding self-efficacy: a cohort study
+
+Table 2. Scores obtained by mothers in the application of
+breastfeeding self-efficacy scale
+Score of self-efficacy: (n= 130)
+
+n(%)
+
+Low (14-32)
+
+-
+
+Moderate (33-51)
+
+23(17.70)
+
+High (52-70)
+
+107(82.30)
+
+Total
+
+130(100.00)
+
+BSES-SF
+
+Mean (SD)
+
+Median (Q1-Q3)
+
+Total Score
+
+60.57(5.07)
+
+62.00(58.00-64.75)
+
+The score of the breastfeeding self-efficacy scale
+varies from 14 to 70 points. When the respondent
+obtains between 14 and 32 points, she is considered
+to have Low efficacy; between 33 and 51, Moderate; and between 52 and 70, High efficacy.
+Most mothers (82.3%) had scores compatible
+with high self-efficacy for breastfeeding (52-70
+points) and there was no mother with low efficacy
+(Table 3).
+Table 3. Comparison of the duration of breastfeeding with the
+mean scores of the breastfeeding self-efficacy scale
+Breastfeeding Self-efficacy
+Moderate
+
+High
+
+Mean (SD)
+
+Mean (SD)
+
+Exclusive breastfeeding
+
+56.10(10.6)
+
+53.00(14.5)
+
+0.547
+
+Non-exclusive breastfeeding
+
+60.00(0.0)
+
+58.70(5.3)
+
+0.487
+
+Breastfeeding duration
+
+p-value
+
+SD - Standard deviation
+
+The relationship between self-efficacy and the
+duration of breastfeeding was assessed by measuring
+the correlation of the scale scores (BSES-SF) and
+the feeding time in days, as well as by comparing
+the time of breastfeeding among women with moderate and high self-efficacy.
+There was no statistically significant difference
+in the comparison of mean time of exclusive and
+non-exclusive breastfeeding, within moderate and
+high efficacy scores.
+
+468
+
+Acta Paul Enferm. 2014; 27(5):465-70
+
+Discussion
+The limitations of the findings of this study are
+related to the fact that the sample was originated
+from only one service with specific characteristics,
+and the monitoring of EBF was performed only up
+to the 60th day after delivery.
+In the sample studied, the findings did not enable to verify the self-efficacy scale as predictive for
+early weaning. On the other hand, its clinical applicability was verified as a reliable instrument to assess
+the perception of mothers about their breastfeeding self-efficacy, enabling professionals to identify
+mothers who are susceptible to succeed in breastfeeding, as well as those who may need intervention
+before hospital discharge.
+The sociodemographic profile of the participants is consistent with the neighborhood where
+they reside, economically differentiated. The percentage of cesarean sections (87%) is high, even
+for an institution that primarily assists patients
+using private health network, a result compatible
+with a 2010 study which identified a 63.6% rate
+of surgical births with an increasing trend, in these
+services.(10)
+The need for implementation of strategies that
+enable women, assisted in the private network, to
+have access to guidance on breastfeeding is evidenced by the high percentage of pregnant women
+who received no information on the subject.
+The mean duration of EBF was 53.2 days.
+This result is consistent with that identified in
+the last national survey of prevalence of breastfeeding in Brazilian state capitals and the Federal
+District, held in 2008, which identified a median
+EBF period of 54 days.
+The expectation was to find longer periods of
+EBF, since the mothers not only obtained moderate and high scores of breastfeeding self-efficacy,
+but also belong to a more privileged social class and
+presented high level of schooling, points considered
+important to maintain EBF.
+The monitoring of EBF began on the 7th day
+after delivery and 100% of women were exclusively
+breastfeeding their children. However, EBF showed
+a progressive decline, reaching 79%, at 60 days.
+
+Souza EF, Fernandes RA
+
+A study that monitored EBF up to 180 days after
+delivery revealed a higher number of abandonment after 60 days, and the percentage of mothers who exclusively breastfed up to the 60th day (70.4%) is slightly
+lower than that found in the present study (79%).(11)
+Rates of exclusive breastfeeding in Brazil are on
+a rise, but still below what is recommended by the
+WHO, which is 180 days. The percentage of 79%
+of children being exclusively breastfed, identified
+in this study, can be considered adequate, since the
+WHO attributes this concept when 50% to 89%
+of children under six months of age are exclusively
+breastfed.(11) The application of the scale allowed to
+identify that mothers presented high and moderate
+efficacy and none of them obtained results consistent with low self-efficacy.
+These results signaled that the mothers who
+participated in this study would probably maintain
+EBF for longer periods, a fact that was not consolidated at the end of monitoring.
+A studythat used the same scale (Short Form)
+in 294 postpartum women also noted the absence
+of mothers with low efficacy. However, since the
+mothers were not followed up, it was not possible
+to compare the results.(7)
+The comparison of the mean time of exclusive
+and non-exclusive breastfeeding, with the scores of
+moderate and high efficacy showed no statistically
+significant difference, which indicates that, in this
+study, the self-efficacy of the mothers did not influence the duration of breastfeeding.
+Nevertheless, these results differ from those of
+the original study, conducted in Canada, which
+evaluated maternal confidence in breastfeeding
+among 130 Canadians and found that the higher
+the BSES score, the greater the likelihood of the
+women maintaining exclusive breastfeeding at 6
+weeks postpartum (p < 001).(12)
+Another longitudinal studycarried out in Australia with 300 pregnant women evaluated the influence of changeable factors in prenatal and breastfeeding duration. The scale was applied in the last
+trimester of pregnancy, at the 1st week postpartum
+and at baby’s 4 months of life, and the results revealed that mothers who intended to breastfeed for
+less than 6 months were 2.4 times more likely to
+
+stop BF in 4 months than those who intended to
+breastfeed for more than 12 months. Similarly, the
+association of the BSES score with the duration of
+exclusive breastfeeding showed that mothers with
+higher self-efficacy scores were more likely to breastfeed longer, both one week and four months postpartum, than those presenting low self-efficacy in
+feeding (p <0.05).(13)
+
+Conclusion
+The results did not confirm whether the scale may
+be used as a predictor of risk of early weaning. In
+addition, no relation between greater scores of high
+efficacy and longer periods of exclusive breastfeeding was observed.
+Collaborations
+Souza EFC and Fernandes RAQ contributed to the
+project design, analysis and interpretation of data,
+drafting of the article, critical revision of the relevant intellectual content and final approval of the
+version to be published.
+
+References
+1. Brasil. Ministério da Saúde; Secretaria de Atenção à
+Saúde;Departamento de Atenção Básica. Saúde da criança: nutrição
+infantil: aleitamento materno e alimentação complementar [Internet].
+Brasília; 2009 [citado 2011 maio 12]. Disponível em: http://portal.
+saude.gov.br/portal/saude/area.cfm?id_area=1461.
+2. Brasil. Ministério da Saúde. II Pesquisa de Prevalência de
+Aleitamento Materno nas Capitais Brasileiras e Distrito Federal.
+Brasília: Editora do Ministério da Saúde; 2009; [citado 2010 Jun
+20 ]. Disponível em: http://portal.saúde.gov.br/portal/arquivos/
+pdf/pesquisa­_pdf.pdf.
+3. Queluz MC, Pereira MJ, Santos CB, Leite AM, Ricco RG. [Prevalence
+and determinants of exclusive breastfeeding in the city of Serrana, São
+Paulo, Brazil]. Rev Esc Enferm USP. 2012; 46(3):537-43. Portuguese.
+4. Carvalho MR, Tavares LA. Políticas públicas em aleitamento materno.
+Amamentação bases científicas 3a ed. Rio de Janeiro: Guanabara
+Koogan; 2010. cap.17, p.277-9.
+5. Passanha A, Benicio MH, Venancio SI, Reis MC. [Implementation
+of the Brazilian Breastfeeding Network and prevalence of exclusive
+breastfeeding]. Rev Saúde Pública. 2013; 47(6):1141-8. Portuguese.
+6. Polido CG, Mello DF, Parada CM Carvalhaes MA, Tonete VL. [Maternal
+experiences associated with longer term exclusive breastfeeding:
+an ethnographic study]. Acta Paul Enferm. 2011;24(5):624-30.
+Portuguese.
+Acta Paul Enferm. 2014; 27(5):465-70
+
+469
+
+Breastfeeding self-efficacy: a cohort study
+
+7. Dodt RCM. Aplicação e validação da breastfeeding self-efficacy scaleshort: em puerperas [dissertação]. Fortaleza: Universidade Federal do
+Ceará; 2008. Disponível em: http://www.revistarene.ufc.br/revista/
+index.php/revista/article/view/579/pdf.
+8. Dennis CL. The breastfeeding self-efficacy scale: psychometric
+assessment of the short form. J Obstet Gynecol Neonatal Nurs.
+2003;32(6):734-44.
+
+470
+
+ano de 2010, tendências e perspectivas. Disponível em: http://
+portalsaude.saude.gov.br/portalsaude/arquivos/pdf/2013/Fev/21/
+saudebrasil2011_parte2_cap16.pdf.
+11. Rocci E, Fernandes RA. [Breastfeeding difficulties and influence
+in the early weaning]. Rev Bras Enferm. 2014; 67(1):22-7.
+Portuguese.
+
+9. Salvetti MG, Pimenta CA. [Chronic Pain Self-Efficacy Scale portuguese
+validation]. Rev Psiq Clín. 2005; 32(4):202-10. Portuguese.
+
+12. Dennis, C.L., Faux, S. Development and psychometric testing of the
+breastfeeding self-efficacy scale. Res. Nurs. Health.1999; 22(5): 399409.
+
+10. Brasil. Ministério da Saúde. Saúde Brasil 2011: uma análise da
+situação de saúde e de evidências selecionadas de impacto de
+ações de vigilância em saúde As cesarianas no Brasil: situação no
+
+13. Blyth RJ, Creedy DK, Dennis CL, Moyle W, Pratt J, De Vries SM, et al.
+Breastfeeding duration in an Australian population: the influence of
+modifiable antenatal factors J Human Lact. 2004;20(1): 30-8.
+
+Acta Paul Enferm. 2014; 27(5):465-70
+
+
